@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ccaa6b5-81b6-4c64-810c-105b73d8e566" name="Default Changelist" comment="" />
+    <list default="true" id="5ccaa6b5-81b6-4c64-810c-105b73d8e566" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../代理模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../代理模式/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单例模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单例模式/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../原型模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../原型模式/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../建造者模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../建造者模式/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/PythonBook.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="13" selection-end-column="1" />
+              <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -49,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/AbstractFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -75,41 +81,17 @@
                   <point x="439.87500000000006" y="88.0" />
                   <point x="-17.125" y="29.0" />
                 </edge>
-                <edge source="com.company.simpleFactory.BookFactory" target="com.company.simpleFactory.Book">
-                  <point x="0.0" y="-29.0" />
-                  <point x="145.0" y="78.0" />
-                  <point x="405.62500000000006" y="78.0" />
-                  <point x="-51.375" y="29.0" />
-                </edge>
-                <edge source="com.company.simpleFactory.SimpleFactoryTest" target="com.company.simpleFactory.Book">
-                  <point x="67.5" y="-29.0" />
-                  <point x="451.375" y="196.0" />
-                  <point x="614.5" y="196.0" />
-                  <point x="614.5" y="78.0" />
-                  <point x="508.375" y="78.0" />
-                  <point x="51.37499999999999" y="29.0" />
-                </edge>
-                <edge source="com.company.simpleFactory.SimpleFactoryTest" target="com.company.simpleFactory.JavaBook">
-                  <point x="22.5" y="-29.0" />
-                  <point x="406.375" y="186.0" />
-                  <point x="535.5" y="186.0" />
-                  <point x="0.0" y="29.0" />
-                </edge>
                 <edge source="com.company.simpleFactory.JavaBook" target="com.company.simpleFactory.Book">
                   <point x="0.0" y="-29.0" />
                   <point x="535.5" y="88.0" />
                   <point x="474.12500000000006" y="88.0" />
                   <point x="17.125" y="29.0" />
                 </edge>
-                <edge source="com.company.simpleFactory.SimpleFactoryTest" target="com.company.simpleFactory.BookFactory">
-                  <point x="-67.5" y="-29.0" />
-                  <point x="316.375" y="196.0" />
-                  <point x="72.5" y="196.0" />
-                  <point x="-72.5" y="29.0" />
-                </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-442.5" y="61.0" />
-              <SelectedNodes />
+              <settings layout="Hierarchic Group" zoom="0.7692307692307693" x="302.0" y="137.0" />
+              <SelectedNodes>
+                <node>com.company.simpleFactory.Book</node>
+              </SelectedNodes>
               <Categories>
                 <Category>Fields</Category>
                 <Category>Constructors</Category>
@@ -130,8 +112,8 @@
               <nodes>
                 <node x="120.0" y="0.0">com.company.factoryMethod.BookFactory</node>
                 <node x="0.0" y="422.0">com.company.factoryMethod.FactoryMethodTest</node>
-                <node x="157.0" y="319.0">com.company.factoryMethod.JavaBook</node>
                 <node x="0.0" y="319.0">com.company.factoryMethod.PythonBook</node>
+                <node x="157.0" y="319.0">com.company.factoryMethod.JavaBook</node>
                 <node x="200.0" y="108.0">com.company.factoryMethod.JavaBookFactory</node>
                 <node x="0.0" y="108.0">com.company.factoryMethod.PythonBookFactory</node>
                 <node x="78.5" y="211.0">com.company.factoryMethod.Book</node>
@@ -144,11 +126,11 @@
                   <point x="181.25" y="294.0" />
                   <point x="34.25" y="29.0" />
                 </edge>
-                <edge source="com.company.factoryMethod.PythonBook" target="com.company.factoryMethod.Book">
+                <edge source="com.company.factoryMethod.JavaBookFactory" target="com.company.factoryMethod.BookFactory">
                   <point x="0.0" y="-29.0" />
-                  <point x="68.5" y="294.0" />
-                  <point x="112.75" y="294.0" />
-                  <point x="-34.25" y="29.0" />
+                  <point x="282.0" y="83.0" />
+                  <point x="219.0" y="83.0" />
+                  <point x="33.0" y="29.0" />
                 </edge>
                 <edge source="com.company.factoryMethod.PythonBookFactory" target="com.company.factoryMethod.BookFactory">
                   <point x="0.0" y="-29.0" />
@@ -156,15 +138,17 @@
                   <point x="153.0" y="83.0" />
                   <point x="-33.0" y="29.0" />
                 </edge>
-                <edge source="com.company.factoryMethod.JavaBookFactory" target="com.company.factoryMethod.BookFactory">
+                <edge source="com.company.factoryMethod.PythonBook" target="com.company.factoryMethod.Book">
                   <point x="0.0" y="-29.0" />
-                  <point x="282.0" y="83.0" />
-                  <point x="219.0" y="83.0" />
-                  <point x="33.0" y="29.0" />
+                  <point x="68.5" y="294.0" />
+                  <point x="112.75" y="294.0" />
+                  <point x="-34.25" y="29.0" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-386.5" y="103.5" />
-              <SelectedNodes />
+              <settings layout="Hierarchic Group" zoom="1.0" x="182.0" y="240.0" />
+              <SelectedNodes>
+                <node>com.company.factoryMethod.Book</node>
+              </SelectedNodes>
               <Categories>
                 <Category>Fields</Category>
                 <Category>Constructors</Category>
@@ -185,57 +169,59 @@
               <OriginalElement>com.company.abstractFactory.AbstractFactoryTest</OriginalElement>
               <nodes>
                 <node x="0.0" y="154.0">com.company.abstractFactory.JavaKnowledgeFactory</node>
+                <node x="410.5" y="280.0">com.company.abstractFactory.Book</node>
                 <node x="0.0" y="491.0">com.company.abstractFactory.AbstractFactoryTest</node>
-                <node x="435.5" y="280.0">com.company.abstractFactory.Book</node>
                 <node x="0.0" y="388.0">com.company.abstractFactory.JavaVideo</node>
-                <node x="166.0" y="388.0">com.company.abstractFactory.PythonVideo</node>
-                <node x="224.0" y="154.0">com.company.abstractFactory.PythonKnowledgeFactory</node>
-                <node x="83.0" y="280.0">com.company.abstractFactory.Video</node>
-                <node x="357.0" y="388.0">com.company.abstractFactory.PythonBook</node>
-                <node x="514.0" y="388.0">com.company.abstractFactory.JavaBook</node>
-                <node x="132.0" y="0.0">com.company.abstractFactory.KnowledgeFactory</node>
+                <node x="156.0" y="388.0">com.company.abstractFactory.PythonVideo</node>
+                <node x="214.0" y="154.0">com.company.abstractFactory.PythonKnowledgeFactory</node>
+                <node x="78.0" y="280.0">com.company.abstractFactory.Video</node>
+                <node x="337.0" y="388.0">com.company.abstractFactory.PythonBook</node>
+                <node x="484.0" y="388.0">com.company.abstractFactory.JavaBook</node>
+                <node x="127.0" y="0.0">com.company.abstractFactory.KnowledgeFactory</node>
               </nodes>
               <notes />
               <edges>
                 <edge source="com.company.abstractFactory.PythonVideo" target="com.company.abstractFactory.Video">
                   <point x="0.0" y="-29.0" />
-                  <point x="239.0" y="363.0" />
-                  <point x="192.5" y="363.0" />
-                  <point x="36.5" y="29.0" />
+                  <point x="224.0" y="363.0" />
+                  <point x="180.0" y="363.0" />
+                  <point x="34.0" y="29.0" />
                 </edge>
                 <edge source="com.company.abstractFactory.JavaKnowledgeFactory" target="com.company.abstractFactory.KnowledgeFactory">
                   <point x="0.0" y="-40.5" />
-                  <point x="102.0" y="129.0" />
-                  <point x="175.0" y="129.0" />
-                  <point x="-43.0" y="52.0" />
+                  <point x="97.0" y="129.0" />
+                  <point x="167.5" y="129.0" />
+                  <point x="-40.5" y="52.0" />
                 </edge>
                 <edge source="com.company.abstractFactory.PythonBook" target="com.company.abstractFactory.Book">
                   <point x="0.0" y="-29.0" />
-                  <point x="425.5" y="363.0" />
-                  <point x="469.75" y="363.0" />
-                  <point x="-34.25" y="29.0" />
+                  <point x="400.5" y="363.0" />
+                  <point x="442.25" y="363.0" />
+                  <point x="-31.75" y="29.0" />
                 </edge>
                 <edge source="com.company.abstractFactory.JavaVideo" target="com.company.abstractFactory.Video">
                   <point x="0.0" y="-29.0" />
-                  <point x="73.0" y="363.0" />
-                  <point x="119.5" y="363.0" />
-                  <point x="-36.5" y="29.0" />
+                  <point x="68.0" y="363.0" />
+                  <point x="112.0" y="363.0" />
+                  <point x="-34.0" y="29.0" />
                 </edge>
                 <edge source="com.company.abstractFactory.JavaBook" target="com.company.abstractFactory.Book">
                   <point x="0.0" y="-29.0" />
-                  <point x="582.5" y="363.0" />
-                  <point x="538.25" y="363.0" />
-                  <point x="34.25" y="29.0" />
+                  <point x="547.5" y="363.0" />
+                  <point x="505.75" y="363.0" />
+                  <point x="31.75" y="29.0" />
                 </edge>
                 <edge source="com.company.abstractFactory.PythonKnowledgeFactory" target="com.company.abstractFactory.KnowledgeFactory">
                   <point x="0.0" y="-40.5" />
-                  <point x="334.0" y="129.0" />
-                  <point x="261.0" y="129.0" />
-                  <point x="43.0" y="52.0" />
+                  <point x="319.0" y="129.0" />
+                  <point x="248.5" y="129.0" />
+                  <point x="40.5" y="52.0" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="246.5" y="365.0" />
-              <SelectedNodes />
+              <settings layout="Hierarchic Group" zoom="0.7153502235469449" x="1118.1187499999999" y="544.9968749999999" />
+              <SelectedNodes>
+                <node>com.company.abstractFactory.AbstractFactoryTest</node>
+              </SelectedNodes>
               <Categories>
                 <Category>Fields</Category>
                 <Category>Constructors</Category>
@@ -289,6 +275,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -318,12 +307,14 @@
     <option name="width" value="1136" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -367,7 +358,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -482,16 +472,26 @@
       <updated>1599640990388</updated>
       <workItem from="1599640997261" duration="5102000" />
       <workItem from="1599655936540" duration="1946000" />
+      <workItem from="1602235855779" duration="148000" />
     </task>
+    <task id="LOCAL-00001" summary="工厂模式">
+      <created>1602235875553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602235875553</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7048000" />
+    <option name="totallyTimeSpent" value="7196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1380597" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -527,6 +527,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="工厂模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="工厂模式" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
@@ -675,17 +679,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/Video.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/PythonBook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -707,28 +704,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/PythonBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/PythonVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/AbstractFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -752,41 +731,17 @@
               <point x="439.87500000000006" y="88.0" />
               <point x="-17.125" y="29.0" />
             </edge>
-            <edge source="com.company.simpleFactory.BookFactory" target="com.company.simpleFactory.Book">
-              <point x="0.0" y="-29.0" />
-              <point x="145.0" y="78.0" />
-              <point x="405.62500000000006" y="78.0" />
-              <point x="-51.375" y="29.0" />
-            </edge>
-            <edge source="com.company.simpleFactory.SimpleFactoryTest" target="com.company.simpleFactory.Book">
-              <point x="67.5" y="-29.0" />
-              <point x="451.375" y="196.0" />
-              <point x="614.5" y="196.0" />
-              <point x="614.5" y="78.0" />
-              <point x="508.375" y="78.0" />
-              <point x="51.37499999999999" y="29.0" />
-            </edge>
-            <edge source="com.company.simpleFactory.SimpleFactoryTest" target="com.company.simpleFactory.JavaBook">
-              <point x="22.5" y="-29.0" />
-              <point x="406.375" y="186.0" />
-              <point x="535.5" y="186.0" />
-              <point x="0.0" y="29.0" />
-            </edge>
             <edge source="com.company.simpleFactory.JavaBook" target="com.company.simpleFactory.Book">
               <point x="0.0" y="-29.0" />
               <point x="535.5" y="88.0" />
               <point x="474.12500000000006" y="88.0" />
               <point x="17.125" y="29.0" />
             </edge>
-            <edge source="com.company.simpleFactory.SimpleFactoryTest" target="com.company.simpleFactory.BookFactory">
-              <point x="-67.5" y="-29.0" />
-              <point x="316.375" y="196.0" />
-              <point x="72.5" y="196.0" />
-              <point x="-72.5" y="29.0" />
-            </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-442.5" y="61.0" />
-          <SelectedNodes />
+          <settings layout="Hierarchic Group" zoom="0.7692307692307693" x="302.0" y="137.0" />
+          <SelectedNodes>
+            <node>com.company.simpleFactory.Book</node>
+          </SelectedNodes>
           <Categories>
             <Category>Fields</Category>
             <Category>Constructors</Category>
@@ -805,8 +760,8 @@
           <nodes>
             <node x="120.0" y="0.0">com.company.factoryMethod.BookFactory</node>
             <node x="0.0" y="422.0">com.company.factoryMethod.FactoryMethodTest</node>
-            <node x="157.0" y="319.0">com.company.factoryMethod.JavaBook</node>
             <node x="0.0" y="319.0">com.company.factoryMethod.PythonBook</node>
+            <node x="157.0" y="319.0">com.company.factoryMethod.JavaBook</node>
             <node x="200.0" y="108.0">com.company.factoryMethod.JavaBookFactory</node>
             <node x="0.0" y="108.0">com.company.factoryMethod.PythonBookFactory</node>
             <node x="78.5" y="211.0">com.company.factoryMethod.Book</node>
@@ -819,11 +774,11 @@
               <point x="181.25" y="294.0" />
               <point x="34.25" y="29.0" />
             </edge>
-            <edge source="com.company.factoryMethod.PythonBook" target="com.company.factoryMethod.Book">
+            <edge source="com.company.factoryMethod.JavaBookFactory" target="com.company.factoryMethod.BookFactory">
               <point x="0.0" y="-29.0" />
-              <point x="68.5" y="294.0" />
-              <point x="112.75" y="294.0" />
-              <point x="-34.25" y="29.0" />
+              <point x="282.0" y="83.0" />
+              <point x="219.0" y="83.0" />
+              <point x="33.0" y="29.0" />
             </edge>
             <edge source="com.company.factoryMethod.PythonBookFactory" target="com.company.factoryMethod.BookFactory">
               <point x="0.0" y="-29.0" />
@@ -831,15 +786,17 @@
               <point x="153.0" y="83.0" />
               <point x="-33.0" y="29.0" />
             </edge>
-            <edge source="com.company.factoryMethod.JavaBookFactory" target="com.company.factoryMethod.BookFactory">
+            <edge source="com.company.factoryMethod.PythonBook" target="com.company.factoryMethod.Book">
               <point x="0.0" y="-29.0" />
-              <point x="282.0" y="83.0" />
-              <point x="219.0" y="83.0" />
-              <point x="33.0" y="29.0" />
+              <point x="68.5" y="294.0" />
+              <point x="112.75" y="294.0" />
+              <point x="-34.25" y="29.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-386.5" y="103.5" />
-          <SelectedNodes />
+          <settings layout="Hierarchic Group" zoom="1.0" x="182.0" y="240.0" />
+          <SelectedNodes>
+            <node>com.company.factoryMethod.Book</node>
+          </SelectedNodes>
           <Categories>
             <Category>Fields</Category>
             <Category>Constructors</Category>
@@ -851,6 +808,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/PythonVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="uml://JAVA/com.company.abstractFactory.AbstractFactoryTest">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -858,57 +840,59 @@
           <OriginalElement>com.company.abstractFactory.AbstractFactoryTest</OriginalElement>
           <nodes>
             <node x="0.0" y="154.0">com.company.abstractFactory.JavaKnowledgeFactory</node>
+            <node x="410.5" y="280.0">com.company.abstractFactory.Book</node>
             <node x="0.0" y="491.0">com.company.abstractFactory.AbstractFactoryTest</node>
-            <node x="435.5" y="280.0">com.company.abstractFactory.Book</node>
             <node x="0.0" y="388.0">com.company.abstractFactory.JavaVideo</node>
-            <node x="166.0" y="388.0">com.company.abstractFactory.PythonVideo</node>
-            <node x="224.0" y="154.0">com.company.abstractFactory.PythonKnowledgeFactory</node>
-            <node x="83.0" y="280.0">com.company.abstractFactory.Video</node>
-            <node x="357.0" y="388.0">com.company.abstractFactory.PythonBook</node>
-            <node x="514.0" y="388.0">com.company.abstractFactory.JavaBook</node>
-            <node x="132.0" y="0.0">com.company.abstractFactory.KnowledgeFactory</node>
+            <node x="156.0" y="388.0">com.company.abstractFactory.PythonVideo</node>
+            <node x="214.0" y="154.0">com.company.abstractFactory.PythonKnowledgeFactory</node>
+            <node x="78.0" y="280.0">com.company.abstractFactory.Video</node>
+            <node x="337.0" y="388.0">com.company.abstractFactory.PythonBook</node>
+            <node x="484.0" y="388.0">com.company.abstractFactory.JavaBook</node>
+            <node x="127.0" y="0.0">com.company.abstractFactory.KnowledgeFactory</node>
           </nodes>
           <notes />
           <edges>
             <edge source="com.company.abstractFactory.PythonVideo" target="com.company.abstractFactory.Video">
               <point x="0.0" y="-29.0" />
-              <point x="239.0" y="363.0" />
-              <point x="192.5" y="363.0" />
-              <point x="36.5" y="29.0" />
+              <point x="224.0" y="363.0" />
+              <point x="180.0" y="363.0" />
+              <point x="34.0" y="29.0" />
             </edge>
             <edge source="com.company.abstractFactory.JavaKnowledgeFactory" target="com.company.abstractFactory.KnowledgeFactory">
               <point x="0.0" y="-40.5" />
-              <point x="102.0" y="129.0" />
-              <point x="175.0" y="129.0" />
-              <point x="-43.0" y="52.0" />
+              <point x="97.0" y="129.0" />
+              <point x="167.5" y="129.0" />
+              <point x="-40.5" y="52.0" />
             </edge>
             <edge source="com.company.abstractFactory.PythonBook" target="com.company.abstractFactory.Book">
               <point x="0.0" y="-29.0" />
-              <point x="425.5" y="363.0" />
-              <point x="469.75" y="363.0" />
-              <point x="-34.25" y="29.0" />
+              <point x="400.5" y="363.0" />
+              <point x="442.25" y="363.0" />
+              <point x="-31.75" y="29.0" />
             </edge>
             <edge source="com.company.abstractFactory.JavaVideo" target="com.company.abstractFactory.Video">
               <point x="0.0" y="-29.0" />
-              <point x="73.0" y="363.0" />
-              <point x="119.5" y="363.0" />
-              <point x="-36.5" y="29.0" />
+              <point x="68.0" y="363.0" />
+              <point x="112.0" y="363.0" />
+              <point x="-34.0" y="29.0" />
             </edge>
             <edge source="com.company.abstractFactory.JavaBook" target="com.company.abstractFactory.Book">
               <point x="0.0" y="-29.0" />
-              <point x="582.5" y="363.0" />
-              <point x="538.25" y="363.0" />
-              <point x="34.25" y="29.0" />
+              <point x="547.5" y="363.0" />
+              <point x="505.75" y="363.0" />
+              <point x="31.75" y="29.0" />
             </edge>
             <edge source="com.company.abstractFactory.PythonKnowledgeFactory" target="com.company.abstractFactory.KnowledgeFactory">
               <point x="0.0" y="-40.5" />
-              <point x="334.0" y="129.0" />
-              <point x="261.0" y="129.0" />
-              <point x="43.0" y="52.0" />
+              <point x="319.0" y="129.0" />
+              <point x="248.5" y="129.0" />
+              <point x="40.5" y="52.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="246.5" y="365.0" />
-          <SelectedNodes />
+          <settings layout="Hierarchic Group" zoom="0.7153502235469449" x="1118.1187499999999" y="544.9968749999999" />
+          <SelectedNodes>
+            <node>com.company.abstractFactory.AbstractFactoryTest</node>
+          </SelectedNodes>
           <Categories>
             <Category>Fields</Category>
             <Category>Constructors</Category>
