@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b04ea0c8-28d1-4514-8327-be68db4d6ffd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/integer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/string/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/weight/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/weight/Ticket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/TicketFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/weight/TicketFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/TrainTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/weight/TrainTicket.java" afterDir="false" />
-    </list>
+    <list default="true" id="b04ea0c8-28d1-4514-8327-be68db4d6ffd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/integer/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="150">
+              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://F:/JavaJdk8/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="828" selection-start-line="828" selection-end-line="832" selection-end-column="5" />
+            <state relative-caret-position="288">
+              <caret line="832" column="5" lean-forward="true" selection-start-line="832" selection-start-column="5" selection-end-line="832" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -121,8 +112,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="735" />
-    <option name="y" value="78" />
+    <option name="x" value="226" />
+    <option name="y" value="157" />
     <option name="width" value="1554" />
     <option name="height" value="1048" />
   </component>
@@ -138,6 +129,24 @@
             <path>
               <item name="享元模式" type="b2602c69:ProjectViewProjectNode" />
               <item name="享元模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="享元模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="享元模式" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="享元模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="享元模式" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="享元模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="享元模式" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="integer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,7 +230,7 @@
       <updated>1602647372952</updated>
       <workItem from="1602647377490" duration="254000" />
       <workItem from="1602660388357" duration="1807000" />
-      <workItem from="1602676769284" duration="771000" />
+      <workItem from="1602676769284" duration="869000" />
     </task>
     <task id="LOCAL-00001" summary="享元模式的架构">
       <created>1602647423628</created>
@@ -237,26 +246,32 @@
       <option name="project" value="LOCAL" />
       <updated>1602660654557</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="享元模式的源码分析测试">
+      <created>1602677587206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602677587206</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2832000" />
+    <option name="totallyTimeSpent" value="2930000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="735" y="78" width="1554" height="1048" extended-state="0" />
-    <editor active="true" />
+    <frame x="226" y="157" width="1554" height="1048" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25635877" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498452" visible="true" weight="0.25635877" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Structure" order="6" sideWeight="0.501548" weight="0.25635877" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29321662" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29321662" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -288,7 +303,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="享元模式的架构" />
     <MESSAGE value="享元模式的改进" />
-    <option name="LAST_COMMIT_MESSAGE" value="享元模式的改进" />
+    <MESSAGE value="享元模式的源码分析测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="享元模式的源码分析测试" />
   </component>
   <component name="editorHistoryManager">
     <entry file="uml://JAVA/com.company.TrainTicket">
@@ -445,17 +461,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/integer/Main.java">
+    <entry file="jar://F:/JavaJdk8/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="288">
+          <caret line="832" column="5" lean-forward="true" selection-start-line="832" selection-start-column="5" selection-end-line="832" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://F:/JavaJdk8/src.zip!/java/lang/Integer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/integer/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="828" selection-start-line="828" selection-end-line="832" selection-end-column="5" />
+        <state relative-caret-position="150">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
         </state>
       </provider>
     </entry>
