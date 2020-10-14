@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b04ea0c8-28d1-4514-8327-be68db4d6ffd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/integer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/string/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/TicketFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TicketFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/weight/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/weight/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/TicketFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/weight/TicketFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/TrainTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/weight/TrainTicket.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,46 +19,71 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/weight/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/weight/Ticket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/string/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" selection-start-line="8" selection-end-line="29" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/integer/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+        <entry file="jar://F:/JavaJdk8/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="188">
+              <caret line="828" selection-start-line="828" selection-end-line="832" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Ticket.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/weight/TrainTicket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            <state relative-caret-position="250">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/TrainTicket.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/weight/TicketFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="25" column="88" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/TicketFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="250">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#289#305#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,23 +99,32 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>valueOf</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Ticket.java" />
         <option value="$PROJECT_DIR$/src/com/company/TrainTicket.java" />
         <option value="$PROJECT_DIR$/src/com/company/TicketFactory.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Ticket.java" />
+        <option value="$PROJECT_DIR$/src/com/company/weight/TicketFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/company/string/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/integer/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="638" />
-    <option name="width" value="1553" />
-    <option name="height" value="1047" />
+    <option name="x" value="735" />
+    <option name="y" value="78" />
+    <option name="width" value="1554" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -93,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,21 +139,11 @@
               <item name="享元模式" type="b2602c69:ProjectViewProjectNode" />
               <item name="享元模式" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="享元模式" type="b2602c69:ProjectViewProjectNode" />
-              <item name="享元模式" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="享元模式" type="b2602c69:ProjectViewProjectNode" />
-              <item name="享元模式" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -136,9 +164,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.string.Main" />
+      <module name="享元模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.integer.Main" />
+      <module name="享元模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.integer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.company.weight.Main" />
       <module name="享元模式" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -149,6 +203,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -164,7 +220,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602647372952</updated>
       <workItem from="1602647377490" duration="254000" />
-      <workItem from="1602660388357" duration="241000" />
+      <workItem from="1602660388357" duration="1807000" />
+      <workItem from="1602676769284" duration="771000" />
     </task>
     <task id="LOCAL-00001" summary="享元模式的架构">
       <created>1602647423628</created>
@@ -173,29 +230,33 @@
       <option name="project" value="LOCAL" />
       <updated>1602647423628</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="享元模式的改进">
+      <created>1602660654557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602660654557</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="495000" />
+    <option name="totallyTimeSpent" value="2832000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="638" y="0" width="1553" height="1047" extended-state="0" />
+    <frame x="735" y="78" width="1554" height="1048" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25318152" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25635877" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="MyBatis Log" />
-      <window_info anchor="bottom" id="JProfiler" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29321662" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -205,6 +266,9 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="JProfiler" order="13" />
+      <window_info anchor="bottom" id="MyBatis Log" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -223,38 +287,175 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="享元模式的架构" />
-    <option name="LAST_COMMIT_MESSAGE" value="享元模式的架构" />
+    <MESSAGE value="享元模式的改进" />
+    <option name="LAST_COMMIT_MESSAGE" value="享元模式的改进" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Ticket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+    <entry file="uml://JAVA/com.company.TrainTicket">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.company.TrainTicket</OriginalElement>
+          <nodes>
+            <node x="0.0" y="108.0">com.company.weight.TrainTicket</node>
+            <node x="48.54444444444445" y="216.0">com.company.weight.TicketFactory</node>
+            <node x="156.83333333333334" y="324.0">com.company.weight.Main</node>
+            <node x="119.21944444444446" y="0.0">com.company.weight.Ticket</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.company.weight.Main" target="com.company.weight.TicketFactory">
+              <point x="-37.25" y="-29.0" />
+              <point x="194.08333333333334" y="299.0" />
+              <point x="163.54444444444445" y="299.0" />
+              <point x="0.0" y="29.0" />
+            </edge>
+            <edge source="com.company.weight.Main" target="com.company.weight.Ticket">
+              <point x="37.25" y="-29.0" />
+              <point x="268.58333333333337" y="299.0" />
+              <point x="289.0444444444445" y="299.0" />
+              <point x="289.0444444444445" y="83.0" />
+              <point x="268.6194444444444" y="83.0" />
+              <point x="66.39999999999998" y="29.0" />
+            </edge>
+            <edge source="com.company.weight.TicketFactory" target="com.company.weight.Ticket">
+              <point x="86.25" y="-29.0" />
+              <point x="249.79444444444445" y="191.0" />
+              <point x="214.21666666666667" y="191.0" />
+              <point x="214.21666666666667" y="83.0" />
+              <point x="235.41944444444445" y="83.0" />
+              <point x="33.19999999999999" y="29.0" />
+            </edge>
+            <edge source="com.company.weight.TrainTicket" target="com.company.weight.Ticket">
+              <point x="0.0" y="-29.0" />
+              <point x="83.0" y="83.0" />
+              <point x="135.81944444444446" y="83.0" />
+              <point x="-66.4" y="29.0" />
+            </edge>
+            <edge source="com.company.weight.TicketFactory" target="com.company.weight.TrainTicket">
+              <point x="-86.25" y="-29.0" />
+              <point x="77.29444444444445" y="191.0" />
+              <point x="83.0" y="191.0" />
+              <point x="0.0" y="29.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-183.0" y="85.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TrainTicket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="25" column="88" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
+    <entry file="uml://JAVA/com.company.Ticket">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.company.Ticket</OriginalElement>
+          <nodes>
+            <node x="0.0" y="108.0">com.company.weight.TrainTicket</node>
+            <node x="48.54444444444445" y="216.0">com.company.weight.TicketFactory</node>
+            <node x="156.83333333333334" y="324.0">com.company.weight.Main</node>
+            <node x="119.21944444444446" y="0.0">com.company.weight.Ticket</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.company.weight.Main" target="com.company.weight.TicketFactory">
+              <point x="-37.25" y="-29.0" />
+              <point x="194.08333333333334" y="299.0" />
+              <point x="163.54444444444445" y="299.0" />
+              <point x="0.0" y="29.0" />
+            </edge>
+            <edge source="com.company.weight.Main" target="com.company.weight.Ticket">
+              <point x="37.25" y="-29.0" />
+              <point x="268.58333333333337" y="299.0" />
+              <point x="289.0444444444445" y="299.0" />
+              <point x="289.0444444444445" y="83.0" />
+              <point x="268.6194444444444" y="83.0" />
+              <point x="66.39999999999998" y="29.0" />
+            </edge>
+            <edge source="com.company.weight.TicketFactory" target="com.company.weight.Ticket">
+              <point x="86.25" y="-29.0" />
+              <point x="249.79444444444445" y="191.0" />
+              <point x="214.21666666666667" y="191.0" />
+              <point x="214.21666666666667" y="83.0" />
+              <point x="235.41944444444445" y="83.0" />
+              <point x="33.19999999999999" y="29.0" />
+            </edge>
+            <edge source="com.company.weight.TrainTicket" target="com.company.weight.Ticket">
+              <point x="0.0" y="-29.0" />
+              <point x="83.0" y="83.0" />
+              <point x="135.81944444444446" y="83.0" />
+              <point x="-66.4" y="29.0" />
+            </edge>
+            <edge source="com.company.weight.TicketFactory" target="com.company.weight.TrainTicket">
+              <point x="-86.25" y="-29.0" />
+              <point x="77.29444444444445" y="191.0" />
+              <point x="83.0" y="191.0" />
+              <point x="0.0" y="29.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-183.0" y="85.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TicketFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/weight/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/weight/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/weight/TrainTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/weight/TicketFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#289#305#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/string/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/integer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/JavaJdk8/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="828" selection-start-line="828" selection-end-line="832" selection-end-column="5" />
         </state>
       </provider>
     </entry>

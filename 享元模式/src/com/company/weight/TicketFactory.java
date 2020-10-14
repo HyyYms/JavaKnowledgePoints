@@ -1,4 +1,4 @@
-package com.company;
+package com.company.weight;
 
 import java.util.concurrent.ConcurrentHashMap;
 
