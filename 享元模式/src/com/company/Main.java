@@ -6,6 +6,7 @@ public class Main {
 
         Ticket ticket = TicketFactory.queryTicket("广州南", "虎门");
         ticket.showInfo("一等座");
-        
+        ticket = TicketFactory.queryTicket("广州南", "虎门");
+        ticket.showInfo("一等座");
     }
 }
