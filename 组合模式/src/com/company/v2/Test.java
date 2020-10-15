@@ -37,6 +37,5 @@ public class Test {
 
         System.out.println("----------list()方法效果-----------");
         root.list();
-
     }
 }
