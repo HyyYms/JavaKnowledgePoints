@@ -6,7 +6,7 @@ package com.company.objectAdapter;
  * @author: Mr.Huang
  * @create: 2020-10-15 08:51
  **/
-public class PowerAdapter extends AC220 implements DC5 {
+public class PowerAdapter implements DC5 {
 
     private AC220 ac220;
 
