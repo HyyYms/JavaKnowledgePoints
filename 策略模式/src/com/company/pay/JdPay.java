@@ -6,7 +6,7 @@ package com.company.pay;
  * @author: Mr.Huang
  * @create: 2020-10-16 09:52
  **/
-public class JdPay extends Payment{
+public class JdPay extends Payment {
     @Override
     public String getName() {
         return "京东支付";
