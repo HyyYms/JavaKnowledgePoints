@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bdbb4f4-b079-4bad-9707-336a0abdf40d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../状态模式/src/com/company/AppContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../状态模式/src/com/company/LoginState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../状态模式/src/com/company/UnLoginState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../状态模式/src/com/company/UserState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../状态模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../状态模式/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../状态模式/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../状态模式/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7bdbb4f4-b079-4bad-9707-336a0abdf40d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -255,10 +247,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="479" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
