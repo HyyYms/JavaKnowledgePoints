@@ -7,7 +7,8 @@ package com.company;
  * @create: 2020-10-18 20:28
  **/
 public class Editor {
-      private String title;
+
+    private String title;
     private String content;
     private String imgs;
 
@@ -41,12 +42,12 @@ public class Editor {
         this.imgs = imgs;
     }
 
-    public ArticleMemento saveToMemento(){
-        ArticleMemento articleMemento = new ArticleMemento(this.title,this.content,this.imgs);
+    public ArticleMemento saveToMemento() {
+        ArticleMemento articleMemento = new ArticleMemento(this.title, this.content, this.imgs);
         return articleMemento;
     }
 
-    public void undoFromMemento(ArticleMemento articleMemento){
+    public void undoFromMemento(ArticleMemento articleMemento) {
         this.title = articleMemento.getTitle();
         this.content = articleMemento.getContent();
         this.imgs = articleMemento.getImgs();
