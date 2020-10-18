@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bdbb4f4-b079-4bad-9707-336a0abdf40d" name="Default Changelist" comment="" />
+    <list default="true" id="7bdbb4f4-b079-4bad-9707-336a0abdf40d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../状态模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../状态模式/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +134,7 @@
                   <point x="21.375" y="52.0" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="331.0" y="228.0" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="331.0" y="380.0" />
               <SelectedNodes />
               <Categories>
                 <Category>Methods</Category>
@@ -248,8 +250,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="479" />
+    <option name="y" value="4" />
     <option name="width" value="1936" />
-    <option name="height" value="1047" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -381,7 +384,7 @@
       <window_info anchor="bottom" id="MyBatis Log" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -579,7 +582,7 @@
               <point x="21.375" y="52.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="331.0" y="228.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="331.0" y="380.0" />
           <SelectedNodes />
           <Categories>
             <Category>Methods</Category>
