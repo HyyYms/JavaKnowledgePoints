@@ -15,6 +15,7 @@ public class Main {
         courseAggregate.add(python);
         courseAggregate.add(js);
 
+
         System.out.println("---课程列表---");
         printCourse(courseAggregate);
         courseAggregate.remove(js);
