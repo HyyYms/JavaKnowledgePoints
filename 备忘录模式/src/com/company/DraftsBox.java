@@ -1,5 +1,7 @@
 package com.company;
 
+import java.util.Stack;
+
 /**
  * @program: 备忘录模式
  * @description:

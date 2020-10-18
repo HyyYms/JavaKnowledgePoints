@@ -1,12 +1,14 @@
 package com.company;
 
 public class Main {
+    public static void main(String[] args) {
 
     DraftsBox draftsBox = new DraftsBox();
 
         Editor editor = new Editor("标题", "内容","图片");
 
         ArticleMemento articleMemento = editor.saveToMemento();
+
         draftsBox.addMemento(articleMemento);
 
         System.out.println("标题：" + editor.getTitle() + "\n" +

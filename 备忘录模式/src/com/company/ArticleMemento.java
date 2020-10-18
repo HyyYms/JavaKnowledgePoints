@@ -6,7 +6,7 @@ package com.company;
  * @author: Mr.Huang
  * @create: 2020-10-18 20:29
  **/
-public class ArticleMmento {
+public class ArticleMemento {
     private String title;
     private String content;
     private String imgs;

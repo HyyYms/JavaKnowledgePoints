@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16a23a69-cbe3-49c5-a6f6-0353cdb88756" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../备忘录模式/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../备忘录模式/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../备忘录模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../备忘录模式/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="16a23a69-cbe3-49c5-a6f6-0353cdb88756" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,21 +10,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="200">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/状态模式.iml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -86,8 +80,8 @@
               <OriginalElement>com.company.AppContext</OriginalElement>
               <nodes>
                 <node x="211.10185185185188" y="318.0">com.company.AppContext</node>
-                <node x="0.0" y="164.0">com.company.UnLoginState</node>
                 <node x="187.00000000000003" y="175.5">com.company.LoginState</node>
+                <node x="0.0" y="164.0">com.company.UnLoginState</node>
                 <node x="258.5" y="495.0">com.company.Main</node>
                 <node x="220.60185185185185" y="0.0">com.company.UserState</node>
               </nodes>
@@ -154,6 +148,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -177,7 +172,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,6 +232,7 @@
       <workItem from="1603008036330" duration="2906000" />
       <workItem from="1603023459136" duration="480000" />
       <workItem from="1603023964395" duration="152000" />
+      <workItem from="1603024393667" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="状态模式的架构">
       <created>1603008481345</created>
@@ -264,13 +259,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3538000" />
+    <option name="totallyTimeSpent" value="3567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11940298" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.120469086" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -389,13 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/UserState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -439,8 +427,8 @@
           <OriginalElement>com.company.AppContext</OriginalElement>
           <nodes>
             <node x="211.10185185185188" y="318.0">com.company.AppContext</node>
-            <node x="0.0" y="164.0">com.company.UnLoginState</node>
             <node x="187.00000000000003" y="175.5">com.company.LoginState</node>
+            <node x="0.0" y="164.0">com.company.UnLoginState</node>
             <node x="258.5" y="495.0">com.company.Main</node>
             <node x="220.60185185185185" y="0.0">com.company.UserState</node>
           </nodes>
@@ -473,6 +461,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/状态模式.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
