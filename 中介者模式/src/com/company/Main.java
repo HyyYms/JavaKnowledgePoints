@@ -3,6 +3,11 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        Mediator mediator = new ConcreteMediator();
+        ConcreteColleagueA colleagueA = new ConcreteColleagueA(mediator);
+        ConcreteColleagueB colleagueB = new ConcreteColleagueB(mediator);
+        colleagueA.depMethodA();
+        System.out.println("-------------------------");
+        colleagueB.depMethodB();
     }
 }
