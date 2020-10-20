@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab2d6674-5dd1-4158-a1e7-a2311c27b1d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/SpringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/AddInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/AddInterpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/ArithmeticInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/ArithmeticInterpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/DivInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/DivInterpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/Interpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/MultiInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/MultiInterpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/NumInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/NumInterpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/OperatorUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/OperatorUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/SubInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/SubInterpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/general/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/general/Context.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/general/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/general/Expression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/general/NonterminalExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/general/NonterminalExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/general/TerminalExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/general/TerminalExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/general/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/general/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/解释器模式.iml" beforeDir="false" afterPath="$PROJECT_DIR$/解释器模式.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,28 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/Interpreter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/MultiInterpreter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#343#344#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/NumInterpreter.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -130,11 +84,33 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/SpringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+            <state relative-caret-position="500">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.2.RELEASE/spring-expression-5.0.2.RELEASE.jar!/org/springframework/expression/spel/standard/SpelExpressionParser.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.2.RELEASE/spring-expression-5.0.2.RELEASE.jar!/org/springframework/expression/ExpressionParser.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -368,7 +344,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603185744026</updated>
-      <workItem from="1603185746527" duration="3441000" />
+      <workItem from="1603185746527" duration="3781000" />
     </task>
     <task id="LOCAL-00001" summary="解释器模式的架构">
       <created>1603185781387</created>
@@ -391,11 +367,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603187607321</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="解释器模式的Spring框架应用">
+      <created>1603195531003</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603195531003</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3441000" />
+    <option name="totallyTimeSpent" value="3781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -406,7 +389,7 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24733475" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -418,7 +401,7 @@
       <window_info anchor="bottom" id="MyBatis Log" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -478,7 +461,8 @@
     <MESSAGE value="解释器模式的架构" />
     <MESSAGE value="解释器模式的通用写法" />
     <MESSAGE value="解释器模式的四则运算示例" />
-    <option name="LAST_COMMIT_MESSAGE" value="解释器模式的四则运算示例" />
+    <MESSAGE value="解释器模式的Spring框架应用" />
+    <option name="LAST_COMMIT_MESSAGE" value="解释器模式的Spring框架应用" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -631,15 +615,106 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.2.RELEASE/spring-expression-5.0.2.RELEASE.jar!/org/springframework/expression/ExpressionParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.2.RELEASE/spring-expression-5.0.2.RELEASE.jar!/org/springframework/expression/spel/standard/SpelExpressionParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/SpringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+        <state relative-caret-position="500">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>解释器模式</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.205298" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
