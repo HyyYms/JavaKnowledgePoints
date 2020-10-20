@@ -6,7 +6,7 @@ package com.company.calculate;
  * @author: Mr.Huang
  * @create: 2020-10-20 17:30
  **/
-public abstract class Interpreter implements ArithmeticInterpreter{
+public abstract class Interpreter implements ArithmeticInterpreter {
 
     protected ArithmeticInterpreter left;
     protected ArithmeticInterpreter right;
@@ -15,4 +15,5 @@ public abstract class Interpreter implements ArithmeticInterpreter{
         this.left = left;
         this.right = right;
     }
+
 }

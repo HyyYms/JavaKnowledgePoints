@@ -2,19 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab2d6674-5dd1-4158-a1e7-a2311c27b1d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/calculate/AddInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/calculate/ArithmeticInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/calculate/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/calculate/DivInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/calculate/Interpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/calculate/MultiInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/calculate/NumInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/calculate/OperatorUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/calculate/SubInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/calculate/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/SpringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/AddInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/AddInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/ArithmeticInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/ArithmeticInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/DivInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/DivInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/Interpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/MultiInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/MultiInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/NumInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/NumInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/OperatorUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/OperatorUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/SubInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/SubInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/calculate/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/calculate/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/general/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/general/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/general/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/general/Expression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/general/NonterminalExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/general/NonterminalExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/general/TerminalExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/general/TerminalExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/general/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/general/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/解释器模式.iml" beforeDir="false" afterPath="$PROJECT_DIR$/解释器模式.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,56 +43,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/calculate/ArithmeticInterpreter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/Interpreter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="450">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/calculate/Interpreter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/MultiInterpreter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/calculate/AddInterpreter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="300">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/calculate/DivInterpreter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/calculate/MultiInterpreter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
+                <element signature="e#343#344#0" expanded="true" />
                 <element signature="e#412#413#0" expanded="true" />
               </folding>
             </state>
@@ -85,63 +65,76 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/calculate/SubInterpreter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/NumInterpreter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="375">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/calculate/NumInterpreter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/OperatorUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="700">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/calculate/Calculator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/SubInterpreter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
-              <folding>
-                <element signature="e#237#260#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#1311#1312#0" expanded="true" />
-                <element signature="e#1362#1363#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/calculate/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
+            <state relative-caret-position="300">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/calculate/OperatorUtil.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="125">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/general/Expression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/general/NonterminalExpression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/general/TerminalExpression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/SpringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,22 +160,61 @@
         <option value="$PROJECT_DIR$/src/com/company/general/Context.java" />
         <option value="$PROJECT_DIR$/src/com/company/general/TerminalExpression.java" />
         <option value="$PROJECT_DIR$/src/com/company/general/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/company/calculate/Interpreter.java" />
-        <option value="$PROJECT_DIR$/src/com/company/calculate/NumInterpreter.java" />
         <option value="$PROJECT_DIR$/src/com/company/calculate/AddInterpreter.java" />
         <option value="$PROJECT_DIR$/src/com/company/calculate/DivInterpreter.java" />
         <option value="$PROJECT_DIR$/src/com/company/calculate/SubInterpreter.java" />
         <option value="$PROJECT_DIR$/src/com/company/calculate/MultiInterpreter.java" />
         <option value="$PROJECT_DIR$/src/com/company/calculate/OperatorUtil.java" />
-        <option value="$PROJECT_DIR$/src/com/company/calculate/ArithmeticInterpreter.java" />
         <option value="$PROJECT_DIR$/src/com/company/calculate/Calculator.java" />
         <option value="$PROJECT_DIR$/src/com/company/calculate/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/company/calculate/ArithmeticInterpreter.java" />
+        <option value="$PROJECT_DIR$/src/com/company/calculate/Interpreter.java" />
+        <option value="$PROJECT_DIR$/src/com/company/calculate/NumInterpreter.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/calculate/AddInterpreter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/calculate/DivInterpreter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/calculate/MultiInterpreter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/calculate/NumInterpreter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/calculate/OperatorUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/calculate/SubInterpreter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/general/NonterminalExpression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/general/TerminalExpression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/calculate/SpringTest.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="解释器模式" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="解释器模式" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="解释器模式" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework:spring-expression:5.0.2.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="解释器模式" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework:spring-expression:5.0.2.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="org.springframework:spring-core:5.0.2.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="336" />
+    <option name="y" value="109" />
     <option name="width" value="1918" />
     <option name="height" value="1028" />
   </component>
@@ -210,14 +242,40 @@
               <item name="解释器模式" type="b2602c69:ProjectViewProjectNode" />
               <item name="解释器模式" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="解释器模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="解释器模式" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="解释器模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="解释器模式" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="解释器模式" type="b2602c69:ProjectViewProjectNode" />
               <item name="解释器模式" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="calculate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="解释器模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="解释器模式" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="general" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -235,6 +293,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -248,13 +309,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.SpringTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="解释器模式" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.calculate.SpringTest" />
+      <module name="解释器模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.calculate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -275,9 +349,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.SpringTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpringTest" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -292,7 +368,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603185744026</updated>
-      <workItem from="1603185746527" duration="1841000" />
+      <workItem from="1603185746527" duration="3441000" />
     </task>
     <task id="LOCAL-00001" summary="解释器模式的架构">
       <created>1603185781387</created>
@@ -308,14 +384,22 @@
       <option name="project" value="LOCAL" />
       <updated>1603186048568</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="解释器模式的四则运算示例">
+      <created>1603187607321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603187607321</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1841000" />
+    <option name="totallyTimeSpent" value="3441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -327,19 +411,19 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.329718" />
       <window_info anchor="bottom" id="JProfiler" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="MyBatis Log" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991323" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Maven" weight="0.32995737" />
       <window_info anchor="right" id="RestServices" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -351,6 +435,41 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24733475" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" />
+      <window_info anchor="bottom" id="JProfiler" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="MyBatis Log" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="11" visible="true" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="aiXcoder" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="RestServices" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -358,41 +477,30 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="解释器模式的架构" />
     <MESSAGE value="解释器模式的通用写法" />
-    <option name="LAST_COMMIT_MESSAGE" value="解释器模式的通用写法" />
+    <MESSAGE value="解释器模式的四则运算示例" />
+    <option name="LAST_COMMIT_MESSAGE" value="解释器模式的四则运算示例" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/calculate/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/company/calculate/Test.java</url>
           <line>11</line>
           <properties />
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/calculate/Calculator.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/calculate/Calculator.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/general/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/general/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
@@ -402,116 +510,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/general/Expression.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="27" />
+        <state relative-caret-position="176">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/general/Context.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/general/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/general/NonterminalExpression.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/AddInterpreter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="24" />
+        <state relative-caret-position="300">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/general/TerminalExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/calculate/DivInterpreter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/calculate/ArithmeticInterpreter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/ArithmeticInterpreter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/calculate/Interpreter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/calculate/OperatorUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/calculate/MultiInterpreter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#412#413#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/calculate/SubInterpreter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/calculate/NumInterpreter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/calculate/AddInterpreter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/calculate/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+        <state relative-caret-position="351">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="e#237#260#0" expanded="true" />
             <element signature="e#289#290#0" expanded="true" />
@@ -522,10 +553,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/calculate/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/DivInterpreter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="300">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/Interpreter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/MultiInterpreter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/NumInterpreter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/OperatorUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/SubInterpreter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/general/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/general/NonterminalExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/general/TerminalExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/calculate/SpringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

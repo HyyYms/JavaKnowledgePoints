@@ -6,7 +6,7 @@ package com.company.calculate;
  * @author: Mr.Huang
  * @create: 2020-10-20 17:31
  **/
-public class NumInterpreter implements ArithmeticInterpreter{
+public class NumInterpreter implements ArithmeticInterpreter {
 
     private int value;
 
@@ -15,8 +15,8 @@ public class NumInterpreter implements ArithmeticInterpreter{
     }
 
 
-    @Override
     public int interpret() {
         return this.value;
     }
+
 }
