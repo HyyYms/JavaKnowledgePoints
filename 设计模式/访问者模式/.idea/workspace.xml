@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13bcefa2-d8f5-41cb-b7e2-ff148ef7769f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../解释器模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../解释器模式/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/访问者模式/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/访问者模式/com/company/general/ConcreteElementA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/访问者模式/com/company/general/ConcreteElementB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/访问者模式/com/company/general/ConcreteVisitorA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/访问者模式/com/company/general/ConcreteVisitorB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/访问者模式/com/company/general/Element.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/访问者模式/com/company/general/ObjectStructure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/访问者模式/com/company/general/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/访问者模式/com/company/general/Visitor.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -198,7 +207,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../责任链模式" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -260,7 +269,7 @@
       <updated>1603266589700</updated>
       <workItem from="1603266594421" duration="648000" />
       <workItem from="1603269022959" duration="1849000" />
-      <workItem from="1603271744878" duration="6000" />
+      <workItem from="1603271744878" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="访问者模式的架构">
       <created>1603266646901</created>
@@ -283,11 +292,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603270236461</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="访问者模式的代码示例">
+      <created>1603271763021</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603271763021</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2503000" />
+    <option name="totallyTimeSpent" value="2521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -337,7 +353,8 @@
     <MESSAGE value="访问者模式的架构" />
     <MESSAGE value="访问者模式的通用写法" />
     <MESSAGE value="访问者模式的KPI考核代码示例" />
-    <option name="LAST_COMMIT_MESSAGE" value="访问者模式的KPI考核代码示例" />
+    <MESSAGE value="访问者模式的代码示例" />
+    <option name="LAST_COMMIT_MESSAGE" value="访问者模式的代码示例" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
