@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="342ff374-2321-4eca-905e-6056fd725bc1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../状态模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../状态模式/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/策略模式/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/策略模式/com/company/pay/AliPay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/策略模式/com/company/pay/JdPay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/策略模式/com/company/pay/MsgResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/策略模式/com/company/pay/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/策略模式/com/company/pay/PayStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/策略模式/com/company/pay/Payment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/策略模式/com/company/pay/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/策略模式/com/company/pay/WeChatPay.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,8 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -202,7 +210,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../组合模式" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -276,7 +284,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602812371359</updated>
       <workItem from="1602812375026" duration="3501000" />
-      <workItem from="1603271604820" duration="5000" />
+      <workItem from="1603271604820" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="策略模式的架构">
       <created>1602812818299</created>
@@ -306,11 +314,18 @@
       <option name="project" value="LOCAL" />
       <updated>1602814903061</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="策略模式的代码示例">
+      <created>1603271623414</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603271623414</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3506000" />
+    <option name="totallyTimeSpent" value="3526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
