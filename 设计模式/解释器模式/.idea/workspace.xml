@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab2d6674-5dd1-4158-a1e7-a2311c27b1d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../观察者模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../观察者模式/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/解释器模式.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/calculate/AddInterpreter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/calculate/ArithmeticInterpreter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/calculate/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/calculate/DivInterpreter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/calculate/Interpreter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/calculate/MultiInterpreter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/calculate/NumInterpreter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/calculate/OperatorUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/calculate/SpringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/calculate/SubInterpreter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/calculate/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/general/Context.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/general/Expression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/general/NonterminalExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/general/TerminalExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/general/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,8 +31,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -259,7 +276,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../访问者模式" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -343,7 +360,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603185744026</updated>
       <workItem from="1603185746527" duration="3781000" />
-      <workItem from="1603271714047" duration="6000" />
+      <workItem from="1603271714047" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="解释器模式的架构">
       <created>1603185781387</created>
@@ -373,11 +390,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603195531003</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="解释器模式的代码示例">
+      <created>1603271737820</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603271737820</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3787000" />
+    <option name="totallyTimeSpent" value="3811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -463,7 +487,8 @@
     <MESSAGE value="解释器模式的通用写法" />
     <MESSAGE value="解释器模式的四则运算示例" />
     <MESSAGE value="解释器模式的Spring框架应用" />
-    <option name="LAST_COMMIT_MESSAGE" value="解释器模式的Spring框架应用" />
+    <MESSAGE value="解释器模式的代码示例" />
+    <option name="LAST_COMMIT_MESSAGE" value="解释器模式的代码示例" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
