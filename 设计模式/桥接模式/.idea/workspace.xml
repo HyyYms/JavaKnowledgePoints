@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1f63921-caa5-4690-a968-d4bc9f6ca020" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../建造者模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../建造者模式/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,8 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -159,7 +158,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../模板方法模式" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -202,7 +201,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602754794769</updated>
       <workItem from="1602754798485" duration="3547000" />
-      <workItem from="1603271501234" duration="6000" />
+      <workItem from="1603271501234" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="桥接模式的架构">
       <created>1602754825401</created>
@@ -218,11 +217,18 @@
       <option name="project" value="LOCAL" />
       <updated>1602760670282</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="桥接模式的代码示例">
+      <created>1603271519604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603271519604</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3553000" />
+    <option name="totallyTimeSpent" value="3577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -412,7 +418,7 @@
             <element signature="e#222#223#0" expanded="true" />
             <element signature="e#260#261#0" expanded="true" />
             <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
           </folding>
         </state>
       </provider>
