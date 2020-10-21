@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1049a57c-243d-408b-860d-9c57533b6ace" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../备忘录模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../备忘录模式/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/委派模式/com/company/Boss.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/委派模式/com/company/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/委派模式/com/company/EmployeeA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/委派模式/com/company/EmployeeB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/委派模式/com/company/Leader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/委派模式/com/company/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,8 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -159,7 +164,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../工厂模式" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -207,7 +212,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602761861072</updated>
       <workItem from="1602761863862" duration="1460000" />
-      <workItem from="1603271414572" duration="8000" />
+      <workItem from="1603271414572" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="委派模式的架构">
       <created>1602761883722</created>
@@ -223,11 +228,18 @@
       <option name="project" value="LOCAL" />
       <updated>1602762681596</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="委派模式的代码示例">
+      <created>1603271439297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603271439297</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1468000" />
+    <option name="totallyTimeSpent" value="1490000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -305,10 +317,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" selection-start-line="8" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -334,6 +342,7 @@
         <state relative-caret-position="200">
           <caret line="8" selection-start-line="8" selection-end-line="14" selection-end-column="1" />
           <folding>
+            <element signature="e#189#190#0" expanded="true" />
             <element signature="e#223#224#0" expanded="true" />
           </folding>
         </state>
