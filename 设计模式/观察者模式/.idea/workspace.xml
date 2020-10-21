@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecdf856a-f07c-4049-8e2f-ae26d5ecb74c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../装饰者模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../装饰者模式/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/观察者模式.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/general/ConcreteObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/general/ConcreteSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/general/Observer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/general/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/general/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/jdk/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/jdk/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/jdk/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/jdk/Web.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -238,7 +249,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../解释器模式" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -331,7 +342,7 @@
       <updated>1603205350890</updated>
       <workItem from="1603205353886" duration="2642000" />
       <workItem from="1603247506835" duration="968000" />
-      <workItem from="1603271683868" duration="7000" />
+      <workItem from="1603271683868" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="观察者模式的架构">
       <created>1603205385724</created>
@@ -347,11 +358,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603206098326</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="观察者模式的代码示例">
+      <created>1603271706439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603271706439</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3617000" />
+    <option name="totallyTimeSpent" value="3639000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,7 +427,8 @@
     </ignored-roots>
     <MESSAGE value="观察者模式的架构" />
     <MESSAGE value="观察者模式的通用写法" />
-    <option name="LAST_COMMIT_MESSAGE" value="观察者模式的通用写法" />
+    <MESSAGE value="观察者模式的代码示例" />
+    <option name="LAST_COMMIT_MESSAGE" value="观察者模式的代码示例" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Observer.java" />
