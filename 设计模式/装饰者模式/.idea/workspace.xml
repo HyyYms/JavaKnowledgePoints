@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e36091b1-be95-4947-a6e2-16deca18fcfc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../组合模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../组合模式/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/装饰者模式/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/装饰者模式/com/company/v1/Battercake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/装饰者模式/com/company/v1/BattercakeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/装饰者模式/com/company/v1/BattercakeWithEgg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/装饰者模式/com/company/v1/BattercakeWithEggAndSausage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/装饰者模式/com/company/v2/BaseBattercake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/装饰者模式/com/company/v2/Battercake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/装饰者模式/com/company/v2/BattercakeDecotator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/装饰者模式/com/company/v2/BattercakeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/装饰者模式/com/company/v2/EggDecotator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/装饰者模式/com/company/v2/SausageDecorator.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -202,7 +213,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../观察者模式" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -280,7 +291,7 @@
       <workItem from="1602332352566" duration="1242000" />
       <workItem from="1602342666529" duration="1196000" />
       <workItem from="1602385869268" duration="1581000" />
-      <workItem from="1603271659417" duration="6000" />
+      <workItem from="1603271659417" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="装饰者模式架构">
       <created>1602342691431</created>
@@ -303,11 +314,18 @@
       <option name="project" value="LOCAL" />
       <updated>1602386597706</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="装饰器模式的代码示例">
+      <created>1603271677764</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603271677764</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4025000" />
+    <option name="totallyTimeSpent" value="4042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="4" width="1548" height="838" extended-state="0" />
