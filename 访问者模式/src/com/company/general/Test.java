@@ -7,7 +7,7 @@ package com.company.general;
  * @create: 2020-10-21 16:36
  **/
 public class Test {
-    
+
     public static void main(String[] args) {
         ObjectStructure collection = new ObjectStructure();
         System.out.println("ConcreteVisitorA handle elements:");

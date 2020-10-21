@@ -8,7 +8,7 @@ import java.util.Random;
  * @author: Mr.Huang
  * @create: 2020-10-21 16:36
  **/
-public class ConcreteElementB implements Element{
+public class ConcreteElementB implements Element {
 
     @Override
     public void accept(Visitor visitor) {

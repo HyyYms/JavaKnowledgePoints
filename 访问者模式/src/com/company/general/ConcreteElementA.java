@@ -6,7 +6,7 @@ package com.company.general;
  * @author: Mr.Huang
  * @create: 2020-10-21 16:36
  **/
-public class ConcreteElementA implements Element{
+public class ConcreteElementA implements Element {
 
     @Override
     public void accept(Visitor visitor) {
