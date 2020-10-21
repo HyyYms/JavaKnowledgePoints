@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6f93e4e-9cc0-44f3-af18-254585da7aaa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../策略模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../策略模式/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/组合模式/com/company/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/组合模式/com/company/CourseComponent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/组合模式/com/company/CoursePackage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/组合模式/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/组合模式/com/company/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -257,7 +262,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../装饰者模式" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -318,7 +323,7 @@
       <updated>1602677751384</updated>
       <workItem from="1602677754862" duration="3616000" />
       <workItem from="1602682137798" duration="742000" />
-      <workItem from="1603271631591" duration="6000" />
+      <workItem from="1603271631591" duration="26000" />
     </task>
     <task id="LOCAL-00001" summary="组合模式的架构">
       <created>1602678941502</created>
@@ -334,11 +339,18 @@
       <option name="project" value="LOCAL" />
       <updated>1602682006018</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="组合模式的代码示例">
+      <created>1603271652450</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603271652450</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4364000" />
+    <option name="totallyTimeSpent" value="4384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -387,7 +399,8 @@
     </ignored-roots>
     <MESSAGE value="组合模式的架构" />
     <MESSAGE value="组合模式的透明模式和安全模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="组合模式的透明模式和安全模式" />
+    <MESSAGE value="组合模式的代码示例" />
+    <option name="LAST_COMMIT_MESSAGE" value="组合模式的代码示例" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
