@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c0883f8-e51e-425d-a944-d4750037d42e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../享元模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../享元模式/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../中介者模式/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../中介者模式/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../中介者模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../中介者模式/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -147,9 +148,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-30" />
-    <option name="width" value="1137" />
-    <option name="height" value="1048" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1920" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -188,7 +190,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../单例模式" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -299,7 +301,7 @@
       <workItem from="1601648574586" duration="1971000" />
       <workItem from="1602055592433" duration="4064000" />
       <workItem from="1602235663750" duration="347000" />
-      <workItem from="1603271227502" duration="9000" />
+      <workItem from="1603271227502" duration="55000" />
     </task>
     <task id="LOCAL-00001" summary="代理模式">
       <created>1602235689105</created>
@@ -308,11 +310,18 @@
       <option name="project" value="LOCAL" />
       <updated>1602235689105</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="代理模式的代码示例">
+      <created>1603271255509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603271255509</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15879000" />
+    <option name="totallyTimeSpent" value="15925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -360,7 +369,8 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="代理模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="代理模式" />
+    <MESSAGE value="代理模式的代码示例" />
+    <option name="LAST_COMMIT_MESSAGE" value="代理模式的代码示例" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
