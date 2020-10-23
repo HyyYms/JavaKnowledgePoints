@@ -10,6 +10,7 @@ public class SortUtil {
 
     // 对元素进行比较
     public static boolean less(Comparable v, Comparable w) {
+        // 返回-1/0/1：表示v小于/等于/大于w
         return v.compareTo(w) < 0;
     }
 
@@ -36,5 +37,4 @@ public class SortUtil {
         }
         return true;
     }
-
 }

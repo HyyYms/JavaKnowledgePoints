@@ -1,10 +1,10 @@
-package com.company;
+package com.company.selection;
 
 import com.company.util.SortUtil;
 
 /**
  * @program: 选择排序
- * @description: 选择排序
+ * @description: 选择排序算法
  * @author: Mr.Huang
  * @create: 2020-10-23 20:05
  **/
