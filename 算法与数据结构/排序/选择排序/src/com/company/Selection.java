@@ -1,5 +1,7 @@
 package com.company;
 
+import com.company.util.SortUtil;
+
 /**
  * @program: 选择排序
  * @description: 选择排序
@@ -15,7 +17,10 @@ public class Selection {
             // 最小元素的索引
             int min = i;
             for (int j = i + 1; j < n; j++) {
-                if (less)
+                if (SortUtil.less(arr[j], arr[min])) {
+                    min = j;
+                }
+                SortUtil.exch(arr, i, min);
             }
         }
     }

@@ -9,19 +9,19 @@ package com.company.util;
 public class SortUtil {
 
     // 对元素进行比较
-    private static boolean less(Comparable v, Comparable w) {
+    public static boolean less(Comparable v, Comparable w) {
         return v.compareTo(w) < 0;
     }
 
     // 将元素交换位置
-    private static void exch(Comparable[] arr, int i, int j) {
+    public static void exch(Comparable[] arr, int i, int j) {
         Comparable t = arr[i];
         arr[i] = arr[j];
         arr[j] = t;
     }
 
     // 展示数组
-    private static void show(Comparable[] arr) {
+    public static void show(Comparable[] arr) {
         for (Comparable comparable : arr) {
             System.out.println(comparable + "");
         }
