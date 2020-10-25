@@ -9,7 +9,7 @@ import com.company.shell.Shell;
  * @author: Mr.Huang
  * @create: 2020-10-25 15:52
  **/
-public class SelectionTest {
+public class ShellTest {
 
     public static void main(String[] args) {
         // 空数组测试
