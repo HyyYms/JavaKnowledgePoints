@@ -10,6 +10,7 @@ import com.company.second.Solution;
  * @create: 2020-10-25 18:41
  **/
 public class Test {
+
     public static void main(String[] args) {
         // 空链表测试
         ListNode empty = null;

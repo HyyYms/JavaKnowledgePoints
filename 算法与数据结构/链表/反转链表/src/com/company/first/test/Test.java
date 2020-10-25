@@ -11,6 +11,7 @@ import com.company.first.Solution;
  * @create: 2020-10-25 17:40
  **/
 public class Test {
+
     public static void main(String[] args) {
         // 空链表测试
         ListNode empty = null;
