@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c35f22d-f121-46ee-b4d3-d58e4ba7e3e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/shell/Shell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9c35f22d-f121-46ee-b4d3-d58e4ba7e3e4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/insertion/Insertion.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="550">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -65,11 +62,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/shell/Shell.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
               <caret line="10" selection-start-line="10" selection-end-line="29" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/shell/test/ShellTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,11 +123,14 @@
         <option value="$PROJECT_DIR$/src/com/company/insertion/Insertion.java" />
         <option value="$PROJECT_DIR$/src/com/company/insertion/test/InsertionTest.java" />
         <option value="$PROJECT_DIR$/src/com/company/shell/Shell.java" />
+        <option value="$PROJECT_DIR$/src/com/company/shell/test/SelectionTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/shell/test/ShellTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="769" />
+    <option name="y" value="16" />
     <option name="width" value="1938" />
     <option name="height" value="1047" />
   </component>
@@ -178,13 +190,6 @@
               <item name="selection" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="排序算法" type="b2602c69:ProjectViewProjectNode" />
-              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="shell" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -196,7 +201,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.shell.test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,7 +282,7 @@
       <updated>1603454730634</updated>
       <workItem from="1603454734391" duration="889000" />
       <workItem from="1603455748553" duration="5422000" />
-      <workItem from="1603611720255" duration="491000" />
+      <workItem from="1603611720255" duration="1618000" />
     </task>
     <task id="LOCAL-00001" summary="数组的辅助方法">
       <created>1603455420318</created>
@@ -296,17 +312,30 @@
       <option name="project" value="LOCAL" />
       <updated>1603460550903</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="希尔排序算法">
+      <created>1603612376433</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603612376433</updated>
+    </task>
+    <task id="LOCAL-00006" summary="希尔排序算法测试">
+      <created>1603612408045</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603612408045</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6802000" />
+    <option name="totallyTimeSpent" value="7929000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="769" y="16" width="1938" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1368477" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1369936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -352,7 +381,9 @@
     <MESSAGE value="选择排序的代码示例" />
     <MESSAGE value="排序算法的架构" />
     <MESSAGE value="插入排序算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="插入排序算法" />
+    <MESSAGE value="希尔排序算法" />
+    <MESSAGE value="希尔排序算法测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="希尔排序算法测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -415,7 +446,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/insertion/Insertion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -423,6 +454,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" selection-start-line="10" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/shell/test/ShellTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
