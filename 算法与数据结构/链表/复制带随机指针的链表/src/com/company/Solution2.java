@@ -9,7 +9,7 @@ package com.company;
  **/
 public class Solution2 {
 
-    public Node copyRandomList(Node head) {
+    public static Node copyRandomList(Node head) {
         if (head == null) {
             return null;
         }
@@ -19,13 +19,13 @@ public class Solution2 {
     }
 
 
-    private Node split(Node head) {
+    private static Node split(Node head) {
         Node result = head.next;
         Node move = head.next;
         while (head != null && head.next != null) {
             head.next = head.next.next;
             head = head.next;
-            if (move != null && move.next != null){
+            if (move != null && move.next != null) {
                 move.next = move.next.next;
                 move = move.next;
             }
@@ -33,7 +33,7 @@ public class Solution2 {
         return result;
     }
 
-    private void copyRandom(Node head) {
+    private static void copyRandom(Node head) {
         Node node = head;
         while (node != null && node.next != null) {
             if (node.random != null) {
@@ -44,7 +44,7 @@ public class Solution2 {
     }
 
 
-    private void copy(Node head) {
+    private static void copy(Node head) {
         Node node = head;
         while (node != null) {
             Node copy = new Node(node.val);

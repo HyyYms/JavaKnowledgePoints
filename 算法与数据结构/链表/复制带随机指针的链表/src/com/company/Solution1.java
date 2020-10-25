@@ -10,7 +10,7 @@ import java.util.HashMap;
  **/
 public class Solution1 {
 
-    public Node copyRandomList(Node head) {
+    public static Node copyRandomList(Node head) {
         if (head == null) {
             return head;
         }
