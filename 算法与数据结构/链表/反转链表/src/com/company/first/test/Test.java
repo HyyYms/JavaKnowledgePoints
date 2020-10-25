@@ -15,17 +15,20 @@ public class Test {
         // 空链表测试
         ListNode empty = null;
         empty = Solution.reverseList(empty);
+        System.out.println("空链表测试");
         show(empty);
 
         // 一个节点链表测试
         ListNode one = new ListNode(1);
         one = Solution.reverseList(one);
+        System.out.println("一个节点链表测试");
         show(one);
 
         // 两个节点链表测试
         ListNode two = new ListNode(1);
         two.next = new ListNode(2);
         two = Solution.reverseList(two);
+        System.out.println("两个节点链表测试");
         show(two);
 
         // 正常链表测试
@@ -33,6 +36,7 @@ public class Test {
         list.next = new ListNode(2);
         list.next.next = new ListNode(3);
         list = Solution.reverseList(list);
+        System.out.println("正常链表测试");
         show(list);
     }
 
