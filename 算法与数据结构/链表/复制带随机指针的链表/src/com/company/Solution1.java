@@ -8,7 +8,7 @@ import java.util.HashMap;
  * @author: Mr.Huang
  * @create: 2020-10-25 22:26
  **/
-public class Solution {
+public class Solution1 {
 
     public Node copyRandomList(Node head) {
         if (head == null) {
