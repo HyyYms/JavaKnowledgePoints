@@ -9,22 +9,23 @@ import java.util.List;
  * @create: 2020-10-26 19:39
  **/
 public class Test {
+
     public static void main(String[] args) {
 
         // 空链表测试
-        ListNode empty1 = new ListNode();
-        ListNode empty2 = new ListNode();
+        ListNode empty1 = null;
+        ListNode empty2 = null;
         ListNode empty = Solution.addTwoNumbers(empty1, empty2);
         show(empty);
 
         // 一个空链表测试
-        ListNode oneEmpty = new ListNode();
+        ListNode oneEmpty = null;
         ListNode l = new ListNode(2);
         l.next = new ListNode(4);
         l.next.next = new ListNode(3);
         ListNode one = Solution.addTwoNumbers(oneEmpty, l);
         show(one);
-        
+
         // 正常链表测试1
         ListNode l1 = new ListNode(2);
         l1.next = new ListNode(4);
@@ -61,5 +62,4 @@ public class Test {
             node = node.next;
         }
     }
-
 }
