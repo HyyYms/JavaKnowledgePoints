@@ -6,7 +6,7 @@ import com.sun.org.apache.regexp.internal.RE;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Main {
+public class Solution {
 
 //    给出两个 非空 的链表用来表示两个非负的整数。其中，它们各自的位数是按照 逆序 的方式存储的，并且它们的每个节点只能存储 一位 数字。
 //
@@ -78,7 +78,7 @@ public class Main {
         return head.next;
     }
 
-    // 改进后
+    // 我的方法改进后
     public static ListNode myAddTwoNumbers(ListNode list1, ListNode list2) {
         if (list1 == null) {
             return list2;
