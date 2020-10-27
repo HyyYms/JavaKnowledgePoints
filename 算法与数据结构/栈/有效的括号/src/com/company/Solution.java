@@ -15,6 +15,34 @@ public class Solution {
         myIsValid("([)]");
     }
 
+    public boolean isValid(String s) {
+        if (s == null || s.length() == 0) {
+            return true;
+        }
+        LinkedList<Character> stack = new LinkedList<>();
+        for (char c : s.toCharArray()) {
+            if (c == '(' || c == '[' || c == '{') {
+                stack.push(c);
+            }
+            if (c == ')') {
+                if (stack.pop() != '(' || stack.isEmpty()) {
+                    return false;
+                }
+            }
+            if (c == ']') {
+                if (stack.pop() != '[' || stack.isEmpty()) {
+                    return false;
+                }
+            }
+            if (c == '}') {
+                if (stack.pop() != '{' || stack.isEmpty()) {
+                    return false;
+                }
+            }
+        }
+        return stack.isEmpty();
+    }
+
     public static boolean myIsValid(String s) {
         if (s == null || s.length() == 0) {
             return true;
@@ -26,8 +54,8 @@ public class Solution {
             if (stack.size() == 0 || c == '(' || c == '[' || c == '{') {
                 stack.push(c);
                 list.add(c);
-                System.out.println("栈："+stack);
-                System.out.println("链表："+list);
+                System.out.println("栈：" + stack);
+                System.out.println("链表：" + list);
                 continue;
             }
             if (c == ')') {
@@ -36,8 +64,8 @@ public class Solution {
                 } else {
                     stack.push(c);
                     list.add(c);
-                    System.out.println("栈："+stack);
-                    System.out.println("链表："+list);
+                    System.out.println("栈：" + stack);
+                    System.out.println("链表：" + list);
                 }
                 continue;
             }
@@ -47,8 +75,8 @@ public class Solution {
                 } else {
                     stack.push(c);
                     list.add(c);
-                    System.out.println("栈："+stack);
-                    System.out.println("链表："+list);
+                    System.out.println("栈：" + stack);
+                    System.out.println("链表：" + list);
                 }
                 continue;
             }
@@ -58,8 +86,8 @@ public class Solution {
                 } else {
                     stack.push(c);
                     list.add(c);
-                    System.out.println("栈："+stack);
-                    System.out.println("链表："+list);
+                    System.out.println("栈：" + stack);
+                    System.out.println("链表：" + list);
                 }
             }
         }
