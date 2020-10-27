@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="612eb532-656f-480e-ac9d-b68748b083e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../最小栈/src/com/company/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../区间最大值/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../区间最大值/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../区间最大值/src/com/company/ByteDanceEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../区间最大值/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../区间最大值/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../最小栈/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../最小栈/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../最小栈/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../最小栈/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="283">
-              <caret line="21" column="55" lean-forward="true" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+              <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#215#216#0" expanded="true" />
@@ -77,8 +80,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="508" />
-    <option name="y" value="153" />
+    <option name="x" value="815" />
+    <option name="y" value="11" />
     <option name="width" value="1940" />
     <option name="height" value="1049" />
   </component>
@@ -206,7 +209,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -225,7 +227,7 @@
       <window_info anchor="bottom" id="MyBatis Log" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39587852" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -276,7 +278,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
-          <caret line="21" column="55" lean-forward="true" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#215#216#0" expanded="true" />
