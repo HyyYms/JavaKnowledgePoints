@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c35f22d-f121-46ee-b4d3-d58e4ba7e3e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../归并排序/src/com/company/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../归并排序/src/com/company/first/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../归并排序/src/com/company/second/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../快速排序/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../快速排序/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../快速排序/src/com/company/Quick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../快速排序/src/com/company/SortUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../归并排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../归并排序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../快速排序/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/insertion/test/InsertionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
+            <state relative-caret-position="575">
               <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -80,7 +81,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/shell/test/ShellTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="225">
               <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -92,8 +93,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/util/SortUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="325">
+              <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -134,11 +135,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="857" />
-    <option name="y" value="56" />
-    <option name="width" value="1939" />
-    <option name="height" value="1048" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="860" />
+    <option name="width" value="1940" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -275,6 +275,7 @@
       <workItem from="1603611720255" duration="1618000" />
       <workItem from="1603681985030" duration="132000" />
       <workItem from="1603682502497" duration="608000" />
+      <workItem from="1603761987751" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="数组的辅助方法">
       <created>1603455420318</created>
@@ -329,13 +330,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8669000" />
+    <option name="totallyTimeSpent" value="9280000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14075068" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1427614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -429,7 +430,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/insertion/test/InsertionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
+        <state relative-caret-position="575">
           <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -444,16 +445,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://F:/JavaJdk8/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2600">
-          <caret line="127" selection-start-line="127" selection-end-line="133" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/shell/test/ShellTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="225">
           <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -461,10 +455,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://F:/JavaJdk8/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2600">
+          <caret line="127" selection-start-line="127" selection-end-line="133" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/util/SortUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="325">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>
