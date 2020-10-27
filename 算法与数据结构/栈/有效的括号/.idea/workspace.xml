@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="612eb532-656f-480e-ac9d-b68748b083e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../最小栈/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最小栈/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最小栈/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,11 +32,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="808">
-              <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+            <state relative-caret-position="108">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
                 <element signature="e#239#240#0" expanded="true" />
               </folding>
             </state>
@@ -74,9 +76,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="73" />
-    <option name="y" value="101" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-29" />
+    <option name="y" value="192" />
     <option name="width" value="1940" />
     <option name="height" value="1049" />
   </component>
@@ -173,7 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603767922056</updated>
-      <workItem from="1603767926282" duration="2397000" />
+      <workItem from="1603767926282" duration="2619000" />
     </task>
     <task id="LOCAL-00001" summary="有效的括号的架构以及题目需求">
       <created>1603768048874</created>
@@ -200,10 +202,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2397000" />
+    <option name="totallyTimeSpent" value="2619000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="101" width="1940" height="1049" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -211,7 +213,7 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25053304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -223,7 +225,7 @@
       <window_info anchor="bottom" id="MyBatis Log" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33224043" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39587852" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -250,18 +252,6 @@
     <MESSAGE value="有效的括号的改进解法" />
     <option name="LAST_COMMIT_MESSAGE" value="有效的括号的改进解法" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Solution.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -285,11 +275,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="808">
-          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        <state relative-caret-position="108">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
             <element signature="e#239#240#0" expanded="true" />
           </folding>
         </state>
