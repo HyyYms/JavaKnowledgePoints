@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c35f22d-f121-46ee-b4d3-d58e4ba7e3e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../快速排序/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../快速排序/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../快速排序/src/com/company/Quick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../快速排序/src/com/company/SortUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../快速排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../快速排序/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -135,10 +130,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="860" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="718" />
+    <option name="y" value="26" />
     <option name="width" value="1940" />
-    <option name="height" value="1038" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -275,7 +271,7 @@
       <workItem from="1603611720255" duration="1618000" />
       <workItem from="1603681985030" duration="132000" />
       <workItem from="1603682502497" duration="608000" />
-      <workItem from="1603761987751" duration="611000" />
+      <workItem from="1603761987751" duration="1496000" />
     </task>
     <task id="LOCAL-00001" summary="数组的辅助方法">
       <created>1603455420318</created>
@@ -330,10 +326,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9280000" />
+    <option name="totallyTimeSpent" value="10165000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1427614" />
