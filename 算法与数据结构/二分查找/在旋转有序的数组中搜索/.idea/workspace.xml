@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d90837ce-1fd0-43f7-bf9f-9558ad954423" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d90837ce-1fd0-43f7-bf9f-9558ad954423" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="15" selection-start-line="15" selection-end-line="46" selection-end-column="18" />
+            <state relative-caret-position="461">
+              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
               <folding>
                 <element signature="e#191#192#0" expanded="true" />
                 <element signature="e#263#264#0" expanded="true" />
@@ -60,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="821" />
     <option name="width" value="1940" />
     <option name="height" value="1047" />
@@ -165,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603854371960</updated>
       <workItem from="1603854376462" duration="2909000" />
-      <workItem from="1603861061540" duration="2092000" />
+      <workItem from="1603861061540" duration="2219000" />
     </task>
     <task id="LOCAL-00001" summary="在旋转有序的数组中搜索">
       <created>1603854413263</created>
@@ -174,17 +169,23 @@
       <option name="project" value="LOCAL" />
       <updated>1603854413264</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="在旋转有序的数组中的搜索的解法">
+      <created>1603864040421</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603864040421</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5001000" />
+    <option name="totallyTimeSpent" value="5128000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="821" y="202" width="1940" height="1048" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1606383" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1609808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -193,7 +194,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19146608" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18980478" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41949618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -224,7 +225,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="在旋转有序的数组中搜索" />
-    <option name="LAST_COMMIT_MESSAGE" value="在旋转有序的数组中搜索" />
+    <MESSAGE value="在旋转有序的数组中的搜索的解法" />
+    <option name="LAST_COMMIT_MESSAGE" value="在旋转有序的数组中的搜索的解法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -248,8 +250,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="15" selection-start-line="15" selection-end-line="46" selection-end-column="18" />
+        <state relative-caret-position="461">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding>
             <element signature="e#191#192#0" expanded="true" />
             <element signature="e#263#264#0" expanded="true" />
