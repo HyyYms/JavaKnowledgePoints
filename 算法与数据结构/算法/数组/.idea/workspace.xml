@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6311c4c1-d5f1-46d1-9262-f8089d31945e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../快速排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../快速排序/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,8 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -136,7 +135,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../初级排序算法" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -181,7 +180,7 @@
       <updated>1603371313416</updated>
       <workItem from="1603371317163" duration="1531000" />
       <workItem from="1603436120782" duration="742000" />
-      <workItem from="1604112660792" duration="7000" />
+      <workItem from="1604112660792" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="数组的典型处理代码架构">
       <created>1603371351501</created>
@@ -197,11 +196,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603372244631</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="数组算法">
+      <created>1604112686768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604112686768</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2280000" />
+    <option name="totallyTimeSpent" value="2317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -249,7 +255,8 @@
     </ignored-roots>
     <MESSAGE value="数组的典型处理代码架构" />
     <MESSAGE value="数组的典型处理代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="数组的典型处理代码" />
+    <MESSAGE value="数组算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组算法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
