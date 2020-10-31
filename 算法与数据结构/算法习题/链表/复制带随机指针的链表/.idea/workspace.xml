@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54cd59c7-abbe-48fe-8a58-d2c1a10f6137" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../反转链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../反转链表/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/复制带随机指针的链表/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/复制带随机指针的链表/com/company/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/复制带随机指针的链表/com/company/Solution1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/复制带随机指针的链表/com/company/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/复制带随机指针的链表/com/company/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -137,7 +142,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../二分查找/二分查找" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -194,7 +199,7 @@
       <updated>1603635518869</updated>
       <workItem from="1603635524354" duration="3405000" />
       <workItem from="1603639545069" duration="3248000" />
-      <workItem from="1604113636507" duration="25000" />
+      <workItem from="1604113636507" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="复制带随机指针的链表的架构">
       <created>1603635553694</created>
@@ -238,11 +243,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603641030681</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="复制带随机指针的链表的解法">
+      <created>1604113679119</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604113679119</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6678000" />
+    <option name="totallyTimeSpent" value="6705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -294,7 +306,8 @@
     <MESSAGE value="复制带随机指针的链表的HashMap解法" />
     <MESSAGE value="复制带随机指针的链表的添加节点解法" />
     <MESSAGE value="复制带随机指针的链表的测试用例" />
-    <option name="LAST_COMMIT_MESSAGE" value="复制带随机指针的链表的测试用例" />
+    <MESSAGE value="复制带随机指针的链表的解法" />
+    <option name="LAST_COMMIT_MESSAGE" value="复制带随机指针的链表的解法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
