@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c885276-a951-4b2a-ad0e-d2df44dd6c62" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../队列/用栈实现队列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../队列/用栈实现队列/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,8 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -100,7 +99,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../两数相加" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -138,7 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603717318083</updated>
       <workItem from="1603717322106" duration="4097000" />
-      <workItem from="1604112978935" duration="289000" />
+      <workItem from="1604112978935" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="LRU缓存机制的架构">
       <created>1603717352421</created>
@@ -154,11 +153,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603720934830</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="LRU缓存机制的解法">
+      <created>1604113281897</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604113281897</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4386000" />
+    <option name="totallyTimeSpent" value="4404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
