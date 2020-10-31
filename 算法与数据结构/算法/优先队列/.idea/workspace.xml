@@ -2,286 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c079a77e-4ed1-4afd-9c62-5c10b67fdcb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/MaxPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/优先队列.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/切木头/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/切木头/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/切木头/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/切木头/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/切木头/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/切木头/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/切木头/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/切木头/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/切木头/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/切木头/src/com/company/WoodCut.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/切木头/切木头.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中找最小/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中找最小/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中找最小/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中找最小/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中找最小/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中找最小/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中找最小/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中找最小/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中找最小/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中找最小/src/com/company/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中找最小/src/题目需求.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中找最小/在旋转有序的数组中找最小.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中搜索/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中搜索/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中搜索/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中搜索/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中搜索/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中搜索/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中搜索/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中搜索/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中搜索/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中搜索/src/com/company/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中搜索/src/题目需求.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/在旋转有序的数组中搜索/在旋转有序的数组中搜索.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/寻找峰值/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/寻找峰值/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/寻找峰值/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/寻找峰值/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/寻找峰值/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/寻找峰值/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/寻找峰值/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/寻找峰值/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/寻找峰值/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/寻找峰值/src/com/company/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/寻找峰值/src/题目需求.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../二分查找/寻找峰值/寻找峰值.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../优先队列/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../优先队列/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../优先队列/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../优先队列/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../优先队列/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../优先队列/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../优先队列/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../优先队列/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../优先队列/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../优先队列/src/com/company/MaxPQ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../优先队列/优先队列.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/out/production/选择排序/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/out/production/选择排序/com/company/insertion/Insertion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/out/production/选择排序/com/company/insertion/test/InsertionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/out/production/选择排序/com/company/selection/Selection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/out/production/选择排序/com/company/selection/test/SelectionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/out/production/选择排序/com/company/util/SortUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/src/com/company/insertion/Insertion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/src/com/company/insertion/test/InsertionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/src/com/company/selection/Selection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/src/com/company/selection/test/SelectionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/src/com/company/shell/Shell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/src/com/company/shell/test/ShellTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/src/com/company/util/SortUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../初级排序算法/选择排序.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/三数之和/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/三数之和/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/三数之和/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/三数之和/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/三数之和/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/三数之和/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/三数之和/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/三数之和/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/三数之和/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/三数之和/src/com/company/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/三数之和/三数之和.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/两数之和—输入有序数组/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/两数之和—输入有序数组/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/两数之和—输入有序数组/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/两数之和—输入有序数组/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/两数之和—输入有序数组/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/两数之和—输入有序数组/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/两数之和—输入有序数组/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/两数之和—输入有序数组/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/两数之和—输入有序数组/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/两数之和—输入有序数组/src/com/company/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/两数之和—输入有序数组/两数之和—输入有序数组.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/验证三角形/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/验证三角形/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/验证三角形/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/验证三角形/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/验证三角形/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/验证三角形/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/验证三角形/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/验证三角形/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/验证三角形/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../双指针/验证三角形/验证三角形.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../归并排序/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../归并排序/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../归并排序/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../归并排序/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../归并排序/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../归并排序/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../归并排序/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../归并排序/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../归并排序/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../归并排序/src/com/company/Merge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../归并排序/src/com/company/first/Merge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../归并排序/src/com/company/second/Merge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../归并排序/src/com/company/third/MergeBU.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../归并排序/归并排序.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../快速排序/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../快速排序/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../快速排序/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../快速排序/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../快速排序/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../快速排序/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../快速排序/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../快速排序/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../快速排序/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../快速排序/src/com/company/Quick.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../快速排序/src/com/company/SortUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../快速排序/快速排序.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/src/com/company/ArrayMul.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/src/com/company/CalculateAver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/src/com/company/CopyArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/src/com/company/FindMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/src/com/company/ReverseArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../数组/数组.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/区间最大值/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/区间最大值/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/区间最大值/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/区间最大值/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/区间最大值/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/区间最大值/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/区间最大值/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/区间最大值/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/区间最大值/src/com/company/ByteDanceEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/区间最大值/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/区间最大值/区间最大值.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/最小栈/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/最小栈/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/最小栈/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/最小栈/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/最小栈/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/最小栈/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/最小栈/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/最小栈/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/最小栈/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/最小栈/src/com/company/MinStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/最小栈/src/题目需求.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/最小栈/最小栈.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/有效的括号/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/有效的括号/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/有效的括号/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/有效的括号/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/有效的括号/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/有效的括号/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/有效的括号/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/有效的括号/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/有效的括号/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/有效的括号/src/com/company/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/有效的括号/src/题目需求.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../栈/有效的括号/有效的括号.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/LRU缓存机制/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/LRU缓存机制/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/LRU缓存机制/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/LRU缓存机制/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/LRU缓存机制/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/LRU缓存机制/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/LRU缓存机制/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/LRU缓存机制/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/LRU缓存机制/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/LRU缓存机制/LRU缓存机制.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/LRU缓存机制/src/com/company/LRUCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/LRU缓存机制/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/src/com/company/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/src/com/company/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/src/com/company/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/src/题目需求.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/两数相加.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/src/com/company/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/src/com/company/first/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/src/com/company/first/test/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/src/com/company/second/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/src/com/company/second/test/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/反转链表/反转链表.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/src/com/company/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/src/com/company/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/src/com/company/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/src/com/company/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/复制带随机指针的链表.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/复制带随机指针的链表/复制带随机指针的链表题目需求.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/推荐结果打散/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/推荐结果打散/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/推荐结果打散/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/推荐结果打散/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/推荐结果打散/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/推荐结果打散/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/推荐结果打散/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/推荐结果打散/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/推荐结果打散/src/com/company/KuaiShouEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/推荐结果打散/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/推荐结果打散/推荐结果打散.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/用栈实现队列/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/用栈实现队列/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/用栈实现队列/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/用栈实现队列/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/用栈实现队列/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/用栈实现队列/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/用栈实现队列/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/用栈实现队列/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/用栈实现队列/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/用栈实现队列/src/com/company/MyQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../队列/用栈实现队列/用栈实现队列.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -291,8 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -366,7 +86,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../初级排序算法" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -404,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603808108340</updated>
       <workItem from="1603808112969" duration="1003000" />
-      <workItem from="1604112170319" duration="246000" />
+      <workItem from="1604112170319" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="优先队列的架构">
       <created>1603808137194</created>
@@ -413,11 +133,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603808137194</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="优先队列的算法">
+      <created>1604112464807</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604112464807</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1249000" />
+    <option name="totallyTimeSpent" value="1305000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -459,7 +186,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="优先队列的架构" />
-    <option name="LAST_COMMIT_MESSAGE" value="优先队列的架构" />
+    <MESSAGE value="优先队列的算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="优先队列的算法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/MaxPQ.java">
