@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d90837ce-1fd0-43f7-bf9f-9558ad954423" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/在旋转有序的数组中搜索/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/在旋转有序的数组中搜索/com/company/Solution.class" afterDir="false" />
+    <list default="true" id="7e0b9f65-0989-487f-9045-9e4aac51e847" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../在旋转有序的数组中搜索/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../在旋转有序的数组中搜索/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,15 +12,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -30,12 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="636">
-              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-              <folding>
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="345">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -44,8 +39,8 @@
         <entry file="file://$PROJECT_DIR$/src/题目需求.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="750">
-                <caret line="30" column="3" selection-start-line="3" selection-end-line="30" selection-end-column="3" />
+              <first_editor relative-caret-position="50">
+                <caret line="2" selection-start-line="2" selection-end-line="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -72,8 +67,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="10" />
+    <option name="y" value="53" />
     <option name="width" value="1937" />
     <option name="height" value="1057" />
   </component>
@@ -83,22 +78,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="在旋转有序的数组中搜索" type="b2602c69:ProjectViewProjectNode" />
-              <item name="在旋转有序的数组中搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="寻找峰值" type="b2602c69:ProjectViewProjectNode" />
+              <item name="寻找峰值" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="在旋转有序的数组中搜索" type="b2602c69:ProjectViewProjectNode" />
-              <item name="在旋转有序的数组中搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="寻找峰值" type="b2602c69:ProjectViewProjectNode" />
+              <item name="寻找峰值" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="在旋转有序的数组中搜索" type="b2602c69:ProjectViewProjectNode" />
-              <item name="在旋转有序的数组中搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="寻找峰值" type="b2602c69:ProjectViewProjectNode" />
+              <item name="寻找峰值" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -107,19 +101,14 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../寻找峰值" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -134,10 +123,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="在旋转有序的数组中搜索" />
+      <module name="寻找峰值" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -145,90 +134,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Solution" />
-      <module name="在旋转有序的数组中搜索" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Solution" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Solution" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d90837ce-1fd0-43f7-bf9f-9558ad954423" name="Default Changelist" comment="" />
-      <created>1603854371960</created>
+      <changelist id="7e0b9f65-0989-487f-9045-9e4aac51e847" name="Default Changelist" comment="" />
+      <created>1603865515341</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603854371960</updated>
-      <workItem from="1603854376462" duration="2909000" />
-      <workItem from="1603861061540" duration="2219000" />
-      <workItem from="1603865275611" duration="242000" />
-      <workItem from="1604041506000" duration="933000" />
-      <workItem from="1604113869905" duration="24000" />
+      <updated>1603865515341</updated>
+      <workItem from="1603865519117" duration="1450000" />
+      <workItem from="1604042838649" duration="332000" />
+      <workItem from="1604113895672" duration="7000" />
     </task>
-    <task id="LOCAL-00001" summary="在旋转有序的数组中搜索">
-      <created>1603854413263</created>
+    <task id="LOCAL-00001" summary="寻找峰值的架构以及题目需求">
+      <created>1603865594271</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1603854413264</updated>
+      <updated>1603865594271</updated>
     </task>
-    <task id="LOCAL-00002" summary="在旋转有序的数组中的搜索的解法">
-      <created>1603864040421</created>
+    <task id="LOCAL-00002" summary="寻找峰值的解法">
+      <created>1603866342044</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1603864040421</updated>
+      <updated>1603866342044</updated>
     </task>
-    <task id="LOCAL-00003" summary="在旋转有序的数组中的搜索的题目需求">
-      <created>1603865304637</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1603865304637</updated>
-    </task>
-    <task id="LOCAL-00004" summary="在旋转有序的数组中的搜索的调整">
-      <created>1604042435337</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1604042435337</updated>
-    </task>
-    <task id="LOCAL-00005" summary="在旋转有序的数组中的搜索的解法">
-      <created>1604113889730</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1604113889730</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6327000" />
+    <option name="totallyTimeSpent" value="1789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1663113" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11353944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -237,19 +181,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18980478" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41949618" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="bottom" id="JProfiler" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="MyBatis Log" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -270,37 +211,23 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../../.." />
     </ignored-roots>
-    <MESSAGE value="在旋转有序的数组中搜索" />
-    <MESSAGE value="在旋转有序的数组中的搜索的题目需求" />
-    <MESSAGE value="在旋转有序的数组中的搜索的调整" />
-    <MESSAGE value="在旋转有序的数组中的搜索的解法" />
-    <option name="LAST_COMMIT_MESSAGE" value="在旋转有序的数组中的搜索的解法" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Solution.java</url>
-          <line>50</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="寻找峰值的架构以及题目需求" />
+    <MESSAGE value="寻找峰值的解法" />
+    <option name="LAST_COMMIT_MESSAGE" value="寻找峰值的解法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/题目需求.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="750">
-            <caret line="30" column="3" selection-start-line="3" selection-end-line="30" selection-end-column="3" />
+          <first_editor relative-caret-position="50">
+            <caret line="2" selection-start-line="2" selection-end-line="26" />
           </first_editor>
           <second_editor />
         </state>
@@ -308,12 +235,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>
