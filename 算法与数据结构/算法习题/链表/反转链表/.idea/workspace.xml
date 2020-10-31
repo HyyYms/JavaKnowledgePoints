@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b72530f-aab9-4745-8b88-ef4148602926" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../两数相加/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../两数相加/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/反转链表/com/company/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/反转链表/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/反转链表/com/company/first/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/反转链表/com/company/first/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/反转链表/com/company/second/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/反转链表/com/company/second/test/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,8 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -157,7 +162,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../复制带随机指针的链表" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -238,7 +243,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603618491326</updated>
       <workItem from="1603618495071" duration="6137000" />
-      <workItem from="1604113316942" duration="293000" />
+      <workItem from="1604113316942" duration="317000" />
     </task>
     <task id="LOCAL-00001" summary="反转链表的架构">
       <created>1603618527728</created>
@@ -275,11 +280,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603634128332</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="反转链表的解法">
+      <created>1604113629425</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604113629425</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6430000" />
+    <option name="totallyTimeSpent" value="6454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -330,7 +342,8 @@
     <MESSAGE value="反转链表1(简单)的解法" />
     <MESSAGE value="反转链表2(中等)的解法" />
     <MESSAGE value="反转链表2(中等)的测试用例" />
-    <option name="LAST_COMMIT_MESSAGE" value="反转链表2(中等)的测试用例" />
+    <MESSAGE value="反转链表的解法" />
+    <option name="LAST_COMMIT_MESSAGE" value="反转链表的解法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
@@ -371,10 +384,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
