@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e9e7edc-20d0-4af0-8497-8269d91c55d2" name="Default Changelist" comment="" />
+    <list default="true" id="6e9e7edc-20d0-4af0-8497-8269d91c55d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../三数之和/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../三数之和/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../两数之和—输入有序数组/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../两数之和—输入有序数组/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,10 +57,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="616" />
+    <option name="y" value="141" />
+    <option name="width" value="1652" />
+    <option name="height" value="1036" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -157,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604199796573</updated>
-      <workItem from="1604199798822" duration="3976000" />
+      <workItem from="1604199798822" duration="4468000" />
     </task>
     <task id="LOCAL-00001" summary="存水问题的架构">
       <created>1604199854698</created>
@@ -177,7 +181,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3976000" />
+    <option name="totallyTimeSpent" value="4468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />

@@ -10,7 +10,7 @@ public class Solution {
 
     public static void main(String[] args) {
         System.out.println(new Solution().twoSum(new int[]{
-                -1,0
+                -1, 0
         }, -1));
     }
 
@@ -20,18 +20,18 @@ public class Solution {
         }
         int start = 0;
         int end = numbers.length - 1;
+        int[] result = {-1, -1};
         while (start + 1 < end) {
             if ((numbers[start] + numbers[end]) == target) {
+                result[0] = start + 1;
+                result[1] = end + 1;
                 break;
             } else if ((numbers[start] + numbers[end]) > target) {
                 end -= 1;
-            }else {
-                start +=1;
+            } else {
+                start += 1;
             }
         }
-        int[] nums = new int[2];
-        nums[0] = start + 1;
-        nums[1] = end + 1;
-        return nums;
+        return result;
     }
 }
