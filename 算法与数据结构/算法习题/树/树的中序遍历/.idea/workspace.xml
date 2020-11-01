@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f071964-485a-41cb-9aa5-213fb38444b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../树的前序遍历/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../树的前序遍历/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9f071964-485a-41cb-9aa5-213fb38444b9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604230900476</updated>
-      <workItem from="1604230903060" duration="1915000" />
+      <workItem from="1604230903060" duration="1995000" />
     </task>
     <task id="LOCAL-00001" summary="树的中序遍历以及题目需求">
       <created>1604230994097</created>
@@ -169,7 +166,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1915000" />
+    <option name="totallyTimeSpent" value="1995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
