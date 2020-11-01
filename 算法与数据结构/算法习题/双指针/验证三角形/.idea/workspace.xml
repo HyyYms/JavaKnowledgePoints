@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e877f60-d944-4504-bf66-ef4b6017df5b" name="Default Changelist" comment="" />
+    <list default="true" id="3e877f60-d944-4504-bf66-ef4b6017df5b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../三数之和/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../三数之和/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../两数之和—输入有序数组/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../两数之和—输入有序数组/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../存水问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../存水问题/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+            <state relative-caret-position="570">
+              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -156,6 +160,7 @@
       <workItem from="1604114004863" duration="3998000" />
       <workItem from="1604141354127" duration="1656000" />
       <workItem from="1604197030461" duration="2764000" />
+      <workItem from="1604208689566" duration="1361000" />
     </task>
     <task id="LOCAL-00001" summary="验证三角形的架构">
       <created>1604114026000</created>
@@ -182,12 +187,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8418000" />
+    <option name="totallyTimeSpent" value="9779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3097015" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3128998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -255,8 +261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        <state relative-caret-position="570">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
         </state>
       </provider>
     </entry>
