@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f97e1230-19f7-4285-aa43-21d331434d7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打印从1到最大的n位数.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法习题/排序/冒泡、插入、选择排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法习题/排序/冒泡、插入、选择排序/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f97e1230-19f7-4285-aa43-21d331434d7d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,16 +132,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604540009739</updated>
-      <workItem from="1604540013679" duration="749000" />
+      <workItem from="1604540013679" duration="1169000" />
     </task>
+    <task id="LOCAL-00001" summary="打印从1到最大的n位数的解法（无考虑大数问题）">
+      <created>1604540840459</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604540840459</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="749000" />
+    <option name="totallyTimeSpent" value="1169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -191,6 +184,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="打印从1到最大的n位数的解法（无考虑大数问题）" />
+    <option name="LAST_COMMIT_MESSAGE" value="打印从1到最大的n位数的解法（无考虑大数问题）" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
