@@ -18,6 +18,9 @@ public class Solution {
     }
 
     public int findKthLargestQuickSort(int[] nums, int k) {
+        if (nums == null || nums.length == 0 || k < 1 || k > nums.length) {
+            return -1;
+        }
         sort(nums, 0, nums.length - 1);
         return nums[nums.length - k];
     }
@@ -49,6 +52,9 @@ public class Solution {
     }
 
     public int findKthLargest(int[] nums, int k) {
+        if (nums == null || nums.length == 0 || k < 1 || k > nums.length) {
+            return -1;
+        }
         PriorityQueue<Integer> heap = new PriorityQueue<Integer>(k, new Comparator<Integer>() {
             @Override
             public int compare(Integer o1, Integer o2) {
