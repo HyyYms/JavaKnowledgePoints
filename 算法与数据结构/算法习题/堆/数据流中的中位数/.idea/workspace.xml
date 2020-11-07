@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81177a03-4e20-4633-8895-19e83eb7f6ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../第K大元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../第K大元素/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../散列/克隆图/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/克隆图/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../散列/最长无重复的字符串/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/最长无重复的字符串/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,11 +31,9 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/MedianFinder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="335">
-              <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+              <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#618#619#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,8 +61,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="392" />
+    <option name="y" value="23" />
     <option name="width" value="1305" />
-    <option name="height" value="1047" />
+    <option name="height" value="1024" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -142,6 +143,7 @@
       <updated>1604631169587</updated>
       <workItem from="1604631172735" duration="3471000" />
       <workItem from="1604651113148" duration="2927000" />
+      <workItem from="1604726051828" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="数据流中的中位数">
       <created>1604631248456</created>
@@ -161,12 +163,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6398000" />
+    <option name="totallyTimeSpent" value="6422000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="392" y="0" width="1305" height="1047" extended-state="0" />
+    <frame x="392" y="23" width="1305" height="1024" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27630523" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2811245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -232,11 +234,9 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/MedianFinder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
-          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
           </folding>
         </state>
       </provider>

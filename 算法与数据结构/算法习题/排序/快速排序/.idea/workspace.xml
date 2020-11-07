@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbab7ade-5835-400d-b969-33b2ac9f986c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../堆/数据流中的中位数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/数据流中的中位数/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../堆/第K大元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/第K大元素/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../堆/第K大元素/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/第K大元素/src/com/company/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../冒泡、插入、选择排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../冒泡、插入、选择排序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../散列/克隆图/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/克隆图/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../散列/子数组和等于K/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/子数组和等于K/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../散列/最长无重复的字符串/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/最长无重复的字符串/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -131,6 +134,7 @@
       <updated>1604582337821</updated>
       <workItem from="1604582342013" duration="3981000" />
       <workItem from="1604628401142" duration="703000" />
+      <workItem from="1604726073517" duration="158000" />
     </task>
     <task id="LOCAL-00001" summary="快速排序的架构">
       <created>1604582447171</created>
@@ -157,13 +161,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4684000" />
+    <option name="totallyTimeSpent" value="4842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="780" y="0" width="1142" height="1049" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19593346" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19963032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
