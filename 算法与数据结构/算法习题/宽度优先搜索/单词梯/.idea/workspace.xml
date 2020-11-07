@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ba8b033-e2f4-4bb9-98e0-e4cf25788c0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/题目需求.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,11 +30,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="635">
-              <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+            <state relative-caret-position="1285">
+              <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
               <folding>
                 <element signature="e#411#419#0" expanded="true" />
                 <element signature="e#521#529#0" expanded="true" />
+                <element signature="e#1280#1288#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,9 +61,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="554" />
+    <option name="x" value="-53" />
+    <option name="y" value="344" />
     <option name="width" value="1936" />
-    <option name="height" value="1047" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -135,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604742043174</updated>
-      <workItem from="1604742046446" duration="1483000" />
+      <workItem from="1604742046446" duration="1927000" />
     </task>
     <task id="LOCAL-00001" summary="单词梯的架构">
       <created>1604742116225</created>
@@ -144,15 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604742116225</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="单词梯的解法">
+      <created>1604745849710</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604745849710</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1483000" />
+    <option name="totallyTimeSpent" value="1927000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="554" y="0" width="1936" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-53" y="344" width="1936" height="1056" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -191,7 +199,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="单词梯的架构" />
-    <option name="LAST_COMMIT_MESSAGE" value="单词梯的架构" />
+    <MESSAGE value="单词梯的解法" />
+    <option name="LAST_COMMIT_MESSAGE" value="单词梯的解法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
@@ -203,11 +212,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+        <state relative-caret-position="1285">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
           <folding>
             <element signature="e#411#419#0" expanded="true" />
             <element signature="e#521#529#0" expanded="true" />
+            <element signature="e#1280#1288#0" expanded="true" />
           </folding>
         </state>
       </provider>
