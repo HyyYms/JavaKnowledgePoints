@@ -14,14 +14,14 @@ public class Solution {
 
     public String reverseWords(String s) {
         if (s == null || s.trim().length() == 0) {
-            return s;
+            return "";
         }
         // trim 去除前后空格
-        String[] strs = s.trim().split(" ");
+        String[] words = s.trim().split(" ");
         StringBuilder sb = new StringBuilder();
-        for (int i = strs.length - 1; i >= 0; i--) {
-            if (!"".equals(strs[i])) {
-                sb.append(strs[i]).append(" ");
+        for (int i = words.length - 1; i >= 0; i--) {
+            if (!"".equals(words[i])) {
+                sb.append(words[i]).append(" ");
             }
         }
         return sb.toString().trim();
