@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/如何实现tire.iml" filepath="$PROJECT_DIR$/如何实现tire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/如何实现trie.iml" filepath="$PROJECT_DIR$/如何实现trie.iml" />
     </modules>
   </component>
 </project>
