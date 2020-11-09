@@ -13,7 +13,7 @@ public class UnionFind {
 
     HashMap<Integer, Integer> father = new HashMap<>();
 
-    public void unionFind(Integer n) {
+    public UnionFind(Integer n) {
         for (int i = 0; i < n; i++) {
             father.put(i, i);
         }
