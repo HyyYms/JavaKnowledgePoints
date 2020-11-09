@@ -28,7 +28,7 @@ public class UnionFind {
         Integer fa = father.get(x);
         while (!fa.equals(father.get(fa))) {
             temp = father.get(fa);
-            father.put(fa, father.get(fa));
+            father.put(fa, parent);
             fa = temp;
         }
         return parent;
