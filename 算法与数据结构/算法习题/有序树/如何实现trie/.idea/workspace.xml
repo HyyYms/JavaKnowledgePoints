@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41c88781-b714-4465-94af-148662c85b56" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../如何实现tire/如何实现tire.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../二分查找/二分查找/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../二分查找/二分查找/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../并查集/小岛问题二/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../并查集/小岛问题二/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../并查集/并查集/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../并查集/并查集/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Trie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="415">
+              <caret line="23" column="43" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -56,9 +59,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="152" />
-    <option name="width" value="1660" />
-    <option name="height" value="1103" />
+    <option name="x" value="-53" />
+    <option name="y" value="344" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -96,7 +100,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/面试代码示例/GitHub仓库/算法与数据结构/算法习题/二分查找/二分查找" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.42846715" />
@@ -159,6 +163,7 @@
       <updated>1604838540529</updated>
       <workItem from="1604838546380" duration="1452000" />
       <workItem from="1604840063290" duration="801000" />
+      <workItem from="1604982828953" duration="732000" />
     </task>
     <task id="LOCAL-00001" summary="如何实现tire(前缀树)的架构以及题目需求">
       <created>1604838640730</created>
@@ -185,13 +190,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2253000" />
+    <option name="totallyTimeSpent" value="2985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11140725" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11247335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -256,8 +261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Trie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="415">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="43" />
         </state>
       </provider>
     </entry>

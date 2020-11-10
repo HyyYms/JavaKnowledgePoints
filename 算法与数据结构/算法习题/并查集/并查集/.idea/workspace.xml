@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="27c94b47-2e13-42fa-aa64-69bdac443fc4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../小岛问题二/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../小岛问题二/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../小岛问题二/src/com/company/NumberOfIsland2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../小岛问题二/src/com/company/NumberOfIsland2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/UnionFind.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+            <state relative-caret-position="385">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -56,10 +55,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="29" />
-    <option name="width" value="1936" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="152" />
+    <option name="width" value="1660" />
+    <option name="height" value="1103" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -138,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604908927240</updated>
-      <workItem from="1604908932225" duration="2691000" />
+      <workItem from="1604908932225" duration="3319000" />
     </task>
     <task id="LOCAL-00001" summary="并查集的架构">
       <created>1604909021138</created>
@@ -161,14 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604911316180</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="并查集的基本模板代码示例">
+      <created>1604913089938</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604913089938</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2691000" />
+    <option name="totallyTimeSpent" value="3319000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="0" width="1936" height="1047" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -223,8 +229,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/UnionFind.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        <state relative-caret-position="385">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
