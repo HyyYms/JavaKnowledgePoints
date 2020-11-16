@@ -20,7 +20,9 @@ public class Solution {
     }
 
     public ListNode removeNthFromEnd2(ListNode head, int n) {
+        // 先设置哨兵
         ListNode dummy = new ListNode(0, head);
+        // 设置双指针用于寻找删除节点的前置节点
         ListNode first = head;
         ListNode second = dummy;
         for (int i = 0; i < n; ++i) {
