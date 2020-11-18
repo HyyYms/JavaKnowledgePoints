@@ -2,12 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="455ba95e-0773-4f6d-ac7c-319a6c8710e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/两数相加/META-INF/两数相加.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/两数相加/com/company/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/两数相加/com/company/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/两数相加/com/company/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/两数相加/题目需求.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/src/com/company/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/src/题目需求.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/两两交换链表中的节点.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/src/com/company/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/src/题目需求.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/两数相加.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法练习/1、链表/删除排序链表中的重复元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/删除排序链表中的重复元素/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法练习/1、链表/回文链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/回文链表/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="39" selection-end-column="9" />
+            <state relative-caret-position="-586">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,10 +56,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
+            <state relative-caret-position="-422">
               <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
             </state>
           </provider>
@@ -77,11 +100,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="839" />
-    <option name="y" value="9" />
-    <option name="width" value="1939" />
-    <option name="height" value="1048" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="472" />
+    <option name="y" value="393" />
+    <option name="width" value="1940" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -89,8 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,13 +134,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../反转链表" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -187,6 +210,7 @@
       <updated>1603700094288</updated>
       <workItem from="1603700097060" duration="7032000" />
       <workItem from="1604113288537" duration="26000" />
+      <workItem from="1605689081723" duration="1281000" />
     </task>
     <task id="LOCAL-00001" summary="两数相加的架构以及题目需求">
       <created>1603700219928</created>
@@ -227,12 +251,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7058000" />
+    <option name="totallyTimeSpent" value="8339000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25603217" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -287,16 +312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="39" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -310,8 +325,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
+        <state relative-caret-position="-422">
           <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-586">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
