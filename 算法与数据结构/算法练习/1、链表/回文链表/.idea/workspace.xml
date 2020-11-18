@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="630c1246-68a4-4e81-a75b-1a86ff4383c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/src/com/company/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/src/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/删除排序链表中的重复元素.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/回文链表/com/company/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/回文链表/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/回文链表/com/company/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/回文链表/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/回文链表.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../两个链表的第一个公共节点/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../两个链表的第一个公共节点/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../删除中间节点/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../删除中间节点/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../删除链表的倒数第N个节点/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../删除链表的倒数第N个节点/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../合并两个有序链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../合并两个有序链表/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,7 +22,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
+            <state relative-caret-position="194">
               <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
             </state>
           </provider>
@@ -68,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
+            <state relative-caret-position="1350">
               <caret line="54" column="35" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -99,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="417" />
     <option name="width" value="1940" />
     <option name="height" value="1038" />
@@ -111,6 +83,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,7 +106,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,17 +180,18 @@
       <workItem from="1605625321179" duration="982000" />
       <workItem from="1605662126917" duration="2321000" />
       <workItem from="1605668477456" duration="2402000" />
+      <workItem from="1605683064569" duration="52000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5705000" />
+    <option name="totallyTimeSpent" value="5757000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1816354" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18390192" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -281,6 +254,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -290,18 +270,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
+        <state relative-caret-position="1350">
           <caret line="54" column="35" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
         </state>
       </provider>
     </entry>
