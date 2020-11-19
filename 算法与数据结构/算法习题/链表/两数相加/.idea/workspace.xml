@@ -2,35 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="455ba95e-0773-4f6d-ac7c-319a6c8710e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/src/com/company/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/src/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/两两交换链表中的节点.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/src/com/company/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/src/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/两数相加.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/旋转链表/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/旋转链表/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/旋转链表/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法练习/1、链表/删除排序链表中的重复元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/删除排序链表中的重复元素/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法练习/1、链表/回文链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/回文链表/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两两交换链表中的节点/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/1、链表/两数相加/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,9 +77,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="472" />
-    <option name="y" value="393" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="661" />
+    <option name="y" value="128" />
     <option name="width" value="1940" />
     <option name="height" value="1038" />
   </component>
@@ -210,7 +187,7 @@
       <updated>1603700094288</updated>
       <workItem from="1603700097060" duration="7032000" />
       <workItem from="1604113288537" duration="26000" />
-      <workItem from="1605689081723" duration="1281000" />
+      <workItem from="1605689081723" duration="1315000" />
     </task>
     <task id="LOCAL-00001" summary="两数相加的架构以及题目需求">
       <created>1603700219928</created>
@@ -251,11 +228,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8339000" />
+    <option name="totallyTimeSpent" value="8373000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25603217" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc9e8af5-b4b7-458a-92ea-656caa0f354a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/两两交换链表中的节点.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../两数相加/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../两数相加/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../两数相加/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../两数相加/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../两数相加/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../两数相加/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../两数相加/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../两数相加/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../两数相加/src/com/company/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../两数相加/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../两数相加/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../两数相加/src/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../两数相加/两数相加.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法习题/链表/两数相加/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法习题/链表/两数相加/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../删除排序链表中的重复元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../回文链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../回文链表/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc9e8af5-b4b7-458a-92ea-656caa0f354a" name="Default Changelist" comment="两两交换链表中的节点的解法和题目需求" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            <state relative-caret-position="275">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -192,12 +162,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605689681505</updated>
-      <workItem from="1605689684300" duration="1928000" />
+      <workItem from="1605689684300" duration="2541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1928000" />
+    <option name="totallyTimeSpent" value="2541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -221,7 +191,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39518413" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39518413" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -272,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        <state relative-caret-position="275">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
