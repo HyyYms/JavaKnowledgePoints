@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="928ee538-a959-40ab-a4f1-58ff580c3b1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../环路检测/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../环路检测/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../环路检测/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../环路检测/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../环路检测/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../环路检测/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../环路检测/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../环路检测/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../环路检测/src/com/company/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../环路检测/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../环路检测/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../环路检测/环路检测.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../删除排序链表中的重复元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../删除排序链表中的重复元素/src/com/company/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/src/com/company/Solution3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../旋转链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../旋转链表/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="71">
-              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="17" />
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -215,7 +227,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="17" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
