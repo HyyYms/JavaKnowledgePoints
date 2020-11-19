@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="928ee538-a959-40ab-a4f1-58ff580c3b1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/src/com/company/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/src/题目需求3.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../删除排序链表中的重复元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../删除排序链表中的重复元素/src/com/company/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../删除排序链表中的重复元素/src/com/company/Solution3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../旋转链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../旋转链表/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
