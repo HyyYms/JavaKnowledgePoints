@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3655c8ae-9c43-40c3-8831-717cb4c05b9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../分隔链表/src/com/company/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分隔链表/src/题目需求2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/奇偶链表.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/src/com/company/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/src/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/对链表进行插入排序.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../两数相加/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../两数相加/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分隔链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分隔链表/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../链表组件/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../链表组件/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对链表进行插入排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="13" selection-start-line="13" selection-end-line="38" selection-end-column="28" />
+            <state relative-caret-position="285">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -89,8 +61,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="784" />
+    <option name="y" value="87" />
     <option name="width" value="1937" />
     <option name="height" value="1047" />
   </component>
@@ -170,23 +143,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605843385129</updated>
-      <workItem from="1605843387629" duration="345000" />
+      <workItem from="1605843387629" duration="858000" />
     </task>
+    <task id="LOCAL-00001" summary="奇偶链表的解法以及题目需求">
+      <created>1605843872178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605843872178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="345000" />
+    <option name="totallyTimeSpent" value="858000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="784" y="0" width="1937" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986681" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -216,6 +196,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="奇偶链表的解法以及题目需求" />
+    <option name="LAST_COMMIT_MESSAGE" value="奇偶链表的解法以及题目需求" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -229,8 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="13" selection-start-line="13" selection-end-line="38" selection-end-column="28" />
+        <state relative-caret-position="285">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>
