@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac1139f3-3d89-41f3-86b2-2c8a657b9ff2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/题目需求2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/src/com/company/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/src/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../对链表进行插入排序/对链表进行插入排序.iml" afterDir="false" />
+    <list default="true" id="c46a1b83-b39f-4842-b573-e3cdc66e55b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../分隔链表/src/com/company/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分隔链表/src/题目需求2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../奇偶链表/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../奇偶链表/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../奇偶链表/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../奇偶链表/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../奇偶链表/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../奇偶链表/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../奇偶链表/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../奇偶链表/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../奇偶链表/src/com/company/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../奇偶链表/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../奇偶链表/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../奇偶链表/奇偶链表.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/题目需求.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/对链表进行插入排序.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../两数相加/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../两数相加/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../分隔链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分隔链表/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../链表组件/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../链表组件/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,23 +60,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Solution2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-165">
-              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="525">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -86,12 +86,11 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/company/ListNode.java" />
         <option value="$PROJECT_DIR$/src/com/company/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Solution2.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="17" />
+    <option name="x" value="784" />
     <option name="width" value="1937" />
     <option name="height" value="1047" />
   </component>
@@ -105,17 +104,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="分隔链表" type="b2602c69:ProjectViewProjectNode" />
-              <item name="分隔链表" type="462c0819:PsiDirectoryNode" />
+              <item name="对链表进行插入排序" type="b2602c69:ProjectViewProjectNode" />
+              <item name="对链表进行插入排序" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="分隔链表" type="b2602c69:ProjectViewProjectNode" />
-              <item name="分隔链表" type="462c0819:PsiDirectoryNode" />
+              <item name="对链表进行插入排序" type="b2602c69:ProjectViewProjectNode" />
+              <item name="对链表进行插入排序" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="分隔链表" type="b2602c69:ProjectViewProjectNode" />
-              <item name="分隔链表" type="462c0819:PsiDirectoryNode" />
+              <item name="对链表进行插入排序" type="b2602c69:ProjectViewProjectNode" />
+              <item name="对链表进行插入排序" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -158,7 +157,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="分隔链表" />
+      <module name="对链表进行插入排序" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -172,25 +171,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ac1139f3-3d89-41f3-86b2-2c8a657b9ff2" name="Default Changelist" comment="" />
-      <created>1605835354238</created>
+      <changelist id="c46a1b83-b39f-4842-b573-e3cdc66e55b3" name="Default Changelist" comment="" />
+      <created>1605837643557</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605835354238</updated>
-      <workItem from="1605835357732" duration="5069000" />
+      <updated>1605837643557</updated>
+      <workItem from="1605837646654" duration="2112000" />
     </task>
-    <task id="LOCAL-00001" summary="分隔链表的解法以及题目需求">
-      <created>1605837622081</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1605837622081</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5069000" />
+    <option name="totallyTimeSpent" value="2112000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -201,7 +192,7 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10554371" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14552239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -231,10 +222,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="分隔链表的解法以及题目需求" />
-    <option name="LAST_COMMIT_MESSAGE" value="分隔链表的解法以及题目需求" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -248,18 +235,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="525">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
         </state>
       </provider>
     </entry>
