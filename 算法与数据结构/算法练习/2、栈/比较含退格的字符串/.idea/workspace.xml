@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e00cf9f-3b4c-42fe-9f21-c5387d6084d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cf434c06-8239-47c4-98a5-84c9448d3217" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../下一个更大元素/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../下一个更大元素/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../下一个更大元素/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../下一个更大元素/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../下一个更大元素/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../下一个更大元素/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../下一个更大元素/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../下一个更大元素/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../下一个更大元素/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../下一个更大元素/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../下一个更大元素/src/题目需求.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../下一个更大元素/下一个更大元素.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/题目需求.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/比较含退格的字符串.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../用队列实现栈/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../用队列实现栈/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,18 +51,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/MyStack.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-              <folding>
-                <element signature="e#636#637#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
-                <element signature="e#732#733#0" expanded="true" />
-                <element signature="e#753#754#0" expanded="true" />
-                <element signature="e#784#785#0" expanded="true" />
-                <element signature="e#843#844#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="144">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -58,13 +74,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Solution.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-112" />
-    <option name="width" value="1938" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="672" />
+    <option name="width" value="1315" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -77,17 +93,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="用队列实现栈" type="b2602c69:ProjectViewProjectNode" />
-              <item name="用队列实现栈" type="462c0819:PsiDirectoryNode" />
+              <item name="比较含退格的字符串" type="b2602c69:ProjectViewProjectNode" />
+              <item name="比较含退格的字符串" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="用队列实现栈" type="b2602c69:ProjectViewProjectNode" />
-              <item name="用队列实现栈" type="462c0819:PsiDirectoryNode" />
+              <item name="比较含退格的字符串" type="b2602c69:ProjectViewProjectNode" />
+              <item name="比较含退格的字符串" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="用队列实现栈" type="b2602c69:ProjectViewProjectNode" />
-              <item name="用队列实现栈" type="462c0819:PsiDirectoryNode" />
+              <item name="比较含退格的字符串" type="b2602c69:ProjectViewProjectNode" />
+              <item name="比较含退格的字符串" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -119,7 +135,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="用队列实现栈" />
+      <module name="比较含退格的字符串" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -133,28 +149,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3e00cf9f-3b4c-42fe-9f21-c5387d6084d1" name="Default Changelist" comment="" />
-      <created>1605877610802</created>
+      <changelist id="cf434c06-8239-47c4-98a5-84c9448d3217" name="Default Changelist" comment="" />
+      <created>1606044946693</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605877610802</updated>
-      <workItem from="1605877613416" duration="1675000" />
+      <updated>1606044946693</updated>
+      <workItem from="1606044950818" duration="1435000" />
     </task>
-    <task id="LOCAL-00001" summary="用队列实现栈的解法以及题目需求">
-      <created>1605878957628</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1605878957629</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1675000" />
+    <option name="totallyTimeSpent" value="1435000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-112" y="0" width="1938" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -162,7 +170,7 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115548454" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -192,10 +200,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="用队列实现栈的解法以及题目需求" />
-    <option name="LAST_COMMIT_MESSAGE" value="用队列实现栈的解法以及题目需求" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -204,18 +208,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MyStack.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-          <folding>
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
         </state>
       </provider>
     </entry>
