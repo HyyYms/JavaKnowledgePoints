@@ -9,7 +9,7 @@ import java.util.LinkedList;
  * @create: 2020-11-22 19:36
  **/
 public class Solution {
-    
+
     public boolean backspaceCompare(String S, String T) {
         if (S == null || T == null) {
             return false;
