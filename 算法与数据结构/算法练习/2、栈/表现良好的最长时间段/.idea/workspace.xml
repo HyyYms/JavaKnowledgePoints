@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbeae361-3c88-4cb0-8087-2720ba26b81e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/表现良好的最长时间段.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../文件夹操作日志搜集器/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../文件夹操作日志搜集器/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移掉K位数字/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移掉K位数字/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移掉K位数字/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移掉K位数字/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移掉K位数字/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移掉K位数字/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移掉K位数字/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移掉K位数字/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移掉K位数字/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移掉K位数字/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移掉K位数字/src/题目需求.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../移掉K位数字/移掉K位数字.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="550">
+              <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -67,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="635" />
     <option name="width" value="1315" />
     <option name="height" value="1047" />
@@ -144,15 +144,23 @@
       <option name="presentableId" value="Default" />
       <updated>1606129202612</updated>
       <workItem from="1606129205785" duration="937000" />
-      <workItem from="1606139422365" duration="1066000" />
+      <workItem from="1606139422365" duration="2088000" />
     </task>
+    <task id="LOCAL-00001" summary="表现良好的最长时间段的解法以及题目需求">
+      <created>1606140509532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606140509532</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2003000" />
+    <option name="totallyTimeSpent" value="3025000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="635" y="0" width="1315" height="1047" extended-state="0" />
+    <frame x="635" y="0" width="1315" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16653386" />
@@ -190,6 +198,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="表现良好的最长时间段的解法以及题目需求" />
+    <option name="LAST_COMMIT_MESSAGE" value="表现良好的最长时间段的解法以及题目需求" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -200,8 +212,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="550">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
         </state>
       </provider>
     </entry>
