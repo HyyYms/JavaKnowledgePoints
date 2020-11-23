@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccd5359d-9e81-4ab8-957e-95c4bf9b8239" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../删除最外层的括号/src/com/company/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../用栈实现队列/untitled104.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/用栈操作构建数组.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../删除最外层的括号/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../删除最外层的括号/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../用栈实现队列/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../用栈实现队列/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../用栈实现队列/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../用栈实现队列/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../用栈实现队列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../用栈实现队列/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ccd5359d-9e81-4ab8-957e-95c4bf9b8239" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            <state relative-caret-position="125">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#291#299#0" expanded="true" />
@@ -176,12 +157,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606116951467</updated>
-      <workItem from="1606116955245" duration="874000" />
+      <workItem from="1606116955245" duration="1280000" />
     </task>
+    <task id="LOCAL-00001" summary="用栈操作构建数组的解法以及题目需求">
+      <created>1606118028290</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606118028290</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="874000" />
+    <option name="totallyTimeSpent" value="1280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="509" y="0" width="1052" height="830" extended-state="0" />
@@ -191,8 +180,8 @@
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24949698" />
+      <window_info id="Favorites" sideWeight="0.50119334" side_tool="true" weight="0.24949698" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988067" visible="true" weight="0.24949698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -205,7 +194,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39971346" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -224,6 +213,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="用栈操作构建数组的解法以及题目需求" />
+    <option name="LAST_COMMIT_MESSAGE" value="用栈操作构建数组的解法以及题目需求" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -247,8 +240,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        <state relative-caret-position="125">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#291#299#0" expanded="true" />
