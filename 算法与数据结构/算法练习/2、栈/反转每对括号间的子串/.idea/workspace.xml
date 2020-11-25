@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6b297e0-902b-4512-96a7-ee54ee53a3e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/反转每对括号间的子串.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../括号的分数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../括号的分数/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../括号的分数/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../括号的分数/src/com/company/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            <state relative-caret-position="125">
+              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="23" />
               <folding>
                 <element signature="e#220#221#0" expanded="true" />
                 <element signature="e#280#281#0" expanded="true" />
@@ -169,12 +156,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606272547845</updated>
-      <workItem from="1606272551940" duration="1600000" />
+      <workItem from="1606272551940" duration="1778000" />
     </task>
+    <task id="LOCAL-00001" summary="反转每对括号间的子串的解法以及题目需求">
+      <created>1606274327886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606274327886</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1600000" />
+    <option name="totallyTimeSpent" value="1778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="345" y="0" width="1340" height="830" extended-state="0" />
@@ -198,7 +193,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39971346" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -217,6 +212,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="反转每对括号间的子串的解法以及题目需求" />
+    <option name="LAST_COMMIT_MESSAGE" value="反转每对括号间的子串的解法以及题目需求" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -246,8 +245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        <state relative-caret-position="125">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="23" />
           <folding>
             <element signature="e#220#221#0" expanded="true" />
             <element signature="e#280#281#0" expanded="true" />
