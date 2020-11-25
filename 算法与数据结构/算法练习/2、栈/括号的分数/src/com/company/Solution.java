@@ -10,7 +10,27 @@ import java.util.LinkedList;
  **/
 public class Solution {
 
-    public int scoreOfParentheses(String S) {
+    public int scoreOfParentheses2(String S) {
+        if (S == null || S.length() == 0) {
+            return 0;
+        }
+
+        int level = 0;
+        int result = 0;
+        for (int i = 0; i < S.length(); i++) {
+            if (S.charAt(i) == '(') {
+                level++;
+            } else {
+                if (S.charAt(i - 1) == '(') {
+                    result += level == 1 ? 1 : Math.pow(2, level - 1);
+                }
+                level--;
+            }
+        }
+        return result;
+    }
+
+    public int scoreOfParentheses1(String S) {
         if (S == null || S.length() == 0) {
             return 0;
         }
