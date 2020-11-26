@@ -11,10 +11,26 @@ import java.util.LinkedList;
 public class Solution {
 
     public static void main(String[] args) {
-        System.out.println(new Solution().minAddToMakeValid("())"));
+        System.out.println(new Solution().minAddToMakeValid2("())"));
     }
 
-    public int minAddToMakeValid(String S) {
+    public int minAddToMakeValid2(String S) {
+        if (S == null || S.length() == 0) {
+            return 0;
+        }
+        int left = 0;
+        int right = 0;
+        for (int i = 0; i < S.length(); i++) {
+            right += S.charAt(i) == '(' ? 1 : -1;
+            if (right == -1) {
+                left++;
+                right++;
+            }
+        }
+        return left + right;
+    }
+
+    public int minAddToMakeValid1(String S) {
         if (S == null || S.length() == 0) {
             return 0;
         }

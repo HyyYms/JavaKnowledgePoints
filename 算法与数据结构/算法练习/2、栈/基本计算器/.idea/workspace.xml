@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69defd2f-6324-4545-9bd2-b5d83e4d8994" name="Default Changelist" comment="" />
+    <list default="true" id="69defd2f-6324-4545-9bd2-b5d83e4d8994" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../使括号有效的最少添加/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../使括号有效的最少添加/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../使括号有效的最少添加/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../使括号有效的最少添加/src/com/company/Solution.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +29,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
+            <state relative-caret-position="25">
               <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -56,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="width" value="1675" />
     <option name="height" value="1038" />
@@ -160,6 +163,7 @@
       <workItem from="1606293139969" duration="137000" />
       <workItem from="1606314602117" duration="1859000" />
       <workItem from="1606350877738" duration="5033000" />
+      <workItem from="1606358902991" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="基本计算器的解法（可满足正常的加减乘除法存在括号的情况）">
       <created>1606355556225</created>
@@ -168,16 +172,23 @@
       <option name="project" value="LOCAL" />
       <updated>1606355556226</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="基本计算器的题目需求">
+      <created>1606358949906</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606358949906</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7628000" />
+    <option name="totallyTimeSpent" value="8550000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11997319" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.121313676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -217,7 +228,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="基本计算器的解法（可满足正常的加减乘除法存在括号的情况）" />
-    <option name="LAST_COMMIT_MESSAGE" value="基本计算器的解法（可满足正常的加减乘除法存在括号的情况）" />
+    <MESSAGE value="基本计算器的题目需求" />
+    <option name="LAST_COMMIT_MESSAGE" value="基本计算器的题目需求" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -241,7 +253,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
+        <state relative-caret-position="25">
           <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
