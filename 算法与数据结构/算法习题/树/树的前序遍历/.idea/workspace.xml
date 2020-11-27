@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="865860b6-b023-47db-a49c-32b8437bf433" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/二叉搜索树迭代器/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/二叉搜索树迭代器/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/二叉搜索树迭代器/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/二叉搜索树迭代器/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/二叉搜索树迭代器/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/二叉搜索树迭代器/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/二叉搜索树迭代器/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/二叉搜索树迭代器/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/二叉搜索树迭代器/src/com/company/BSTIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/二叉搜索树迭代器/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/二叉搜索树迭代器/src/com/company/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/二叉搜索树迭代器/二叉搜索树迭代器.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/验证二叉树的前序序列化/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/验证二叉树的前序序列化/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/验证二叉树的前序序列化/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/验证二叉树的前序序列化/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/验证二叉树的前序序列化/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/验证二叉树的前序序列化/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/验证二叉树的前序序列化/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/验证二叉树的前序序列化/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/验证二叉树的前序序列化/验证二叉树的前序序列化.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../树的中序遍历/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../树的中序遍历/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法练习/2、栈/HTML实体解析器/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/HTML实体解析器/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法练习/2、栈/二叉搜索树迭代器/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/2、栈/二叉搜索树迭代器/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,9 +94,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="433" />
-    <option name="width" value="1315" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="315" />
+    <option name="y" value="43" />
+    <option name="width" value="1278" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -182,7 +181,7 @@
       <workItem from="1604230094494" duration="807000" />
       <workItem from="1604232680102" duration="224000" />
       <workItem from="1604406896416" duration="1794000" />
-      <workItem from="1606443920368" duration="726000" />
+      <workItem from="1606443920368" duration="730000" />
     </task>
     <task id="LOCAL-00001" summary="树的前序遍历以及题目需求">
       <created>1604230271913</created>
@@ -202,13 +201,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3551000" />
+    <option name="totallyTimeSpent" value="3555000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="315" y="43" width="1278" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2594417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -280,7 +279,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

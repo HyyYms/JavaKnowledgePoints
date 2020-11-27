@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e70f85a-120a-4d07-801e-cb36d035f6de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BSTIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉搜索树迭代器.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法习题/树/树的中序遍历/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法习题/树/树的中序遍历/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法习题/树/树的前序遍历/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法习题/树/树的前序遍历/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HTML实体解析器/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML实体解析器/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -166,16 +152,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606443588876</updated>
-      <workItem from="1606443593262" duration="1339000" />
+      <workItem from="1606443593262" duration="1392000" />
     </task>
+    <task id="LOCAL-00001" summary="二叉搜索树迭代器的解法以及题目需求">
+      <created>1606445577081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606445577081</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1339000" />
+    <option name="totallyTimeSpent" value="1392000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="433" y="0" width="1315" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -211,6 +204,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="二叉搜索树迭代器的解法以及题目需求" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉搜索树迭代器的解法以及题目需求" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
