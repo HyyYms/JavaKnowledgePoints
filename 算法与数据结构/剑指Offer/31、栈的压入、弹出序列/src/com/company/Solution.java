@@ -14,10 +14,10 @@ public class Solution {
         System.out.println(
                 new Solution().validateStackSequences(
                         new int[]{
-                                2,1,0
+                                2, 1, 0
                         },
                         new int[]{
-                                1,2,0
+                                1, 2, 0
                         })
         );
     }
@@ -35,13 +35,6 @@ public class Solution {
                 k++;
             }
         }
-        while (!stack.isEmpty()) {
-            if (stack.peek() != popped[k]) {
-                return false;
-            }
-            k++;
-            stack.pop();
-        }
-        return true;
+        return stack.isEmpty();
     }
 }
