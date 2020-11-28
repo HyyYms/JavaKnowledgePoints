@@ -1,6 +1,5 @@
 package com.company;
 
-import java.util.LinkedList;
 
 /**
  * @program: 26、树的子结构
@@ -23,47 +22,16 @@ public class Solution {
         if (A == null || B == null) {
             return false;
         }
+        return recur(A, B) || isSubStructure(A.left, B) || isSubStructure(A.right, B);
+    }
 
-        TreeNode cur = null;
-        LinkedList<TreeNode> stack = new LinkedList<>();
-        stack.push(A);
-        while (!stack.isEmpty()) {
-            if (stack.peek().val == B.val) {
-                cur = stack.pop();
-                break;
-            }
-            TreeNode pop = stack.pop();
-            if (pop.right != null) {
-                stack.push(pop.right);
-            }
-            if (pop.left != null) {
-                stack.push(pop.left);
-            }
+    private boolean recur(TreeNode A, TreeNode B) {
+        if (B == null) {
+            return true;
         }
-        LinkedList<TreeNode> stackA = new LinkedList<>();
-        LinkedList<TreeNode> stackB = new LinkedList<>();
-        stackA.push(cur);
-        stackB.push(B);
-
-        while (!stackA.isEmpty() && !stackB.isEmpty()) {
-            if (stackA.peek().val != stackB.peek().val) {
-                return false;
-            }
-            cur = stackA.pop();
-            if (cur.right != null) {
-                stackA.push(cur.right);
-            }
-            if (cur.left != null) {
-                stackA.push(cur.left);
-            }
-            B = stackB.pop();
-            if (B.right != null) {
-                stackB.push(B.right);
-            }
-            if (B.left != null) {
-                stackB.push(B.left);
-            }
+        if (A == null || A.val != B.val) {
+            return false;
         }
-        return stackB.isEmpty();
+        return recur(A.left, B.left) && recur(A.right, B.right);
     }
 }
