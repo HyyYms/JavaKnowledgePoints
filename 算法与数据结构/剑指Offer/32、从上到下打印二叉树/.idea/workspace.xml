@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca053a9c-98c3-4158-93b4-5a02257afa2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32、从上到下打印二叉树.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/题目需求2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/题目需求3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../29、顺时针打印矩阵/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../29、顺时针打印矩阵/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法习题/树/二叉树的右视角/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法习题/树/二叉树的右视角/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法习题/树/二叉树的序列化与反序列化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法习题/树/二叉树的序列化与反序列化/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法习题/树/二叉树的最近祖先/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法习题/树/二叉树的最近祖先/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法习题/树/平衡二叉树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法习题/树/平衡二叉树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,10 +53,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+            <state relative-caret-position="-250">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#1031#1046#0" expanded="true" />
                 <element signature="e#1096#1106#0" expanded="true" />
                 <element signature="e#1280#1289#0" expanded="true" />
@@ -125,7 +103,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="922" />
+    <option name="x" value="438" />
     <option name="width" value="1315" />
     <option name="height" value="1047" />
   </component>
@@ -234,16 +212,23 @@
       <option name="presentableId" value="Default" />
       <updated>1606639418616</updated>
       <workItem from="1606639420935" duration="478000" />
-      <workItem from="1606640250401" duration="8745000" />
+      <workItem from="1606640250401" duration="9526000" />
     </task>
+    <task id="LOCAL-00001" summary="从上到下打印二叉树的解法以及题目需求">
+      <created>1606651262228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606651262228</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9223000" />
+    <option name="totallyTimeSpent" value="10004000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="922" y="0" width="1315" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="438" y="0" width="1315" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1808765" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -258,7 +243,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32968238" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.40744796" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40744796" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -283,6 +268,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="从上到下打印二叉树的解法以及题目需求" />
+    <option name="LAST_COMMIT_MESSAGE" value="从上到下打印二叉树的解法以及题目需求" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -300,7 +289,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/Solution3.java</url>
-          <line>98</line>
+          <line>95</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
@@ -357,10 +346,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        <state relative-caret-position="-250">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#1031#1046#0" expanded="true" />
             <element signature="e#1096#1106#0" expanded="true" />
             <element signature="e#1280#1289#0" expanded="true" />

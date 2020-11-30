@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41e5f955-54fd-448a-ba4c-208dd2e38e18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../平衡二叉树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../平衡二叉树/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../树的中序遍历/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../树的中序遍历/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../树的前序遍历/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../树的前序遍历/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/33、二叉搜索树的后序遍历序列/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/33、二叉搜索树的后序遍历序列/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/33、二叉搜索树的后序遍历序列/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/33、二叉搜索树的后序遍历序列/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/33、二叉搜索树的后序遍历序列/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/33、二叉搜索树的后序遍历序列/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/33、二叉搜索树的后序遍历序列/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/33、二叉搜索树的后序遍历序列/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/33、二叉搜索树的后序遍历序列/33、二叉搜索树的后序遍历序列.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/33、二叉搜索树的后序遍历序列/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/33、二叉搜索树的后序遍历序列/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+            <state relative-caret-position="25">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,11 +95,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-6" />
-    <option name="width" value="1278" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="558" />
+    <option name="width" value="1368" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -128,6 +136,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -173,6 +182,8 @@
       <workItem from="1604412173021" duration="3047000" />
       <workItem from="1604473918654" duration="1220000" />
       <workItem from="1604490184273" duration="1217000" />
+      <workItem from="1606704056710" duration="639000" />
+      <workItem from="1606735619944" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="树的后序遍历以及题目需求">
       <created>1604232884444</created>
@@ -192,12 +203,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8611000" />
+    <option name="totallyTimeSpent" value="9256000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="558" y="0" width="1368" height="1038" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13326226" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19724771" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -268,8 +279,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+        <state relative-caret-position="25">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
