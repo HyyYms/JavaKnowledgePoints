@@ -2,20 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54cd59c7-abbe-48fe-8a58-d2c1a10f6137" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/35、复杂链表的复制.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/src/com/company/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/src/题目需求.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/34、二叉树中和为某一值得路径/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/34、二叉树中和为某一值得路径/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/36、二叉搜索树与双向链表.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/src/com/company/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/src/题目需求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/35、复杂链表的复制/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../树/树的中序遍历/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../树/树的中序遍历/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -110,7 +111,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="761" />
+    <option name="x" value="953" />
     <option name="width" value="1414" />
     <option name="height" value="1047" />
   </component>
@@ -208,7 +209,7 @@
       <workItem from="1603635524354" duration="3405000" />
       <workItem from="1603639545069" duration="3248000" />
       <workItem from="1604113636507" duration="52000" />
-      <workItem from="1606827164153" duration="386000" />
+      <workItem from="1606827164153" duration="915000" />
     </task>
     <task id="LOCAL-00001" summary="复制带随机指针的链表的架构">
       <created>1603635553694</created>
@@ -263,7 +264,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7091000" />
+    <option name="totallyTimeSpent" value="7620000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -361,7 +362,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
         </state>
       </provider>
     </entry>
