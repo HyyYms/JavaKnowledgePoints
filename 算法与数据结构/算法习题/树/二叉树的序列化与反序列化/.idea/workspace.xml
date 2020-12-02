@@ -2,22 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faa7499d-0802-4731-8ee1-a6a3c9303b93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/32、从上到下打印二叉树.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/src/com/company/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/src/题目需求.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/29、顺时针打印矩阵/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/29、顺时针打印矩阵/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../二叉树的最近祖先/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉树的最近祖先/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../平衡二叉树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../平衡二叉树/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/37、序列化二叉树.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/src/com/company/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/src/题目需求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../树的中序遍历/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../树的中序遍历/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Codec.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-250">
-              <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+            <state relative-caret-position="325">
+              <caret line="89" column="17" lean-forward="true" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,9 +96,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="678" />
-    <option name="width" value="1534" />
-    <option name="height" value="1047" />
+    <option name="x" value="677" />
+    <option name="width" value="1535" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -107,8 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,6 +128,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,6 +202,7 @@
       <updated>1604305285966</updated>
       <workItem from="1604305290365" duration="4383000" />
       <workItem from="1606640010897" duration="153000" />
+      <workItem from="1606879074544" duration="1096000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树的序列号与反序列化的架构以及题目需求">
       <created>1604305370424</created>
@@ -222,12 +222,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4536000" />
+    <option name="totallyTimeSpent" value="5632000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="678" y="0" width="1534" height="1047" extended-state="0" />
+    <frame x="542" y="0" width="1228" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12279511" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124786325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -296,6 +297,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/题目需求.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -307,18 +316,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/题目需求.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Codec.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+        <state relative-caret-position="325">
+          <caret line="89" column="17" lean-forward="true" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

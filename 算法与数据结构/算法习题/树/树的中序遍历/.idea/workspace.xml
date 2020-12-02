@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f071964-485a-41cb-9aa5-213fb38444b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/src/com/company/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -168,7 +167,7 @@
       <workItem from="1604409831529" duration="1906000" />
       <workItem from="1606444049042" duration="599000" />
       <workItem from="1606828318210" duration="1823000" />
-      <workItem from="1606876676803" duration="251000" />
+      <workItem from="1606876676803" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="树的中序遍历以及题目需求">
       <created>1604230994097</created>
@@ -188,10 +187,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6574000" />
+    <option name="totallyTimeSpent" value="6922000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-506" y="0" width="1132" height="830" extended-state="0" />
+    <frame x="-506" y="0" width="1132" height="830" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3640596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
