@@ -202,7 +202,7 @@
       <updated>1604305285966</updated>
       <workItem from="1604305290365" duration="4383000" />
       <workItem from="1606640010897" duration="153000" />
-      <workItem from="1606879074544" duration="1096000" />
+      <workItem from="1606879074544" duration="1206000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树的序列号与反序列化的架构以及题目需求">
       <created>1604305370424</created>
@@ -222,7 +222,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5632000" />
+    <option name="totallyTimeSpent" value="5742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="542" y="0" width="1228" height="830" extended-state="0" />
