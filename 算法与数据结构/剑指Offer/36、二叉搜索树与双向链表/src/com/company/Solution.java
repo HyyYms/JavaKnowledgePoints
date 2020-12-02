@@ -11,7 +11,35 @@ import java.util.LinkedList;
  **/
 public class Solution {
 
-    public Node treeToDoublyList(Node root) {
+
+    Node dfsPre, dfsHead;
+
+    public Node treeToDoublyList2(Node root) {
+        if (root == null) {
+            return null;
+        }
+        dfs(root);
+        dfsHead.left = dfsPre;
+        dfsPre.right = dfsHead;
+        return dfsHead;
+    }
+
+    private void dfs(Node cur) {
+        if (cur == null) {
+            return;
+        }
+        dfs(cur.left);
+        if (dfsPre != null) {
+            dfsPre.right = cur;
+        } else {
+            dfsHead = cur;
+        }
+        cur.left = dfsPre;
+        dfsPre = cur;
+        dfs(cur.right);
+    }
+
+    public Node treeToDoublyList1(Node root) {
         if (root == null) {
             return null;
         }
