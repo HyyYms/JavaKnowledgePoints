@@ -2,21 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f8c0328-9219-44ea-8cc1-682246259fcf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/32、从上到下打印二叉树.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/src/com/company/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/src/题目需求.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/29、顺时针打印矩阵/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/29、顺时针打印矩阵/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../平衡二叉树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../平衡二叉树/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/42、连续子数组的最大和/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/42、连续子数组的最大和/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/42、连续子数组的最大和/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/42、连续子数组的最大和/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/42、连续子数组的最大和/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/42、连续子数组的最大和/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/42、连续子数组的最大和/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/42、连续子数组的最大和/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/42、连续子数组的最大和/42、连续子数组的最大和.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/42、连续子数组的最大和/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/42、连续子数组的最大和/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/42、连续子数组的最大和/src/题目需求.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/68、二叉搜索树的最近公共祖先.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/src/com/company/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/src/com/company/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/src/题目需求.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/68、二叉搜索树的最近公共祖先/src/题目需求2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../动态规划/最长公共子序列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../动态规划/最长公共子序列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../排序/快速排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../排序/快速排序/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            <state relative-caret-position="375">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -82,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="444" />
     <option name="width" value="1534" />
     <option name="height" value="1047" />
@@ -123,7 +138,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../二叉树的序列化与反序列化" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -161,6 +176,7 @@
       <updated>1604378834216</updated>
       <workItem from="1604378838517" duration="3271000" />
       <workItem from="1606639967034" duration="42000" />
+      <workItem from="1607008784793" duration="247000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树的最近祖先的架构">
       <created>1604378887356</created>
@@ -187,12 +203,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3313000" />
+    <option name="totallyTimeSpent" value="3560000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="444" y="0" width="1534" height="1047" extended-state="0" />
+    <frame x="444" y="0" width="1534" height="1047" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27815467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28222525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -254,8 +271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        <state relative-caret-position="375">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

@@ -9,11 +9,11 @@
       <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/project-template.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/40、最小的K个数.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/src/com/company/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/src/com/company/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../剑指Offer/38、字符串的排列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/38、字符串的排列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -146,7 +146,7 @@
       <workItem from="1604582342013" duration="3981000" />
       <workItem from="1604628401142" duration="703000" />
       <workItem from="1604726073517" duration="158000" />
-      <workItem from="1606957497512" duration="979000" />
+      <workItem from="1606957497512" duration="1036000" />
     </task>
     <task id="LOCAL-00001" summary="快速排序的架构">
       <created>1604582447171</created>
@@ -173,7 +173,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5821000" />
+    <option name="totallyTimeSpent" value="5878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
