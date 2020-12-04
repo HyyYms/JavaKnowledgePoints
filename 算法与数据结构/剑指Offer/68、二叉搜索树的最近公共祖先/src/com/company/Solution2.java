@@ -25,6 +25,4 @@ public class Solution2 {
             return right;
         }
     }
-
-
 }
