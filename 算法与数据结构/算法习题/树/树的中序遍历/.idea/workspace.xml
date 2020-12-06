@@ -2,32 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f071964-485a-41cb-9aa5-213fb38444b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/53、在排序数组中查找数字/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/53、在排序数组中查找数字/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/53、在排序数组中查找数字/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/53、在排序数组中查找数字/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/53、在排序数组中查找数字/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/53、在排序数组中查找数字/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/53、在排序数组中查找数字/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/53、在排序数组中查找数字/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/53、在排序数组中查找数字/53、在排序数组中查找数字.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/53、在排序数组中查找数字/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/53、在排序数组中查找数字/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/53、在排序数组中查找数字/src/com/company/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/53、在排序数组中查找数字/src/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/54、二叉搜索树的第K大节点/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/54、二叉搜索树的第K大节点/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/54、二叉搜索树的第K大节点/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/54、二叉搜索树的第K大节点/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/54、二叉搜索树的第K大节点/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/54、二叉搜索树的第K大节点/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/54、二叉搜索树的第K大节点/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/54、二叉搜索树的第K大节点/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/54、二叉搜索树的第K大节点/54、二叉搜索树的第K大节点.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/54、二叉搜索树的第K大节点/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/54、二叉搜索树的第K大节点/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/54、二叉搜索树的第K大节点/src/com/company/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/59、滑动窗口的最大值/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/59、滑动窗口的最大值/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/54、二叉搜索树的第K大节点/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/54、二叉搜索树的第K大节点/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../树的前序遍历/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../树的前序遍历/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../树的后序遍历/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../树的后序遍历/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+            <state relative-caret-position="827">
+              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,11 +82,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-263" />
-    <option name="y" value="31" />
-    <option name="width" value="1415" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="510" />
+    <option name="width" value="1504" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -216,10 +193,10 @@
     <option name="totallyTimeSpent" value="7694000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-263" y="31" width="1415" height="1038" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3697417" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26705757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -286,8 +263,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        <state relative-caret-position="827">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
