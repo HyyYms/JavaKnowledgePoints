@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbab7ade-5835-400d-b969-33b2ac9f986c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/40、最小的K个数.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/src/com/company/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/38、字符串的排列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/38、字符串的排列/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/40、最小的K个数/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/45、把数组排成最小的数/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/45、把数组排成最小的数/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/45、把数组排成最小的数/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/45、把数组排成最小的数/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/45、把数组排成最小的数/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/45、把数组排成最小的数/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/45、把数组排成最小的数/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/45、把数组排成最小的数/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/45、把数组排成最小的数/45、把数组排成最小的数.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/45、把数组排成最小的数/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/45、把数组排成最小的数/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/50、第一个只出现一次的字符/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/50、第一个只出现一次的字符/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            <state relative-caret-position="428">
+              <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
               <folding>
                 <element signature="e#310#311#0" expanded="true" />
                 <element signature="e#354#355#0" expanded="true" />
@@ -62,9 +62,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="355" />
-    <option name="width" value="1567" />
-    <option name="height" value="1038" />
+    <option name="x" value="627" />
+    <option name="width" value="1735" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -72,7 +72,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,6 +95,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,6 +147,7 @@
       <workItem from="1604628401142" duration="703000" />
       <workItem from="1604726073517" duration="158000" />
       <workItem from="1606957497512" duration="1036000" />
+      <workItem from="1607482607785" duration="931000" />
     </task>
     <task id="LOCAL-00001" summary="快速排序的架构">
       <created>1604582447171</created>
@@ -173,13 +174,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5878000" />
+    <option name="totallyTimeSpent" value="6809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.117292225" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17225201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -226,8 +227,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        <state relative-caret-position="428">
+          <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
           <folding>
             <element signature="e#310#311#0" expanded="true" />
             <element signature="e#354#355#0" expanded="true" />
