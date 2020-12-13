@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="018a172d-9678-4d42-a705-9d634ce08d10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/47、礼物的最大价值.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/13、机器人的运动范围/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/13、机器人的运动范围/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/48、最长不含重复字符的子字符串/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/48、最长不含重复字符的子字符串/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单词拆分/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单词拆分/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../宽度优先搜索/小岛问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../宽度优先搜索/小岛问题/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../并查集/小岛问题二/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../并查集/小岛问题二/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../深度优先搜索/n皇后/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../深度优先搜索/n皇后/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../深度优先搜索/全排列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../深度优先搜索/全排列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../深度优先搜索/子集/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../深度优先搜索/子集/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-437">
-              <caret line="10" selection-start-line="10" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="128">
+              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -57,9 +74,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="320" />
-    <option name="width" value="1940" />
-    <option name="height" value="1047" />
+    <option name="x" value="460" />
+    <option name="width" value="1415" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -67,8 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,12 +106,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,6 +157,7 @@
       <updated>1605276925836</updated>
       <workItem from="1605276928800" duration="801000" />
       <workItem from="1605425435630" duration="944000" />
+      <workItem from="1607568564257" duration="71000" />
     </task>
     <task id="LOCAL-00001" summary="回文分割的架构与题目需求">
       <created>1605277004526</created>
@@ -151,13 +170,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1745000" />
+    <option name="totallyTimeSpent" value="1816000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1068" y="66" width="1940" height="1076" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11968085" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.121313676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -200,17 +219,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="回文分割的架构与题目需求" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-437">
-          <caret line="10" selection-start-line="10" selection-end-line="43" selection-end-column="5" />
         </state>
       </provider>
     </entry>
