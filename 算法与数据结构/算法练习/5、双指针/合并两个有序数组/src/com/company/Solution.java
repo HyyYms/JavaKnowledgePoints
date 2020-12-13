@@ -10,9 +10,66 @@ import java.util.Arrays;
  **/
 public class Solution {
 
+    public static void main(String[] args) {
+        new Solution().merge3(new int[]{
+                        1, 2, 3, 0, 0, 0
+                }, 3,
+                new int[]{
+                        2, 5, 6
+                }, 3);
+    }
+
     // 先合并再排序
     public void merge1(int[] nums1, int m, int[] nums2, int n) {
         System.arraycopy(nums2, 0, nums1, m, n);
         Arrays.sort(nums1);
+    }
+
+    // 双指针_从前往后
+    public void merge2(int[] nums1, int m, int[] nums2, int n) {
+        int[] numsCopy = new int[m + n];
+        int p1 = 0;
+        int p2 = 0;
+        int cur = 0;
+        while (p1 < m && p2 < n) {
+            if (nums1[p1] < nums2[p2]) {
+                numsCopy[cur] = nums1[p1];
+                p1++;
+            } else {
+                numsCopy[cur] = nums2[p2];
+                p2++;
+            }
+            cur++;
+        }
+        while (p1 < m) {
+            numsCopy[cur++] = nums1[p1++];
+        }
+        while (p2 < n) {
+            numsCopy[cur++] = nums2[p2++];
+        }
+        System.arraycopy(numsCopy, 0, nums1, 0, m + n);
+    }
+
+    // 双指针_从后往前
+    public void merge3(int[] nums1, int m, int[] nums2, int n) {
+        int p1 = m - 1;
+        int p2 = n - 1;
+        int cur = m + n - 1;
+        while (p1 >= 0 && p2 >= 0) {
+            if (nums1[p1] > nums2[p2]) {
+                nums1[cur] = nums1[p1];
+                p1--;
+            } else {
+                nums1[cur] = nums2[p2];
+                p2--;
+            }
+            cur--;
+        }
+        while (p1 >= 0){
+            nums1[cur--] = nums1[p1--];
+        }
+        while (p2 >= 0){
+            nums1[cur--] = nums2[p2--];
+        }
     }
 }
