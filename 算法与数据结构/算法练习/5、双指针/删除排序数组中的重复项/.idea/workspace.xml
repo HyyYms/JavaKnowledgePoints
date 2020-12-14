@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baaf731c-9c1c-4b49-990d-dbebdbab6d02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/题目需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/删除排序数组中的重复项.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../验证回文串/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../验证回文串/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="baaf731c-9c1c-4b49-990d-dbebdbab6d02" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="450">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -64,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="325" />
     <option name="width" value="1939" />
     <option name="height" value="1038" />
@@ -163,18 +150,25 @@
       <option name="presentableId" value="Default" />
       <updated>1607915801431</updated>
       <workItem from="1607915804233" duration="1894000" />
-      <workItem from="1607920780192" duration="1358000" />
+      <workItem from="1607920780192" duration="1543000" />
     </task>
+    <task id="LOCAL-00001" summary="删除排序数组中的重复项的解法以及题目需求">
+      <created>1607922285459</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607922285459</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3252000" />
+    <option name="totallyTimeSpent" value="3437000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="325" y="0" width="1939" height="1038" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13943587" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -184,7 +178,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.25221238" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24728851" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -211,6 +205,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除排序数组中的重复项的解法以及题目需求" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除排序数组中的重复项的解法以及题目需求" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -240,8 +238,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="450">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
     </entry>
