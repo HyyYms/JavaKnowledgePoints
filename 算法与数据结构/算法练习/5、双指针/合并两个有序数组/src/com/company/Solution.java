@@ -72,4 +72,27 @@ public class Solution {
             nums1[cur--] = nums2[p2--];
         }
     }
+
+    // 双指针——从后往前
+    public void merge4(int[] A, int m, int[] B, int n) {
+        if(A == null || A.length == 0 || B == null || B.length == 0){
+            return;
+        }
+        int p1 = m;
+        int p2 = n;
+        while(p2 > 0) {
+            if(p1 > 0 && A[p1 - 1] < B[p2 - 1]) {
+                A[p1 + p2 - 1] = B[p2 - 1];
+                p2--;
+            } else {
+                if(p1 > 0) {
+                    A[p1 + p2 - 1] = A[p1 - 1];
+                    p1--;
+                } else {
+                    A[p2 - 1] = B[p2 - 1];
+                    p2--;
+                }
+            }
+        }
+    }
 }
