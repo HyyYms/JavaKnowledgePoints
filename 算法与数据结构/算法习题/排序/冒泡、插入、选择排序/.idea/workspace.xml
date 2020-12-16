@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="feb4b10f-328c-4d5e-9d8c-e4c89cf115d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../堆/数据流中的中位数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/数据流中的中位数/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../堆/第K大元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/第K大元素/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../散列/克隆图/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/克隆图/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../散列/子数组和等于K/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/子数组和等于K/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../散列/最长无重复的字符串/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/最长无重复的字符串/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../树/二叉树的序列化与反序列化/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../归并排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../归并排序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../快速排序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../树/二叉树的右视角/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../树/二叉树的右视角/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../树/二叉树的序列化与反序列化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../树/二叉树的序列化与反序列化/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../树/二叉树的序列化与反序列化/src/com/company/Codec.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../树/二叉树的序列化与反序列化/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../树/二叉树的最近祖先/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../树/二叉树的最近祖先/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../树/平衡二叉树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../树/平衡二叉树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法练习/5、双指针/两个数组的交集/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/两个数组的交集/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="43" />
+            <state relative-caret-position="250">
+              <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -43,9 +47,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="719" />
-    <option name="width" value="1278" />
-    <option name="height" value="1047" />
+    <option name="x" value="922" />
+    <option name="width" value="1535" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -53,8 +57,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,6 +87,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../归并排序" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -125,6 +130,7 @@
       <updated>1604493711240</updated>
       <workItem from="1604493714450" duration="3508000" />
       <workItem from="1604726088905" duration="4000" />
+      <workItem from="1608032976079" duration="1555000" />
     </task>
     <task id="LOCAL-00001" summary="冒泡、插入、选择排序的架构">
       <created>1604493743108</created>
@@ -144,13 +150,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3512000" />
+    <option name="totallyTimeSpent" value="5067000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16364606" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16554959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -196,8 +201,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="43" />
+        <state relative-caret-position="250">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
         </state>
       </provider>
     </entry>

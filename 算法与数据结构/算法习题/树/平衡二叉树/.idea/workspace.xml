@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b62a4f95-52c1-4e97-9824-e6dc46c549a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/32、从上到下打印二叉树.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/src/com/company/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/32、从上到下打印二叉树/src/题目需求.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/29、顺时针打印矩阵/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/29、顺时针打印矩阵/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../二叉树的序列化与反序列化/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../排序/快速排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../排序/快速排序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉树的右视角/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉树的右视角/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉树的序列化与反序列化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉树的序列化与反序列化/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉树的序列化与反序列化/src/com/company/Codec.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉树的序列化与反序列化/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉树的最近祖先/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉树的最近祖先/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法练习/5、双指针/两个数组的交集/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/两个数组的交集/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -55,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="350">
+              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -65,7 +57,9 @@
         <entry file="file://$PROJECT_DIR$/src/题目需求.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-32" />
+              <first_editor relative-caret-position="500">
+                <caret line="41" lean-forward="true" selection-start-line="2" selection-end-line="41" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -91,11 +85,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="702" />
-    <option name="y" value="59" />
-    <option name="width" value="1534" />
-    <option name="height" value="1100" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -133,7 +127,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../二叉树的最近祖先" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -193,6 +187,7 @@
       <updated>1604382111582</updated>
       <workItem from="1604382114120" duration="2849000" />
       <workItem from="1606639901108" duration="64000" />
+      <workItem from="1608030618017" duration="1788000" />
     </task>
     <task id="LOCAL-00001" summary="平衡二叉树的架构以及题目需求">
       <created>1604382188610</created>
@@ -212,12 +207,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2913000" />
+    <option name="totallyTimeSpent" value="4701000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="782" height="838" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33701658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -282,15 +277,17 @@
     <entry file="file://$PROJECT_DIR$/src/题目需求.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-32" />
+          <first_editor relative-caret-position="500">
+            <caret line="41" lean-forward="true" selection-start-line="2" selection-end-line="41" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="350">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
         </state>
       </provider>
     </entry>

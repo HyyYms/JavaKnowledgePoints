@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faa7499d-0802-4731-8ee1-a6a3c9303b93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/37、序列化二叉树.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/src/com/company/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/37、序列化二叉树/src/题目需求.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/36、二叉搜索树与双向链表/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../树的中序遍历/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../树的中序遍历/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../排序/快速排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../排序/快速排序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉树的右视角/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉树的右视角/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Codec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉树的最近祖先/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉树的最近祖先/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../平衡二叉树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../平衡二叉树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法练习/5、双指针/两个数组的交集/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/两个数组的交集/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -41,10 +33,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Codec.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="89" column="17" lean-forward="true" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+            <state relative-caret-position="179">
+              <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,8 +47,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/题目需求.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="100">
+                <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="89" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -65,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="200">
+              <caret line="8" selection-start-line="8" selection-end-line="25" selection-end-column="1" />
               <folding>
                 <element signature="e#221#222#0" expanded="true" />
                 <element signature="e#244#245#0" expanded="true" />
@@ -92,13 +86,15 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/company/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/com/company/Codec.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Solution.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="677" />
-    <option name="width" value="1535" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -106,6 +102,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,7 +125,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -136,7 +132,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../二叉树的右视角" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../排序/冒泡、插入、选择排序" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -156,9 +152,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Codec">
-    <configuration name="Codec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Codec" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="二叉树的序列化与反序列化" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Solution" />
       <module name="二叉树的序列化与反序列化" />
       <extension name="coverage">
         <pattern>
@@ -170,23 +176,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="二叉树的序列化与反序列化" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Codec" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Codec" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +199,9 @@
       <workItem from="1604305290365" duration="4383000" />
       <workItem from="1606640010897" duration="153000" />
       <workItem from="1606879074544" duration="1206000" />
+      <workItem from="1608020726160" duration="2039000" />
+      <workItem from="1608028506170" duration="317000" />
+      <workItem from="1608029156184" duration="700000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树的序列号与反序列化的架构以及题目需求">
       <created>1604305370424</created>
@@ -222,13 +221,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5742000" />
+    <option name="totallyTimeSpent" value="8798000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="542" y="0" width="1228" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124786325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15013404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -275,13 +273,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Codec.java</url>
+          <url>file://$PROJECT_DIR$/src/com/company/Solution.java</url>
           <line>33</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Codec.java</url>
+          <url>file://$PROJECT_DIR$/src/com/company/Solution.java</url>
           <line>73</line>
           <properties />
           <option name="timeStamp" value="9" />
@@ -299,16 +297,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/题目需求.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="100">
+            <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="89" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="25" selection-end-column="1" />
           <folding>
             <element signature="e#221#222#0" expanded="true" />
             <element signature="e#244#245#0" expanded="true" />
@@ -316,10 +316,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Codec.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="89" column="17" lean-forward="true" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+        <state relative-caret-position="179">
+          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

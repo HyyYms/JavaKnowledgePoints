@@ -10,7 +10,7 @@ import java.util.List;
  * @author: Mr.Huang
  * @create: 2020-11-02 16:32
  **/
-public class Codec {
+public class Solution {
 
     public static void main(String[] args) {
         TreeNode root = new TreeNode(1);
@@ -24,14 +24,14 @@ public class Codec {
         root1.right.left = new TreeNode(4);
         root1.right.right = new TreeNode(5);
 
-        String serialize = new Codec().serialize(root);
+        String serialize = new Solution().serialize(root);
         System.out.println(serialize);
-        TreeNode deserialize = new Codec().deserialize(serialize);
+        TreeNode deserialize = new Solution().deserialize(serialize);
         System.out.println(deserialize);
 
-        String serialize1 = new Codec().serialize(root1);
+        String serialize1 = new Solution().serialize(root1);
         System.out.println(serialize1);
-        TreeNode deserialize1 = new Codec().deserialize(serialize1);
+        TreeNode deserialize1 = new Solution().deserialize(serialize1);
         System.out.println(deserialize1);
     }
 
