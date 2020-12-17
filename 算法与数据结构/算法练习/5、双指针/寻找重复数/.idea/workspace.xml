@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4320269-4c8c-4639-abbd-6f06e5dce18f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../算法习题/树/二叉树的序列化与反序列化/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/寻找重复数.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法习题/排序/冒泡、插入、选择排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法习题/排序/冒泡、插入、选择排序/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法习题/排序/归并排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法习题/排序/归并排序/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法习题/排序/快速排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法习题/排序/快速排序/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法习题/树/二叉树的右视角/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法习题/树/二叉树的右视角/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法习题/树/二叉树的序列化与反序列化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法习题/树/二叉树的序列化与反序列化/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法习题/树/二叉树的序列化与反序列化/src/com/company/Codec.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法习题/树/二叉树的序列化与反序列化/src/com/company/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法习题/树/二叉树的最近祖先/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法习题/树/二叉树的最近祖先/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法习题/树/平衡二叉树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法习题/树/平衡二叉树/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../两个数组的交集/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../两个数组的交集/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="24" selection-start-line="24" selection-end-line="41" selection-end-column="20" />
+            <state relative-caret-position="200">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,9 +58,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="708" />
+    <option name="x" value="92" />
+    <option name="y" value="50" />
     <option name="width" value="1535" />
-    <option name="height" value="1038" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -159,16 +140,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608086283604</updated>
-      <workItem from="1608086288356" duration="1811000" />
+      <workItem from="1608086288356" duration="3322000" />
     </task>
+    <task id="LOCAL-00001" summary="寻找重复数的题解以及题目需求">
+      <created>1608088775544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608088775544</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1811000" />
+    <option name="totallyTimeSpent" value="3322000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="567" y="0" width="1228" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="74" y="40" width="1228" height="839" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -205,6 +193,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="寻找重复数的题解以及题目需求" />
+    <option name="LAST_COMMIT_MESSAGE" value="寻找重复数的题解以及题目需求" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -215,8 +207,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="24" selection-start-line="24" selection-end-line="41" selection-end-column="20" />
+        <state relative-caret-position="200">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
