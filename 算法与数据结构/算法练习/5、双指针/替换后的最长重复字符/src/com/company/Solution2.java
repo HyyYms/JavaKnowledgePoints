@@ -28,6 +28,6 @@ public class Solution2 {
                 left++;
             }
         }
-        return A.length - left;
+        return right - left;
     }
 }

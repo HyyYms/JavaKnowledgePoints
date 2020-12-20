@@ -34,6 +34,6 @@ public class Solution {
                 left++;
             }
         }
-        return chars.length - left;
+        return right - left;
     }
 }
