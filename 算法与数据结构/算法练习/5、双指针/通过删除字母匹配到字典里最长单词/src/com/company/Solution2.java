@@ -1,5 +1,6 @@
 package com.company;
 
+
 import java.util.Arrays;
 
 
@@ -11,11 +12,48 @@ import java.util.Arrays;
  **/
 public class Solution2 {
 
+    class Work {
+        int difficulty;
+        int profit;
+
+        public Work(int difficulty, int profit) {
+            this.difficulty = difficulty;
+            this.profit = profit;
+        }
+    }
+
     public static void main(String[] args) {
         new Solution2().maxProfitAssignment2(
                 new int[]{2, 4, 6, 8, 10},
                 new int[]{10, 20, 30, 40, 50},
                 new int[]{4, 5, 6, 7});
+    }
+
+    // 使用额外的一个类进行排序
+    public int maxProfitAssignment3(int[] difficulty, int[] profit, int[] worker) {
+        if (worker == null || worker.length == 0) {
+            return 0;
+        }
+        Work[] help = new Work[difficulty.length];
+        for (int i = 0; i < difficulty.length; i++) {
+            help[i] = new Work(difficulty[i], profit[i]);
+        }
+        Arrays.sort(worker);
+        Arrays.sort(help, (o1, o2) ->
+                o1.difficulty - o2.difficulty
+        );
+        int res = 0;
+        int maxPro = 0;
+        int maxDiff = 0;
+        for (int value : worker) {
+            while (maxDiff < help.length &&
+                    value >= help[maxDiff].difficulty) {
+                maxPro = Math.max(maxPro, help[maxDiff].profit);
+                maxDiff++;
+            }
+            res += maxPro;
+        }
+        return res;
     }
 
     // 使用快排进行难度和资金的排序
