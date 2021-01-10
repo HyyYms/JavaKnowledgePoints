@@ -94,19 +94,13 @@ public class Solution {
         if (nums == null || nums.length == 0 || k < 1 || k > nums.length) {
             return -1;
         }
-        PriorityQueue<Integer> heap = new PriorityQueue<Integer>(k, new Comparator<Integer>() {
-            @Override
-            public int compare(Integer o1, Integer o2) {
-                return o2 - o1;
+        PriorityQueue<Integer> heap = new PriorityQueue<>();
+
+        for (int num : nums) {
+            heap.add(num);
+            if (heap.size() > k) {
+                heap.poll();
             }
-        });
-
-        for (int i = 0; i < nums.length; i++) {
-            heap.add(nums[i]);
-        }
-
-        for (int i = 0; i < k - 1; i++) {
-            heap.poll();
         }
         return heap.peek();
     }

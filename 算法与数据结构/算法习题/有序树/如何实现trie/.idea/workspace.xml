@@ -2,10 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41c88781-b714-4465-94af-148662c85b56" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../二分查找/二分查找/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../二分查找/二分查找/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/WordDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/题目需求2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/删除子数组的最大得分.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../堆/数据流中的中位数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/数据流中的中位数/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../堆/数据流中的中位数/src/com/company/MedianFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/数据流中的中位数/src/com/company/MedianFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../堆/第K大元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/第K大元素/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../堆/第K大元素/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/第K大元素/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../字符串/整数转罗马数字/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../字符串/整数转罗马数字/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../字符串/整数转罗马数字/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../字符串/整数转罗马数字/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../字符串/逆转单词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../字符串/逆转单词/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../并查集/小岛问题二/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../并查集/小岛问题二/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../并查集/并查集/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../并查集/并查集/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../宽度优先搜索/小岛问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../宽度优先搜索/小岛问题/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../散列/克隆图/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/克隆图/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../散列/子数组和等于K/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/子数组和等于K/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../散列/最长无重复的字符串/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/最长无重复的字符串/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../深度优先搜索/n皇后/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../深度优先搜索/n皇后/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../深度优先搜索/全排列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../深度优先搜索/全排列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../深度优先搜索/全排列/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../深度优先搜索/全排列/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../深度优先搜索/子集/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../深度优先搜索/子集/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../深度优先搜索/子集/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../深度优先搜索/子集/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../链表/两数相加/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/META-INF/两数相加.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/com/company/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/com/company/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/com/company/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/com/company/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../链表/两数相加/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法练习/5、双指针/通过删除字母匹配到字典里最长单词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/通过删除字母匹配到字典里最长单词/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +63,52 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Trie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="23" column="43" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="375">
+              <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/WordDictionary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="63" column="44" lean-forward="true" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#1554#1555#0" expanded="true" />
+                <element signature="e#1588#1589#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/题目需求2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="519">
+                <caret line="36" selection-start-line="36" selection-end-line="36" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/题目需求.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="50">
+                <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -55,14 +131,15 @@
         <option value="$PROJECT_DIR$/src/com/company/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/company/Tire.java" />
         <option value="$PROJECT_DIR$/src/com/company/Trie.java" />
+        <option value="$PROJECT_DIR$/src/com/company/题目需求2.md" />
+        <option value="$PROJECT_DIR$/src/com/company/WordDictionary.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-53" />
-    <option name="y" value="344" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-428" />
+    <option name="width" value="1324" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -100,10 +177,21 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/面试代码示例/GitHub仓库/算法与数据结构/算法习题/二分查找/二分查找" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.42846715" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WorkSpace\面试代码示例\GitHub仓库\算法与数据结构\算法习题\有序树\如何实现trie\src\com\company" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Trie">
+  <component name="RunManager" selected="Application.WordDictionary">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="如何实现trie" />
@@ -141,12 +229,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WordDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.WordDictionary" />
+      <module name="如何实现trie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Trie" />
+      <item itemvalue="Application.WordDictionary" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordDictionary" />
         <item itemvalue="Application.Trie" />
       </list>
     </recent_temporary>
@@ -164,6 +267,7 @@
       <workItem from="1604838546380" duration="1452000" />
       <workItem from="1604840063290" duration="801000" />
       <workItem from="1604982828953" duration="732000" />
+      <workItem from="1610247936229" duration="11004000" />
     </task>
     <task id="LOCAL-00001" summary="如何实现tire(前缀树)的架构以及题目需求">
       <created>1604838640730</created>
@@ -190,13 +294,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2985000" />
+    <option name="totallyTimeSpent" value="13989000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11247335" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11394102" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -206,7 +310,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37677053" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -248,6 +352,30 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/WordDictionary.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/WordDictionary.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/WordDictionary.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/WordDictionary.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -259,10 +387,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/题目需求.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="50">
+            <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Trie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="43" />
+        <state relative-caret-position="375">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/题目需求2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="519">
+            <caret line="36" selection-start-line="36" selection-end-line="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/WordDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="63" column="44" lean-forward="true" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#1554#1555#0" expanded="true" />
+            <element signature="e#1588#1589#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -3,6 +3,7 @@ package com.company;
 
 import com.sun.org.apache.regexp.internal.RE;
 
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -25,19 +26,45 @@ public class Solution {
 
     public static void main(String[] args) {
         // write your code here
-        ListNode l1 = new ListNode(2);
-        l1.next = new ListNode(4);
-        l1.next.next = new ListNode(3);
-
-        ListNode l2 = new ListNode(5);
-        l2.next = new ListNode(6);
-        l2.next.next = new ListNode(4);
-
-        ListNode node = addTwoNumbers(l1, l2);
-        while (node != null) {
-            System.out.println(node.val);
-            node = node.next;
+//        ListNode l1 = new ListNode(2);
+//        l1.next = new ListNode(4);
+//        l1.next.next = new ListNode(3);
+//
+//        ListNode l2 = new ListNode(5);
+//        l2.next = new ListNode(6);
+//        l2.next.next = new ListNode(4);
+//
+//        ListNode node = addTwoNumbers(l1, l2);
+//        while (node != null) {
+//            System.out.println(node.val);
+//            node = node.next;
+//        }
+        int num = new Solution().candy(new int[]{1,0,2});
+        System.out.println(num);
+    }
+    public int candy(int[] ratings) {
+        if(ratings == null || ratings.length == 0){
+            return 0;
         }
+
+        Arrays.sort(ratings);
+        int[] res = new int[ratings.length];
+        int sum = 0;
+        for(int i = 0; i < ratings.length; i++) {
+            if((i == 0 )|| (i > 0 && ratings[i - 1] == ratings[i])){
+                res[i] = 1;
+                continue;
+            }
+            if(ratings[i] > ratings[i-1]){
+                res[i] = res[i-1] +1;
+            }else{
+                res[i] = 1;
+            }
+        }
+        for(int i=0; i<res.length; i++){
+            sum += res[i];
+        }
+        return sum;
     }
 
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
@@ -53,7 +80,7 @@ public class Solution {
         while (l1 != null && l2 != null) {
             int number = l1.val + l2.val + carry;
             carry = number / 10;
-            pre.next = new ListNode(number);
+            pre.next = new ListNode(number % 10);
             pre = pre.next;
             l1 = l1.next;
             l2 = l2.next;
@@ -61,14 +88,14 @@ public class Solution {
         while (l1 != null) {
             int number = l1.val + carry;
             carry = number / 10;
-            pre.next = new ListNode(number);
+            pre.next = new ListNode(number % 10);
             pre = pre.next;
             l1 = l1.next;
         }
         while (l2 != null) {
             int number = l2.val + carry;
             carry = number / 10;
-            pre.next = new ListNode(number);
+            pre.next = new ListNode(number % 10);
             pre = pre.next;
             l2 = l2.next;
         }

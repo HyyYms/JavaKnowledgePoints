@@ -44,7 +44,6 @@ public class Solution {
         return -1;
     }
 
-
     private List<String> getNext(String word, Set<String> dict) {
         List<String> list = new ArrayList<String>();
         for (char i = 'a'; i <= 'z'; i++) {

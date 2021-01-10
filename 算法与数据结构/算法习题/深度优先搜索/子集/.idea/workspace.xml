@@ -2,23 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4ab09f2-c656-4460-a0df-3b4ecd4b142a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/47、礼物的最大价值.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../剑指Offer/47、礼物的最大价值/src/com/company/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/48、最长不含重复字符的子字符串/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/48、最长不含重复字符的子字符串/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/删除子数组的最大得分.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../堆/数据流中的中位数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/数据流中的中位数/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../堆/数据流中的中位数/src/com/company/MedianFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/数据流中的中位数/src/com/company/MedianFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../堆/第K大元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/第K大元素/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../堆/第K大元素/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/第K大元素/src/com/company/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/src/com/company/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../宽度优先搜索/小岛问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../宽度优先搜索/小岛问题/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../并查集/小岛问题二/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../并查集/小岛问题二/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../散列/克隆图/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/克隆图/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../散列/子数组和等于K/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/子数组和等于K/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../散列/最长无重复的字符串/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/最长无重复的字符串/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../n皇后/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../n皇后/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../全排列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../全排列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../全排列/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../全排列/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../链表/两数相加/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/META-INF/两数相加.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/com/company/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/com/company/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/com/company/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/com/company/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../链表/两数相加/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法练习/5、双指针/通过删除字母匹配到字典里最长单词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/通过删除字母匹配到字典里最长单词/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,8 +59,25 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
+            <state relative-caret-position="278">
               <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+              <folding>
+                <element signature="e#460#475#0" expanded="true" />
+                <element signature="e#573#582#0" expanded="true" />
+                <element signature="e#695#704#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/题目需求.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="550">
+                <caret line="22" column="3" lean-forward="true" selection-start-line="3" selection-end-line="22" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -71,9 +102,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="460" />
+    <option name="x" value="531" />
     <option name="width" value="1415" />
-    <option name="height" value="1039" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -111,7 +142,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../全排列" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../n皇后" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -171,6 +202,7 @@
       <updated>1604759892009</updated>
       <workItem from="1604759898730" duration="3032000" />
       <workItem from="1607568152415" duration="139000" />
+      <workItem from="1609937145790" duration="1931000" />
     </task>
     <task id="LOCAL-00001" summary="子集的架构以及题目需求">
       <created>1604759937902</created>
@@ -183,13 +215,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3171000" />
+    <option name="totallyTimeSpent" value="5102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.112600535" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11394102" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -239,10 +271,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/题目需求.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="550">
+            <caret line="22" column="3" lean-forward="true" selection-start-line="3" selection-end-line="22" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
+        <state relative-caret-position="278">
           <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding>
+            <element signature="e#460#475#0" expanded="true" />
+            <element signature="e#573#582#0" expanded="true" />
+            <element signature="e#695#704#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

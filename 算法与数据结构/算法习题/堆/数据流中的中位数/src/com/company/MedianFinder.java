@@ -16,7 +16,6 @@ public class MedianFinder {
     PriorityQueue<Integer> maxHeap;
     PriorityQueue<Integer> minHeap;
 
-
     /**
      * initialize your data structure here.
      */

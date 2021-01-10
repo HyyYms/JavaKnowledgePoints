@@ -24,11 +24,11 @@ public class Solution {
             return result;
         }
         ArrayList<Integer> list = new ArrayList<>();
-        help(result, nums, list);
+        dfs(result, nums, list);
         return result;
     }
 
-    private void help(List<List<Integer>> result, int[] nums, ArrayList<Integer> list) {
+    private void dfs(List<List<Integer>> result, int[] nums, ArrayList<Integer> list) {
         if (list.size() == nums.length) {
             result.add(new ArrayList<>(list));
             return;
@@ -38,7 +38,7 @@ public class Solution {
                 continue;
             }
             list.add(nums[i]);
-            help(result, nums, list);
+            dfs(result, nums, list);
             list.remove(list.size() - 1);
         }
     }

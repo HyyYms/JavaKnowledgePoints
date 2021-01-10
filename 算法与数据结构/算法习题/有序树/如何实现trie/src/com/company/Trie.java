@@ -3,7 +3,7 @@ package com.company;
 import java.util.HashMap;
 
 /**
- * @program: 如何实现tire
+ * @program: 如何实现trie
  * @description:
  * @author: Mr.Huang
  * @create: 2020-11-08 20:30

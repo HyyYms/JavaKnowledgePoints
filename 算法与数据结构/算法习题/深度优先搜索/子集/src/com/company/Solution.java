@@ -26,15 +26,15 @@ public class Solution {
         }
         List<Integer> list = new ArrayList<Integer>();
         Arrays.sort(nums);
-        help(result, nums, list, 0);
+        dfs(result, nums, list, 0);
         return result;
     }
 
-    private void help(List<List<Integer>> result, int[] nums, List<Integer> list, int start) {
+    private void dfs(List<List<Integer>> result, int[] nums, List<Integer> list, int start) {
         result.add(new ArrayList<>(list));
         for (int i = start; i < nums.length; i++) {
             list.add(nums[i]);
-            help(result, nums, list, i + 1);
+            dfs(result, nums, list, i + 1);
             list.remove(list.size() - 1);
         }
     }
