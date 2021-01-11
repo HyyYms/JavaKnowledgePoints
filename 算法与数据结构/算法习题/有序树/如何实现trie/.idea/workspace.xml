@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41c88781-b714-4465-94af-148662c85b56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/WordDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/题目需求2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/删除子数组的最大得分/删除子数组的最大得分.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../堆/数据流中的中位数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/数据流中的中位数/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../堆/数据流中的中位数/src/com/company/MedianFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/数据流中的中位数/src/com/company/MedianFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../堆/第K大元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/第K大元素/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../堆/第K大元素/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../堆/第K大元素/src/com/company/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../字符串/整数转罗马数字/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../字符串/整数转罗马数字/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../字符串/整数转罗马数字/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../字符串/整数转罗马数字/src/com/company/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../字符串/逆转单词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../字符串/逆转单词/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../宽度优先搜索/单词梯/src/com/company/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../宽度优先搜索/小岛问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../宽度优先搜索/小岛问题/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../散列/克隆图/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/克隆图/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../散列/子数组和等于K/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/子数组和等于K/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../散列/最长无重复的字符串/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../散列/最长无重复的字符串/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Trie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../深度优先搜索/n皇后/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../深度优先搜索/n皇后/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../深度优先搜索/全排列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../深度优先搜索/全排列/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../深度优先搜索/全排列/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../深度优先搜索/全排列/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../深度优先搜索/子集/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../深度优先搜索/子集/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../深度优先搜索/子集/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../深度优先搜索/子集/src/com/company/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../链表/两数相加/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/META-INF/两数相加.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/com/company/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/com/company/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/com/company/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../链表/两数相加/out/production/两数相加/com/company/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../链表/两数相加/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../链表/两数相加/src/com/company/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法练习/5、双指针/通过删除字母匹配到字典里最长单词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/5、双指针/通过删除字母匹配到字典里最长单词/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="41c88781-b714-4465-94af-148662c85b56" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/WordDictionary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="63" column="44" lean-forward="true" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+            <state relative-caret-position="328">
+              <caret line="73" column="32" lean-forward="true" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#473#474#0" expanded="true" />
@@ -177,7 +137,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../并查集/并查集" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -267,7 +227,7 @@
       <workItem from="1604838546380" duration="1452000" />
       <workItem from="1604840063290" duration="801000" />
       <workItem from="1604982828953" duration="732000" />
-      <workItem from="1610247936229" duration="11004000" />
+      <workItem from="1610247936229" duration="11112000" />
     </task>
     <task id="LOCAL-00001" summary="如何实现tire(前缀树)的架构以及题目需求">
       <created>1604838640730</created>
@@ -290,15 +250,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604840092412</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="如何实现trie的题目需求以及解法2">
+      <created>1610278903153</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610278903153</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13989000" />
+    <option name="totallyTimeSpent" value="14097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11394102" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -341,7 +307,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="如何实现tire(前缀树)的架构以及题目需求" />
     <MESSAGE value="如何实现trie的解法" />
-    <option name="LAST_COMMIT_MESSAGE" value="如何实现trie的解法" />
+    <MESSAGE value="如何实现trie的题目需求以及解法2" />
+    <option name="LAST_COMMIT_MESSAGE" value="如何实现trie的题目需求以及解法2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -416,8 +383,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/WordDictionary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="63" column="44" lean-forward="true" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+        <state relative-caret-position="328">
+          <caret line="73" column="32" lean-forward="true" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#473#474#0" expanded="true" />

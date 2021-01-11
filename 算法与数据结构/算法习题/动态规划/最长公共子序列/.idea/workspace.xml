@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a85f3c40-6cb3-4056-b7c1-f17748296fef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../剑指Offer/64、1+2+...+n/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../剑指Offer/64、1+2+...+n/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单词拆分/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单词拆分/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../回文分割/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../回文分割/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬楼梯/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../爬楼梯/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../独一的道路/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../独一的道路/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../独一的道路/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../独一的道路/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../并查集/小岛问题二/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../并查集/小岛问题二/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../并查集/并查集/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../并查集/并查集/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../并查集/并查集/src/com/company/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../并查集/并查集/src/com/company/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../有序树/如何实现trie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../有序树/如何实现trie/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="253">
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -29,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+            <state relative-caret-position="525">
+              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -39,7 +48,9 @@
         <entry file="file://$PROJECT_DIR$/src/题目需求.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-225" />
+              <first_editor relative-caret-position="375">
+                <caret line="36" column="3" lean-forward="true" selection-start-line="2" selection-end-line="36" selection-end-column="3" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -61,12 +72,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="585" />
-    <option name="width" value="1503" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="672" />
+    <option name="width" value="1504" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -75,6 +87,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,15 +111,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../独一的道路" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../爬楼梯" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,6 +162,7 @@
       <workItem from="1605187120612" duration="2378000" />
       <workItem from="1606958562937" duration="671000" />
       <workItem from="1607067680077" duration="59000" />
+      <workItem from="1610283316484" duration="2528000" />
     </task>
     <task id="LOCAL-00001" summary="最长公共子序列的架构以及题目需求">
       <created>1605187160644</created>
@@ -163,12 +182,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3108000" />
+    <option name="totallyTimeSpent" value="5636000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="468" y="0" width="1202" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14772727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1152815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -209,25 +229,27 @@
     <option name="LAST_COMMIT_MESSAGE" value="最长公共子序列的解法" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/题目需求.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-225" />
+          <first_editor relative-caret-position="375">
+            <caret line="36" column="3" lean-forward="true" selection-start-line="2" selection-end-line="36" selection-end-column="3" />
+          </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+        <state relative-caret-position="525">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
     </entry>

@@ -10,7 +10,6 @@ import java.util.HashMap;
  **/
 public class UnionFind {
 
-
     HashMap<Integer, Integer> father = new HashMap<>();
 
     public UnionFind(Integer n) {
@@ -35,10 +34,10 @@ public class UnionFind {
     }
 
     public void union(Integer x, Integer y) {
-        Integer fa_x = father.get(x);
-        Integer fa_y = father.get(y);
-        if (!fa_x.equals(fa_y)) {
-            father.put(fa_x, fa_y);
+        Integer faX = father.get(x);
+        Integer faY = father.get(y);
+        if (!faX.equals(faY)) {
+            father.put(faX, faY);
         }
     }
 }
