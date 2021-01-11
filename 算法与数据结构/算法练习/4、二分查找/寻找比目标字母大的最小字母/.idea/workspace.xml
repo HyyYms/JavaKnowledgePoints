@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76c24146-78b4-49c1-9b95-033e9b190099" name="Default Changelist" comment="" />
+    <list default="true" id="050a7ba2-6797-45d3-ba87-ebea1091ee23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/寻找比目标字母大的最小字母.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../矩阵中战斗力最弱的 K 行/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../矩阵中战斗力最弱的 K 行/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../矩阵中战斗力最弱的 K 行/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../矩阵中战斗力最弱的 K 行/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../矩阵中战斗力最弱的 K 行/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../矩阵中战斗力最弱的 K 行/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../矩阵中战斗力最弱的 K 行/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../矩阵中战斗力最弱的 K 行/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../矩阵中战斗力最弱的 K 行/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../矩阵中战斗力最弱的 K 行/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../矩阵中战斗力最弱的 K 行/矩阵中战斗力最弱的 K 行.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../排列硬币/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../排列硬币/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +51,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="123">
+              <caret line="11" column="76" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
               <folding>
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,10 +80,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="581" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="971" />
+    <option name="y" value="67" />
     <option name="width" value="1500" />
-    <option name="height" value="1038" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -67,21 +92,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="排列硬币" type="b2602c69:ProjectViewProjectNode" />
-              <item name="排列硬币" type="462c0819:PsiDirectoryNode" />
+              <item name="寻找比目标字母大的最小字母" type="b2602c69:ProjectViewProjectNode" />
+              <item name="寻找比目标字母大的最小字母" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="排列硬币" type="b2602c69:ProjectViewProjectNode" />
-              <item name="排列硬币" type="462c0819:PsiDirectoryNode" />
+              <item name="寻找比目标字母大的最小字母" type="b2602c69:ProjectViewProjectNode" />
+              <item name="寻找比目标字母大的最小字母" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="排列硬币" type="b2602c69:ProjectViewProjectNode" />
-              <item name="排列硬币" type="462c0819:PsiDirectoryNode" />
+              <item name="寻找比目标字母大的最小字母" type="b2602c69:ProjectViewProjectNode" />
+              <item name="寻找比目标字母大的最小字母" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -89,8 +116,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -113,7 +138,7 @@
   <component name="RunManager" selected="Application.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="排列硬币" />
+      <module name="寻找比目标字母大的最小字母" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -123,7 +148,7 @@
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Solution" />
-      <module name="排列硬币" />
+      <module name="寻找比目标字母大的最小字母" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.*" />
@@ -149,35 +174,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="76c24146-78b4-49c1-9b95-033e9b190099" name="Default Changelist" comment="" />
-      <created>1610354016924</created>
+      <changelist id="050a7ba2-6797-45d3-ba87-ebea1091ee23" name="Default Changelist" comment="" />
+      <created>1610367974183</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610354016924</updated>
-      <workItem from="1610354019695" duration="1503000" />
+      <updated>1610367974183</updated>
+      <workItem from="1610367978862" duration="1135000" />
     </task>
-    <task id="LOCAL-00001" summary="排列硬币的题目需求与解法">
-      <created>1610355153737</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1610355153737</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1503000" />
+    <option name="totallyTimeSpent" value="1135000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="465" y="0" width="1200" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32661995" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -190,7 +208,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -210,18 +228,14 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="排列硬币的题目需求与解法" />
-    <option name="LAST_COMMIT_MESSAGE" value="排列硬币的题目需求与解法" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/Solution.java</url>
-          <line>16</line>
+          <line>15</line>
           <properties />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -236,11 +250,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="123">
+          <caret line="11" column="76" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
           <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
           </folding>
         </state>
       </provider>
