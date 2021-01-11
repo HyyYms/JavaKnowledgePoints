@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="050a7ba2-6797-45d3-ba87-ebea1091ee23" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="33a48613-f4d5-4bbd-a9c1-50279415d7b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/山脉数组的峰顶索引.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../寻找比目标字母大的最小字母/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../寻找比目标字母大的最小字母/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,11 +40,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="14" selection-start-line="14" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="224">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
               <folding>
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,10 +69,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="566" />
-    <option name="y" value="77" />
-    <option name="width" value="1500" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="541" />
+    <option name="y" value="217" />
+    <option name="width" value="1502" />
     <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -76,17 +87,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="寻找比目标字母大的最小字母" type="b2602c69:ProjectViewProjectNode" />
-              <item name="寻找比目标字母大的最小字母" type="462c0819:PsiDirectoryNode" />
+              <item name="山脉数组的峰顶索引" type="b2602c69:ProjectViewProjectNode" />
+              <item name="山脉数组的峰顶索引" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="寻找比目标字母大的最小字母" type="b2602c69:ProjectViewProjectNode" />
-              <item name="寻找比目标字母大的最小字母" type="462c0819:PsiDirectoryNode" />
+              <item name="山脉数组的峰顶索引" type="b2602c69:ProjectViewProjectNode" />
+              <item name="山脉数组的峰顶索引" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="寻找比目标字母大的最小字母" type="b2602c69:ProjectViewProjectNode" />
-              <item name="寻找比目标字母大的最小字母" type="462c0819:PsiDirectoryNode" />
+              <item name="山脉数组的峰顶索引" type="b2602c69:ProjectViewProjectNode" />
+              <item name="山脉数组的峰顶索引" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -116,7 +127,7 @@
   <component name="RunManager" selected="Application.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="寻找比目标字母大的最小字母" />
+      <module name="山脉数组的峰顶索引" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -126,7 +137,7 @@
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Solution" />
-      <module name="寻找比目标字母大的最小字母" />
+      <module name="山脉数组的峰顶索引" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.*" />
@@ -152,35 +163,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="050a7ba2-6797-45d3-ba87-ebea1091ee23" name="Default Changelist" comment="" />
-      <created>1610367974183</created>
+      <changelist id="33a48613-f4d5-4bbd-a9c1-50279415d7b4" name="Default Changelist" comment="" />
+      <created>1610369426897</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610367974183</updated>
-      <workItem from="1610367978862" duration="1440000" />
+      <updated>1610369426897</updated>
+      <workItem from="1610369429522" duration="554000" />
     </task>
-    <task id="LOCAL-00001" summary="寻找比目标字母大的最小字母的题目需求以及解法">
-      <created>1610369315999</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1610369315999</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1440000" />
+    <option name="totallyTimeSpent" value="554000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="453" y="62" width="1200" height="831" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32661995" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19101876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -193,7 +197,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40343347" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39518413" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -213,16 +217,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="寻找比目标字母大的最小字母的题目需求以及解法" />
-    <option name="LAST_COMMIT_MESSAGE" value="寻找比目标字母大的最小字母的题目需求以及解法" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/Solution.java</url>
-          <line>15</line>
+          <line>16</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -239,11 +239,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="14" selection-start-line="14" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="224">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
           <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
           </folding>
         </state>
       </provider>
