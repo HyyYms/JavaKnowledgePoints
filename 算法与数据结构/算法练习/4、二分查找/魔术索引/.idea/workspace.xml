@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a63a85c-67c2-49be-b5cf-7b486600f792" name="Default Changelist" comment="" />
+    <list default="true" id="404051ba-1221-427a-9340-7314f130454b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../15、动态规划/判断子序列/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15、动态规划/判断子序列/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15、动态规划/判断子序列/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15、动态规划/判断子序列/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15、动态规划/判断子序列/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15、动态规划/判断子序列/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15、动态规划/判断子序列/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15、动态规划/判断子序列/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15、动态规划/判断子序列/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15、动态规划/判断子序列/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15、动态规划/判断子序列/判断子序列.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/魔术索引.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../第一个错误的版本/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../第一个错误的版本/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +51,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="141">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding>
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,8 +83,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-83" />
-    <option name="width" value="1502" />
+    <option name="x" value="625" />
+    <option name="width" value="1505" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -63,23 +93,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="第一个错误的版本" type="b2602c69:ProjectViewProjectNode" />
-              <item name="第一个错误的版本" type="462c0819:PsiDirectoryNode" />
+              <item name="魔术索引" type="b2602c69:ProjectViewProjectNode" />
+              <item name="魔术索引" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="第一个错误的版本" type="b2602c69:ProjectViewProjectNode" />
-              <item name="第一个错误的版本" type="462c0819:PsiDirectoryNode" />
+              <item name="魔术索引" type="b2602c69:ProjectViewProjectNode" />
+              <item name="魔术索引" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="第一个错误的版本" type="b2602c69:ProjectViewProjectNode" />
-              <item name="第一个错误的版本" type="462c0819:PsiDirectoryNode" />
+              <item name="魔术索引" type="b2602c69:ProjectViewProjectNode" />
+              <item name="魔术索引" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -87,6 +116,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -106,10 +136,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="第一个错误的版本" />
+      <module name="魔术索引" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -117,51 +147,69 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Solution" />
+      <module name="魔术索引" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solution" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1a63a85c-67c2-49be-b5cf-7b486600f792" name="Default Changelist" comment="" />
-      <created>1610373640126</created>
+      <changelist id="404051ba-1221-427a-9340-7314f130454b" name="Default Changelist" comment="" />
+      <created>1610603853073</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610373640126</updated>
-      <workItem from="1610373642799" duration="797000" />
+      <updated>1610603853073</updated>
+      <workItem from="1610603857728" duration="1494000" />
     </task>
-    <task id="LOCAL-00001" summary="第一个错误的版本的题目需求以及解法">
-      <created>1610373982203</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1610373982203</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="797000" />
+    <option name="totallyTimeSpent" value="1494000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-66" y="0" width="1201" height="830" extended-state="0" />
+    <frame x="500" y="0" width="1204" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3263342" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2495637" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="JProfiler" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="MyBatis Log" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -181,9 +229,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="第一个错误的版本的题目需求以及解法" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一个错误的版本的题目需求以及解法" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Solution.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
@@ -195,8 +251,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="141">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
