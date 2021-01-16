@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cec178aa-a673-4929-8800-b1851395bd18" name="Default Changelist" comment="" />
+    <list default="true" id="cf71709b-982d-46ef-a164-45b472590d11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树的坡度.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/src/com/company/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/src/com/company/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/src/com/company/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/src/题目需求.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../另一个树的子树/另一个树的子树.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../将有序数组转换为二叉搜索树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../将有序数组转换为二叉搜索树/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,10 +57,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="475">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
-                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,14 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="26" />
-              <folding>
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="222">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -72,8 +97,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="593" />
-    <option name="width" value="1505" />
+    <option name="x" value="667" />
+    <option name="width" value="1148" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -82,21 +107,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="将有序数组转换为二叉搜索树" type="b2602c69:ProjectViewProjectNode" />
-              <item name="将有序数组转换为二叉搜索树" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树的坡度" type="b2602c69:ProjectViewProjectNode" />
+              <item name="二叉树的坡度" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="将有序数组转换为二叉搜索树" type="b2602c69:ProjectViewProjectNode" />
-              <item name="将有序数组转换为二叉搜索树" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树的坡度" type="b2602c69:ProjectViewProjectNode" />
+              <item name="二叉树的坡度" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="将有序数组转换为二叉搜索树" type="b2602c69:ProjectViewProjectNode" />
-              <item name="将有序数组转换为二叉搜索树" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树的坡度" type="b2602c69:ProjectViewProjectNode" />
+              <item name="二叉树的坡度" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -104,8 +131,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -128,7 +153,7 @@
   <component name="RunManager" selected="Application.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="将有序数组转换为二叉搜索树" />
+      <module name="二叉树的坡度" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -138,7 +163,7 @@
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Solution" />
-      <module name="将有序数组转换为二叉搜索树" />
+      <module name="二叉树的坡度" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.*" />
@@ -164,41 +189,32 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cec178aa-a673-4929-8800-b1851395bd18" name="Default Changelist" comment="" />
-      <created>1610613946375</created>
+      <changelist id="cf71709b-982d-46ef-a164-45b472590d11" name="Default Changelist" comment="" />
+      <created>1610782324145</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610613946375</updated>
-      <workItem from="1610613949142" duration="1453000" />
+      <updated>1610782324145</updated>
+      <workItem from="1610782328833" duration="1270000" />
     </task>
-    <task id="LOCAL-00001" summary="将有序数组转换为二叉搜索树的题目需求与解法">
-      <created>1610614966507</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1610614966507</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1453000" />
+    <option name="totallyTimeSpent" value="1270000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="475" y="0" width="1204" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="534" y="0" width="918" height="830" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18848167" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.3295129" />
       <window_info anchor="bottom" id="JProfiler" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -206,7 +222,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -226,22 +242,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="将有序数组转换为二叉搜索树的题目需求与解法" />
-    <option name="LAST_COMMIT_MESSAGE" value="将有序数组转换为二叉搜索树的题目需求与解法" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/Solution.java</url>
-          <line>15</line>
+          <line>21</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/Solution.java</url>
-          <line>22</line>
+          <line>29</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -258,24 +270,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
-            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="26" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="222">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
