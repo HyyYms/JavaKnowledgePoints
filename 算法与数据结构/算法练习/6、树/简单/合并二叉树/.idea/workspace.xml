@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e6ba6b1-f5c3-4835-8435-4e2e230b7308" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../翻转二叉树/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../翻转二叉树/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../翻转二叉树/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../翻转二叉树/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../翻转二叉树/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../翻转二叉树/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../翻转二叉树/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../翻转二叉树/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../翻转二叉树/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../翻转二叉树/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../翻转二叉树/src/com/company/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../翻转二叉树/翻转二叉树.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../二叉树的层序遍历 II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉树的层序遍历 II/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,8 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -84,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="531" />
     <option name="width" value="1305" />
     <option name="height" value="1038" />
@@ -125,6 +111,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,7 +175,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611301049122</updated>
       <workItem from="1611301052170" duration="1137000" />
-      <workItem from="1611302213624" duration="938000" />
+      <workItem from="1611302213624" duration="1615000" />
     </task>
     <task id="LOCAL-00001" summary="合并二叉树">
       <created>1611302163582</created>
@@ -196,11 +188,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2075000" />
+    <option name="totallyTimeSpent" value="2752000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="425" y="0" width="1044" height="830" extended-state="1" />
-    <editor active="true" />
+    <frame x="425" y="0" width="1044" height="830" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2545639" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
