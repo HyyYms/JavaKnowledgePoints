@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52c31229-3c18-4042-898b-e2130324f296" name="Default Changelist" comment="">
+    <list default="true" id="7c7a15c1-996f-4f61-8458-84531e18574f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/左叶子之和.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../二叉搜索树的最近公共祖先/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉搜索树的最近公共祖先/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单值二叉树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单值二叉树/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -34,8 +47,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="595">
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+              <folding>
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,7 +78,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="977" />
+    <option name="x" value="757" />
     <option name="width" value="1305" />
     <option name="height" value="1038" />
   </component>
@@ -71,21 +88,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="单值二叉树" type="b2602c69:ProjectViewProjectNode" />
-              <item name="单值二叉树" type="462c0819:PsiDirectoryNode" />
+              <item name="左叶子之和" type="b2602c69:ProjectViewProjectNode" />
+              <item name="左叶子之和" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="单值二叉树" type="b2602c69:ProjectViewProjectNode" />
-              <item name="单值二叉树" type="462c0819:PsiDirectoryNode" />
+              <item name="左叶子之和" type="b2602c69:ProjectViewProjectNode" />
+              <item name="左叶子之和" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="单值二叉树" type="b2602c69:ProjectViewProjectNode" />
-              <item name="单值二叉树" type="462c0819:PsiDirectoryNode" />
+              <item name="左叶子之和" type="b2602c69:ProjectViewProjectNode" />
+              <item name="左叶子之和" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -93,7 +111,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -122,7 +139,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="单值二叉树" />
+      <module name="左叶子之和" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -136,28 +153,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="52c31229-3c18-4042-898b-e2130324f296" name="Default Changelist" comment="" />
-      <created>1611307950543</created>
+      <changelist id="7c7a15c1-996f-4f61-8458-84531e18574f" name="Default Changelist" comment="" />
+      <created>1611308277333</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611307950543</updated>
-      <workItem from="1611307953683" duration="321000" />
+      <updated>1611308277333</updated>
+      <workItem from="1611308280591" duration="868000" />
     </task>
-    <task id="LOCAL-00001" summary="单值二叉树">
-      <created>1611308253162</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1611308253162</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="321000" />
+    <option name="totallyTimeSpent" value="868000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="782" y="0" width="1044" height="830" extended-state="0" />
+    <frame x="606" y="0" width="1044" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -194,15 +204,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="单值二叉树" />
-    <option name="LAST_COMMIT_MESSAGE" value="单值二叉树" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -211,8 +217,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="595">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding>
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
