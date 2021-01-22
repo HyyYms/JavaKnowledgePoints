@@ -2,22 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="865860b6-b023-47db-a49c-32b8437bf433" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/N叉树的前序遍历/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/N叉树的前序遍历/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/N叉树的前序遍历/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/N叉树的前序遍历/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/N叉树的前序遍历/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/N叉树的前序遍历/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/N叉树的前序遍历/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/N叉树的前序遍历/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/N叉树的前序遍历/N叉树的前序遍历.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/N叉树的前序遍历/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/N叉树的前序遍历/src/com/company/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/N叉树的前序遍历/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/二叉树的坡度/src/com/company/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/二叉树的坡度/src/com/company/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法练习/6、树/简单/二叉树的坡度/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/二叉树的坡度/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../算法练习/6、树/简单/二叉树的坡度/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/二叉树的坡度/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/递增顺序查找树/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/递增顺序查找树/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/递增顺序查找树/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/递增顺序查找树/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/递增顺序查找树/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/递增顺序查找树/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/递增顺序查找树/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/递增顺序查找树/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/递增顺序查找树/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/递增顺序查找树/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/递增顺序查找树/src/com/company/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/递增顺序查找树/递增顺序查找树.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../算法练习/6、树/简单/N叉树的前序遍历/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../算法练习/6、树/简单/N叉树的前序遍历/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -186,7 +184,7 @@
       <workItem from="1604406896416" duration="1794000" />
       <workItem from="1606443920368" duration="730000" />
       <workItem from="1607244890534" duration="13000" />
-      <workItem from="1611295752587" duration="397000" />
+      <workItem from="1611295752587" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="树的前序遍历以及题目需求">
       <created>1604230271913</created>
@@ -206,7 +204,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3965000" />
+    <option name="totallyTimeSpent" value="4174000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="252" y="0" width="1023" height="838" extended-state="1" />
