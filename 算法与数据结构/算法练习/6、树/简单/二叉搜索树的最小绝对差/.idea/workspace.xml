@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59a955b3-20ae-4c3a-8414-f0c307a11d20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/src/com/company/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/二叉搜索树的最小绝对差.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8c5c01fe-92b4-41a3-ae75-3dbded28d5a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉搜索树的最小绝对差.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉搜索树的最近公共祖先/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉搜索树的最近公共祖先/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../相同的树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../相同的树/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,18 +39,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="25" />
+            <state relative-caret-position="445">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -73,9 +73,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="570" />
-    <option name="width" value="1304" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="850" />
+    <option name="width" value="1305" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -84,22 +84,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="二叉搜索树的最近公共祖先" type="b2602c69:ProjectViewProjectNode" />
-              <item name="二叉搜索树的最近公共祖先" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉搜索树的最小绝对差" type="b2602c69:ProjectViewProjectNode" />
+              <item name="二叉搜索树的最小绝对差" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="二叉搜索树的最近公共祖先" type="b2602c69:ProjectViewProjectNode" />
-              <item name="二叉搜索树的最近公共祖先" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉搜索树的最小绝对差" type="b2602c69:ProjectViewProjectNode" />
+              <item name="二叉搜索树的最小绝对差" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="二叉搜索树的最近公共祖先" type="b2602c69:ProjectViewProjectNode" />
-              <item name="二叉搜索树的最近公共祖先" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉搜索树的最小绝对差" type="b2602c69:ProjectViewProjectNode" />
+              <item name="二叉搜索树的最小绝对差" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -108,18 +107,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -141,7 +135,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="二叉搜索树的最近公共祖先" />
+      <module name="二叉搜索树的最小绝对差" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -155,28 +149,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="59a955b3-20ae-4c3a-8414-f0c307a11d20" name="Default Changelist" comment="" />
-      <created>1611303371998</created>
+      <changelist id="8c5c01fe-92b4-41a3-ae75-3dbded28d5a2" name="Default Changelist" comment="" />
+      <created>1611306874784</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611303371998</updated>
-      <workItem from="1611303374581" duration="2017000" />
+      <updated>1611306874784</updated>
+      <workItem from="1611306877301" duration="836000" />
     </task>
-    <task id="LOCAL-00001" summary="二叉搜索树的最近公共祖先">
-      <created>1611303582427</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1611303582427</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2017000" />
+    <option name="totallyTimeSpent" value="836000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="456" y="0" width="1043" height="830" extended-state="1" />
+    <frame x="680" y="0" width="1044" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -184,7 +170,7 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24974619" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494929" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -214,10 +200,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="二叉搜索树的最近公共祖先" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉搜索树的最近公共祖先" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -231,8 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="445">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
         </state>
       </provider>
     </entry>
