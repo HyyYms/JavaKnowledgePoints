@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="391e06d7-3e9e-42d6-a328-d5e099d88199" name="Default Changelist" comment="" />
+    <list default="true" id="33e7fd69-4ad8-48a1-8982-db0e7b5c1253" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/翻转二叉树.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉树的层序遍历 II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉树的层序遍历 II/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../合并二叉树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../合并二叉树/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,17 +41,18 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" selection-start-line="10" selection-end-line="11" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="450">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -73,22 +89,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="二叉树的层序遍历 II" type="b2602c69:ProjectViewProjectNode" />
-              <item name="二叉树的层序遍历 II" type="462c0819:PsiDirectoryNode" />
+              <item name="翻转二叉树" type="b2602c69:ProjectViewProjectNode" />
+              <item name="翻转二叉树" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="二叉树的层序遍历 II" type="b2602c69:ProjectViewProjectNode" />
-              <item name="二叉树的层序遍历 II" type="462c0819:PsiDirectoryNode" />
+              <item name="翻转二叉树" type="b2602c69:ProjectViewProjectNode" />
+              <item name="翻转二叉树" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="二叉树的层序遍历 II" type="b2602c69:ProjectViewProjectNode" />
-              <item name="二叉树的层序遍历 II" type="462c0819:PsiDirectoryNode" />
+              <item name="翻转二叉树" type="b2602c69:ProjectViewProjectNode" />
+              <item name="翻转二叉树" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -96,7 +113,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,7 +140,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="二叉树的层序遍历 II" />
+      <module name="翻转二叉树" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -138,28 +154,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="391e06d7-3e9e-42d6-a328-d5e099d88199" name="Default Changelist" comment="" />
-      <created>1611302192747</created>
+      <changelist id="33e7fd69-4ad8-48a1-8982-db0e7b5c1253" name="Default Changelist" comment="" />
+      <created>1611302962049</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611302192747</updated>
-      <workItem from="1611302195018" duration="766000" />
+      <updated>1611302962049</updated>
+      <workItem from="1611302965110" duration="244000" />
     </task>
-    <task id="LOCAL-00001" summary="二叉树的层序遍历 II">
-      <created>1611302514951</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1611302514951</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="766000" />
+    <option name="totallyTimeSpent" value="244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="486" y="2" width="1043" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -196,10 +205,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="二叉树的层序遍历 II" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉树的层序遍历 II" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -209,15 +214,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="450">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
