@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59a955b3-20ae-4c3a-8414-f0c307a11d20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/src/com/company/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/src/com/company/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/二叉搜索树的最小绝对差.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../相同的树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../相同的树/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../单值二叉树/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../单值二叉树/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../单值二叉树/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../单值二叉树/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../单值二叉树/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../单值二叉树/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../单值二叉树/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../单值二叉树/单值二叉树.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -177,7 +172,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="456" y="0" width="1043" height="830" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />

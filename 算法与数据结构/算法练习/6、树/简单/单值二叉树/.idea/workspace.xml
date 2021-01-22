@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c5c01fe-92b4-41a3-ae75-3dbded28d5a2" name="Default Changelist" comment="" />
+    <list default="true" id="52c31229-3c18-4042-898b-e2130324f296" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单值二叉树.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉搜索树的最小绝对差/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉搜索树的最近公共祖先/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉搜索树的最近公共祖先/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,17 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="100">
+              <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -36,6 +42,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="18" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -59,7 +74,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="850" />
+    <option name="x" value="977" />
     <option name="width" value="1305" />
     <option name="height" value="1038" />
   </component>
@@ -73,17 +88,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="二叉搜索树的最小绝对差" type="b2602c69:ProjectViewProjectNode" />
-              <item name="二叉搜索树的最小绝对差" type="462c0819:PsiDirectoryNode" />
+              <item name="单值二叉树" type="b2602c69:ProjectViewProjectNode" />
+              <item name="单值二叉树" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="二叉搜索树的最小绝对差" type="b2602c69:ProjectViewProjectNode" />
-              <item name="二叉搜索树的最小绝对差" type="462c0819:PsiDirectoryNode" />
+              <item name="单值二叉树" type="b2602c69:ProjectViewProjectNode" />
+              <item name="单值二叉树" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="二叉搜索树的最小绝对差" type="b2602c69:ProjectViewProjectNode" />
-              <item name="二叉搜索树的最小绝对差" type="462c0819:PsiDirectoryNode" />
+              <item name="单值二叉树" type="b2602c69:ProjectViewProjectNode" />
+              <item name="单值二叉树" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -120,7 +135,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="二叉搜索树的最小绝对差" />
+      <module name="单值二叉树" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -134,28 +149,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8c5c01fe-92b4-41a3-ae75-3dbded28d5a2" name="Default Changelist" comment="" />
-      <created>1611306874784</created>
+      <changelist id="52c31229-3c18-4042-898b-e2130324f296" name="Default Changelist" comment="" />
+      <created>1611307950543</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611306874784</updated>
-      <workItem from="1611306877301" duration="1069000" />
+      <updated>1611307950543</updated>
+      <workItem from="1611307953683" duration="289000" />
     </task>
-    <task id="LOCAL-00001" summary="二叉搜索树的最小绝对差">
-      <created>1611307940314</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1611307940314</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1069000" />
+    <option name="totallyTimeSpent" value="289000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="680" y="0" width="1044" height="830" extended-state="0" />
+    <frame x="782" y="0" width="1044" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -192,15 +200,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="二叉搜索树的最小绝对差" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉搜索树的最小绝对差" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="100">
+          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -210,7 +214,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="24" />
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
