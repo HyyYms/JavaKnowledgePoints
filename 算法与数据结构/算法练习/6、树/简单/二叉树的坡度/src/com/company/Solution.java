@@ -1,6 +1,8 @@
 package com.company;
 
 
+import java.util.HashMap;
+
 /**
  * @program: 二叉树的坡度
  * @description:
@@ -14,6 +16,8 @@ public class Solution {
         root.left = new TreeNode(2);
         root.right = new TreeNode(3);
         new Solution().findTilt(root);
+        HashMap<Integer, Integer> map = new HashMap<>();
+        map.put(null, 1);
     }
 
     int res = 0;
