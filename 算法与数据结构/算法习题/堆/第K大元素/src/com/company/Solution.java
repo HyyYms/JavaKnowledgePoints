@@ -1,6 +1,8 @@
 package com.company;
 
+import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.LinkedList;
 import java.util.PriorityQueue;
 
 /**
@@ -15,6 +17,10 @@ public class Solution {
         new Solution().findKthLargestQuickSort(new int[]{
                 3, 2, 1, 5, 6, 4
         }, 3);
+
+        new Solution().GetLeastNumbers_Solution(new int[]{
+                4, 5, 1, 6, 2, 7, 3, 8
+        }, 4);
     }
 
     public int findKthLargestQuickSort(int[] nums, int k) {
@@ -94,7 +100,12 @@ public class Solution {
         if (nums == null || nums.length == 0 || k < 1 || k > nums.length) {
             return -1;
         }
-        PriorityQueue<Integer> heap = new PriorityQueue<>();
+        PriorityQueue<Integer> heap = new PriorityQueue<>(new Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
+                return o2 - o1;
+            }
+        });
 
         for (int num : nums) {
             heap.add(num);
@@ -103,5 +114,25 @@ public class Solution {
             }
         }
         return heap.peek();
+    }
+
+    public ArrayList<Integer> GetLeastNumbers_Solution(int[] input, int k) {
+        PriorityQueue<Integer> queue = new PriorityQueue<>(new Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
+                return o2 - o1;
+            }
+        });
+        for (int i = 0; i < input.length; i++) {
+            queue.add(input[i]);
+            if (queue.size() > k) {
+                queue.poll();
+            }
+        }
+        LinkedList<Integer> stack = new LinkedList<>();
+        while (!queue.isEmpty()) {
+            stack.push(queue.poll());
+        }
+        return new ArrayList<>(stack);
     }
 }

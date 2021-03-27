@@ -2,7 +2,9 @@ package com.company;
 
 import sun.misc.Cache;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 
 /**
  * @program: LRU缓存机制
@@ -11,6 +13,37 @@ import java.util.HashMap;
  * @create: 2020-10-26 21:03
  **/
 public class LRUCache {
+
+    public static void main(String[] args) {
+        new LRUCache(3).LRU(new int[][]{
+                {1, 1, 1},
+                {1, 2, 2},
+                {1, 3, 2},
+                {2, 1},
+                {1, 4, 4},
+                {2, 2}
+        }, 3);
+    }
+
+    public int[] LRU(int[][] operators, int k) {
+        capacity = k;
+        head.next = tail;
+        tail.prev = head;
+
+        List<Integer> list = new ArrayList<>();
+        for (int i = 0; i < operators.length; i++) {
+            if (operators[i][0] == 1) {
+                put(operators[i][1], operators[i][2]);
+            } else {
+                list.add(get(operators[i][1]));
+            }
+        }
+        int[] res = new int[list.size()];
+        for (int i = 0; i < list.size(); i++) {
+            res[i] = list.get(i);
+        }
+        return res;
+    }
 
     private class CacheNode {
         private CacheNode prev;
